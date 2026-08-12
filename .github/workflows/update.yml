@@ -35,7 +35,7 @@ jobs:
         working-directory: upstream-epg
         run: |
           npm ci
-          npm run grab -- --channels=../epg.channels.xml --output=../guide.new.xml --days=3 --maxConnections=4
+          NODE_OPTIONS=--max-old-space-size=6144 npm run grab -- --channels=../epg.channels.xml --output=../guide.new.xml --days=1 --maxConnections=1
       - name: Keep a valid guide and publish changes
         run: |
           if grep -q '<programme ' guide.new.xml; then mv guide.new.xml guide.xml; fi
