@@ -1,1 +1,45 @@
+name: Refresh playlist and EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/iptv
+          path: upstream-iptv
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: upstream-epg
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: upstream-epg/package-lock.json
+      - name: Build playlist and select exact EPG IDs
+        run: |
+          curl --fail --retry 3 -o channels.json https://iptv-org.github.io/api/channels.json
+          python3 build.py --local-iptv upstream-iptv --local-channels channels.json --epg-sites upstream-epg/sites
+      - name: Build three-day XMLTV guide
+        working-directory: upstream-epg
+        run: |
+          npm ci
+          npm run grab -- --channels=../epg.channels.xml --output=../guide.new.xml --days=3 --maxConnections=4
+      - name: Keep a valid guide and publish changes
+        run: |
+          if grep -q '<programme ' guide.new.xml; then mv guide.new.xml guide.xml; fi
+          git add playlist.m3u guide.xml epg.channels.xml
+          git diff --cached --quiet || git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh playlist and EPG'
+          git push
 
