@@ -6023,8 +6023,6 @@ http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 http://181.119.93.83:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" group-title="🇺🇸 United States",Comedy Central Latin America (1080p)
 http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="ComedyTV.us" group-title="🇺🇸 United States",Comedy TV (720p)
-https://gpuserver3.tier1streams.com/COMEDY_TV/index.m3u8
 #EXTINF:-1 tvg-id="ComercioTV.us" group-title="🇺🇸 United States",Comercio TV (1080p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16960
 #EXTINF:-1 tvg-id="ComercioTV.us" group-title="🇺🇸 United States",Comercio TV (720p)
@@ -6659,8 +6657,6 @@ http://cdn.haititivi.com/MSNBC/index.m3u8
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 #EXTINF:-1 tvg-id="MSG.us" group-title="🇺🇸 United States",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 tvg-id="MSGPlus.us" group-title="🇺🇸 United States",MSG Plus (720p)
-https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (720p)
 http://40.160.24.53/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (720p)
@@ -6753,8 +6749,6 @@ http://stream.cammonitorplus.net/1800/index.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" group-title="🇺🇸 United States",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="NESN.us" group-title="🇺🇸 United States",NESN (720p)
-https://gpuserver3.tier1streams.com/NESN/index.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" group-title="🇺🇸 United States",NEW K-POP (1080p)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="News12PlusConnecticut.us" group-title="🇺🇸 United States",News12+ Connecticut (1080p) [Geo-blocked]
@@ -6965,8 +6959,6 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
 https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us" group-title="🇺🇸 United States",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
-#EXTINF:-1 tvg-id="RacerNetwork.us" group-title="🇺🇸 United States",Racer Network (720p)
-https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us" group-title="🇺🇸 United States",Racer Select (1080p)
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us" group-title="🇺🇸 United States",Radio Javan TV (1080p)
@@ -7241,8 +7233,6 @@ https://rezofoot.tv/Tennis/index.m3u8
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8
 #EXTINF:-1 tvg-id="TheCountryNetwork.us" group-title="🇺🇸 United States",The Country Network (1080p)
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TheCowboyChannel.us" group-title="🇺🇸 United States",The Cowboy Channel (1080p)
-https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TheCyclingChannel.at" group-title="🇺🇸 United States",The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us" group-title="🇺🇸 United States",The First TV (1080p)
@@ -7593,6 +7583,18 @@ https://yta.unitedteleports.tv/hls/YTA.m3u8
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us" group-title="🇺🇸 United States",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+#EXTINF:-1 tvg-id="CleoTV.us" group-title="🇺🇸 United States",Cleo TV (720p)
+http://40.160.24.56/Cleo_TV_SD/index.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us" group-title="🇺🇸 United States",The Cowboy Channel (720p)
+http://40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" group-title="🇺🇸 United States",C-SPAN (720p)
+http://40.160.24.56/C-SPAN_HD_SD/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us" group-title="🇺🇸 United States",C-SPAN 2 (720p)
+http://40.160.24.56/C-SPAN_2_SD/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West (720p)
+https://streamer.metronethn.com/Telemundo/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="🇺🇸 United States",FX Latin America South (720p)
+https://streamer.metronethn.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)

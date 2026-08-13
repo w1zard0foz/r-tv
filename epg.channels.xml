@@ -1280,6 +1280,7 @@
 <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us">PBS HD</channel>
 <channel site="tvguide.com" site_id="9233005468" lang="en" xmltv_id="TVLand.us">TV Land</channel>
 <channel site="tvguide.com" site_id="9233005931" lang="en" xmltv_id="BET.us">BET</channel>
+<channel site="tvguide.com" site_id="9233007144" lang="en" xmltv_id="CSPAN.us">C-SPAN</channel>
 <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us">Nick Jr.</channel>
 <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us">History</channel>
 <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us">FOX Sports 1</channel>
@@ -1349,7 +1350,6 @@
 <channel site="tvpassport.com" site_id="laff--network-hd/20170" lang="en" xmltv_id="Laff.us">Laff - Network HD</channel>
 <channel site="tvpassport.com" site_id="ontario-legislature/417" lang="en" xmltv_id="LegislativeAssemblyofOntario.ca">Ontario Legislature</channel>
 <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="MSG.us">MSG (Madison Square Gardens) HD</channel>
-<channel site="tvpassport.com" site_id="msg-plus/1088" lang="en" xmltv_id="MSGPlus.us">MSG Plus</channel>
 <channel site="tvpassport.com" site_id="one-america-news-network/12614" lang="en" xmltv_id="OneAmericaNewsNetwork.us">One America News Network</channel>
 <channel site="tvpassport.com" site_id="pbs-kids-247/31867" lang="en" xmltv_id="PBSKids.us">PBS KIDS 24/7</channel>
 <channel site="tvpassport.com" site_id="positiv/4456" lang="en" xmltv_id="PositivTV.us">PosiTiV</channel>
@@ -1402,7 +1402,7 @@
 <channel site="tvpassport.com" site_id="cbs-wwmt-kalamazoo-mi-hd/6733" lang="en" xmltv_id="WWMT31.us">CBS (WWMT) Kalamazoo, MI HD</channel>
 <channel site="tvpassport.com" site_id="fox-wxxv-gulfport-ms-hd/6498" lang="en" xmltv_id="WXXVTV251.us">FOX (WXXV) Gulfport, MS HD</channel>
 <channel site="tvpassport.com" site_id="yes-network/1953" lang="en" xmltv_id="YesNetwork.us">YES Network</channel>
-<channel site="tvtv.us" site_id="10996" lang="en" xmltv_id="NESN.us">NESN</channel>
+<channel site="tvtv.us" site_id="10162" lang="en" xmltv_id="CSPAN2.us">C-SPAN2</channel>
 <channel site="tvtv.us" site_id="10999" lang="en" xmltv_id="News12LongIsland.us">News12 Long Island</channel>
 <channel site="tvtv.us" site_id="11066" lang="en" xmltv_id="INSP.us">INSP</channel>
 <channel site="tvtv.us" site_id="11253" lang="en" xmltv_id="NTDTV.us">NTD TV</channel>
@@ -1449,7 +1449,6 @@
 <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us">JBS</channel>
 <channel site="tvtv.us" site_id="76126" lang="en" xmltv_id="Aspire.us">Aspire TV</channel>
 <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us">MLB Strike Zone</channel>
-<channel site="tvtv.us" site_id="80740" lang="en" xmltv_id="ComedyTV.us">Comedy.TV</channel>
 <channel site="tvtv.us" site_id="81295" lang="en" xmltv_id="WFXT662.us">Court TV Mystery (WFXT-DT2) Boston MI</channel>
 <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us">Smart LifeStyle TV</channel>
 <channel site="tvtv.us" site_id="91496" lang="en" xmltv_id="TrueCrimeNetwork.us">True Crime Network</channel>
@@ -1461,6 +1460,7 @@
 <channel site="tvtv.us" site_id="101364" lang="en" xmltv_id="PBSKidsEasternCentral.us">PBS Kids East (National Feed)</channel>
 <channel site="tvtv.us" site_id="108970" lang="en" xmltv_id="VSiN.us">VSiN</channel>
 <channel site="tvtv.us" site_id="109454" lang="en" xmltv_id="StartTV.us">Start TV</channel>
+<channel site="tvtv.us" site_id="110288" lang="en" xmltv_id="CleoTV.us">Cleo TV</channel>
 <channel site="tvtv.us" site_id="110479" lang="en" xmltv_id="Docurama.us">Docurama</channel>
 <channel site="tvtv.us" site_id="111132" lang="en" xmltv_id="ShoutFactoryTV.us">Shout Factory TV</channel>
 <channel site="tvtv.us" site_id="112157" lang="en" xmltv_id="Dabl.us">Dabl</channel>
