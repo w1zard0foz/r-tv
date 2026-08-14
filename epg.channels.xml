@@ -80,6 +80,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90350" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_vosgestv%2F20250515_155309%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="VosgesTV.fr">VOSGES TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="1129" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_news_24%2F20241112_171532%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiNews24.it">RAI NEWS 24</channel>
 <channel site="chaines-tv.orange.fr" site_id="90459" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tgcom24%2F20250227_160923%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TGCom24.it">TGCOM24</channel>
+<channel site="content.astro.com.my" site_id="144" lang="en" xmltv_id="HistoryAsia.us">History HD</channel>
 <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn">CGTN HD</channel>
 <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us">Lifetime HD</channel>
 <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk">BBC Earth</channel>
@@ -980,7 +981,6 @@
 <channel site="m.tv.sms.cz" site_id="ZDFinfo" lang="de" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFneo" lang="de" xmltv_id="ZDFneo.de">ZDFneo</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
-<channel site="melita.com" site_id="3e2db904-efad-4904-ab64-7d1ddabb251f" lang="en" xmltv_id="DisneyChannelEMEA.uk">Disney Channel</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
 <channel site="meo.pt" site_id="DOGTVHD" lang="pt" xmltv_id="DogTV.us">Dog TV</channel>
 <channel site="meo.pt" site_id="MCMTHD" lang="pt" xmltv_id="MCMTop.fr">MCM Top</channel>
