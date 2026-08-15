@@ -6089,7 +6089,7 @@ http://177.234.249.178:8888/PARAMOUNT/index.m3u8
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel (720p) [Geo-blocked]
 http://212.5.144.156/disney/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel (720p)
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="🇺🇸 United States",Disney Channel Latin America (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="🇺🇸 United States",Disney Jr. Latin America (1080p)
 http://190.14.10.19:16000/play/a02d/index.m3u8
@@ -7579,6 +7579,12 @@ https://streamer.metronethn.com/AE/index.m3u8
 https://streamer.metronethn.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" group-title="🇺🇸 United States",Lifetime Latin America (720p)
 https://streamer.metronethn.com/Lifetime/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West (2160p)
+http://168.228.44.241:9997/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="WLTVDT231.us" group-title="🇺🇸 United States",WLTV-DT 23.1 (720p)
+http://168.228.44.241:9997/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" group-title="🇺🇸 United States",BabyFirst Spanish (720p)
+http://168.228.44.241:9997/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
