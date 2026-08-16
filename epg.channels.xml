@@ -33,7 +33,6 @@
 <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr">LCI</channel>
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
-<channel site="canalplus.com" site_id="#560" lang="fr" xmltv_id="Mezzo.fr">MEZZO</channel>
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
 <channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
@@ -1220,9 +1219,11 @@
 <channel site="telkussa.fi" site_id="123" lang="fi" xmltv_id="STARChannel.fi">Star Channel</channel>
 <channel site="telsu.fi" site_id="eveo" lang="fi" xmltv_id="Eveo.fi">Eveo</channel>
 <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en" xmltv_id="ToonamiAftermath.us">Toonami Aftermath East</channel>
+<channel site="tv.blue.ch" site_id="85" lang="en" xmltv_id="BBCThreeCBBC.uk">BBC Three / CBBC</channel>
 <channel site="tv.blue.ch" site_id="253" lang="fr" xmltv_id="MaxTV.ch">Max TV</channel>
 <channel site="tv.blue.ch" site_id="593" lang="it" xmltv_id="Telenova.it">Telenova</channel>
 <channel site="tv.blue.ch" site_id="1031" lang="de" xmltv_id="ZeeOne.uk">Zee One</channel>
+<channel site="tv.blue.ch" site_id="1082" lang="fr" xmltv_id="Carac4.ch">CARAC 4</channel>
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
