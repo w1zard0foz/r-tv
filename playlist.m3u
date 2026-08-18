@@ -6175,8 +6175,6 @@ http://104.143.4.5:2080/funroads.m3u8
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.us" group-title="🇺🇸 United States",FX (1080p)
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" group-title="🇺🇸 United States",FX (720p)
-http://40.160.24.56/FX_SD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="🇺🇸 United States",FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="🇺🇸 United States",FX Latin America (1080p)
@@ -6695,8 +6693,6 @@ http://40.160.24.53/NEWSMAX/index.m3u8
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us" group-title="🇺🇸 United States",NewsNation (720p)
 http://40.160.24.58/NEWSNATION/index.m3u8
-#EXTINF:-1 tvg-id="NewsNet.us" group-title="🇺🇸 United States",NewsNet (720p) [Not 24/7]
-https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsy.us" group-title="🇺🇸 United States",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us" group-title="🇺🇸 United States",NFL Network (720p)
@@ -7469,7 +7465,7 @@ https://yta.unitedteleports.tv/hls/YTA.m3u8
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us" group-title="🇺🇸 United States",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West (720p)
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West HD (720p)
 https://streamer.metronethn.com/Telemundo/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="🇺🇸 United States",FX Latin America South (720p)
 https://streamer.metronethn.com/FX/index.m3u8
@@ -7513,6 +7509,14 @@ http://tvsen7.aynascope.net/nickjr/index.m3u8
 http://tvsen7.aynascope.net/nicktoons/index.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" group-title="🇺🇸 United States",Kartoon Channel! (1080p)
 https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" group-title="🇺🇸 United States",Fubo Sports Network (720p)
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" group-title="🇺🇸 United States",ACC Network (720p)
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West (720p)
+http://190.124.20.69/Telemundo/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" group-title="🇺🇸 United States",BabyFirst (480p)
+http://181.78.106.127:5000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -10433,7 +10437,7 @@ https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us" group-title="🇺🇸 United States",Electric Now (720p)
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Elevation Church (1080p)
+#EXTINF:-1 tvg-id="ElevationChurchNetwork.us" group-title="🇺🇸 United States",Elevation Church (1080p)
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Equus TV (1080p)
 https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8
@@ -10457,7 +10461,7 @@ https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.
 https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HumorMill.us" group-title="🇺🇸 United States",Humor Mill TV (1080p)
 https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",In Touch+ (1080p)
+#EXTINF:-1 tvg-id="InTouchPlus.us" group-title="🇺🇸 United States",In Touch+ (1080p) [Geo-blocked]
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" group-title="🇺🇸 United States",INTRAVEL (1080p)
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8

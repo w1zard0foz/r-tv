@@ -1034,6 +1034,7 @@
 <channel site="ontvtonight.com" site_id="ca#69042493/cbkft-ici-radio-canada-regina" lang="fr" xmltv_id="CBKFTDT.ca">CBKFT ICI Radio-Canada (Regina)</channel>
 <channel site="ontvtonight.com" site_id="ca#69042503/cbxft-ici-radio-canada-edmonton" lang="fr" xmltv_id="CBXFTDT.ca">CBXFT ICI Radio-Canada (Edmonton)</channel>
 <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us">ABC</channel>
+<channel site="ontvtonight.com" site_id="us#7224220194/acc-network" lang="en" xmltv_id="ACCNetwork.us">ACC Network</channel>
 <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us">AMC (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69044423/bbc-america-east" lang="en" xmltv_id="BBCAmerica.us">BBC America (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us">Big Ten Network (National)</channel>
@@ -1442,7 +1443,6 @@
 <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us">Smart LifeStyle TV</channel>
 <channel site="tvtv.us" site_id="91496" lang="en" xmltv_id="TrueCrimeNetwork.us">True Crime Network</channel>
 <channel site="tvtv.us" site_id="92053" lang="en" xmltv_id="AXSTV.us">AXS TV</channel>
-<channel site="tvtv.us" site_id="92205" lang="en" xmltv_id="NewsNet.us">Newsnet</channel>
 <channel site="tvtv.us" site_id="96827" lang="en" xmltv_id="Newsy.us">Newsy</channel>
 <channel site="tvtv.us" site_id="99581" lang="en" xmltv_id="WHPSCD152.us">WHPR TV Detroit Live (WHPS-CD2) Highland Park, MI</channel>
 <channel site="tvtv.us" site_id="101260" lang="en" xmltv_id="QVC3.us">QVC3</channel>
