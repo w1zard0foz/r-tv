@@ -1146,11 +1146,13 @@
 <channel site="sky.com" site_id="GB#3111" lang="en" xmltv_id="EmanChannel.uk">Eman Channel</channel>
 <channel site="sky.com" site_id="GB#4404" lang="en" xmltv_id="FaithWorldTV.uk">Faith World TV</channel>
 <channel site="sky.com" site_id="GB#4461" lang="en" xmltv_id="IonTV.uk">iON TV</channel>
+<channel site="sky.com" site_id="GB#3914" lang="en" xmltv_id="IqraBangla.uk">IQRA Bangla</channel>
 <channel site="sky.com" site_id="GB#3214" lang="en" xmltv_id="IslamChannel.uk">Islam Channel</channel>
 <channel site="sky.com" site_id="GB#3753" lang="en" xmltv_id="KanshiTV.uk">Kanshi TV</channel>
 <channel site="sky.com" site_id="GB#1228" lang="en" xmltv_id="LoveWorldUK.ng">LoveWorld HD</channel>
 <channel site="sky.com" site_id="GB#3202" lang="en" xmltv_id="MTA1World.uk">MTA1 World HD</channel>
 <channel site="sky.com" site_id="GB#3715" lang="en" xmltv_id="NoorTV.uk">Noor TV</channel>
+<channel site="sky.com" site_id="GB#3355" lang="en" xmltv_id="SangatTV.uk">Sangat</channel>
 <channel site="sky.com" site_id="GB#4054" lang="en" xmltv_id="SkyNews.ie">Sky News HD</channel>
 <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk">Takbeer TV</channel>
 <channel site="sky.com" site_id="GB#5426" lang="en" xmltv_id="TVOne.uk">TV One</channel>
@@ -1260,6 +1262,7 @@
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
 <channel site="tvguide.com" site_id="9200018644" lang="en" xmltv_id="FXX.us">FXX</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
+<channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us">Lifetime</channel>
 <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
 <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
 <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us">USA</channel>

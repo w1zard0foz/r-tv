@@ -1115,6 +1115,8 @@ https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoTVAmor.ch" group-title="🇨🇭 Switzerland",Wedo TV Amor (1080p)
 https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVIslam.ch" group-title="🇨🇭 Switzerland",RTV Islam (720p)
+http://5.254.89.106/8714/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" group-title="🇨🇭 Switzerland",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="123tv.de" group-title="🇩🇪 Germany",1-2-3 TV (270p)
@@ -1559,6 +1561,10 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de" group-title="🇩🇪 Germany",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="🇩🇪 Germany",DW English (576p)
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="🇩🇪 Germany",DW English (576p)
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -2515,6 +2521,8 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-shor
 https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" group-title="🇫🇷 France",zenith (1080p)
 https://live.azenagroup.com/zenith/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (576p)
+https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -3897,6 +3905,8 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" group-title="🇯🇵 Japan",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="🇯🇵 Japan",NHK World-Japan (576p)
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.nz" group-title="🇳🇿 New Zealand",Bravo +1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="Channel200.nz" group-title="🇳🇿 New Zealand",Channel 200 (540p)
@@ -4393,6 +4403,16 @@ http://188.138.29.131/skysportsf1/index.m3u8
 http://188.138.29.131/skymix/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧 United Kingdom",Sky Sports Golf HD (720p)
 http://188.138.29.131/skygolf/index.m3u8
+#EXTINF:-1 tvg-id="AlbUKTV.uk" group-title="🇬🇧 United Kingdom",Alb UK TV (1080p)
+http://5.254.89.106/8794/index.m3u8
+#EXTINF:-1 tvg-id="SangatTV.uk" group-title="🇬🇧 United Kingdom",Sangat TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News North America (576p)
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+#EXTINF:-1 tvg-id="IqraBangla.uk" group-title="🇬🇧 United Kingdom",Iqra Bangla (576p)
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk" group-title="🇬🇧 United Kingdom",Nickelodeon +1 (720p)
+https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7367,6 +7387,46 @@ http://168.228.44.241:9998/play/a0e1/index.m3u8
 https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
 #EXTINF:-1 tvg-id="STomSings.us" group-title="🇺🇸 United States",S Tom Sings (1080p)
 https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8
+#EXTINF:-1 tvg-id="MoreMax.us" group-title="🇺🇸 United States",MoreMax East HD (720p)
+https://sra72yz.s.gy/MORE_MAX_EAST_HD.m3u8
+#EXTINF:-1 tvg-id="TheDoctors.us" group-title="🇺🇸 United States",The Doctors (720p)
+https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Doctors/index.m3u8
+#EXTINF:-1 tvg-id="WGGSTV161.us" group-title="🇺🇸 United States",WGGS-TV 16.1
+https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
+#EXTINF:-1 tvg-id="KMCTTV391.us" group-title="🇺🇸 United States",KMCT-TV 39.1
+https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us" group-title="🇺🇸 United States",Fun Roads (720p)
+https://www.funroads-hls1.com/funroads.m3u8
+#EXTINF:-1 tvg-id="AlbanianTVAmerica.us" group-title="🇺🇸 United States",Albanian TV America (1080p)
+http://5.254.89.106/8711/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" group-title="🇺🇸 United States",USA Network (576p)
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1 tvg-id="ShopLC.us" group-title="🇺🇸 United States",Shop LC (576p)
+https://tvsen3.aynaott.com/zZ6EndAn/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us" group-title="🇺🇸 United States",AXS TV (576p)
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" group-title="🇺🇸 United States",Bravo (576p)
+https://tvsen3.aynaott.com/AXsdcQ8A/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS (576p)
+https://tvsen3.aynaott.com/34fJSjZP/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="🇺🇸 United States",Comedy Central (576p)
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" group-title="🇺🇸 United States",FX (576p)
+https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
+#EXTINF:-1 tvg-id="History.us" group-title="🇺🇸 United States",History (576p)
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" group-title="🇺🇸 United States",Laff (576p)
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (576p)
+https://tvsen6.aynaott.com/mtv/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" group-title="🇺🇸 United States",Lifetime (576p)
+https://tvsen7.aynaott.com/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🇺🇸 United States",National Geographic (576p)
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+#EXTINF:-1 tvg-id="WPIXHD.us" group-title="🇺🇸 United States",WPIX-HD (576p)
+https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
+#EXTINF:-1 tvg-id="GiggleMug.us" group-title="🇺🇸 United States",Giggle Mug (576p)
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11211,6 +11271,10 @@ https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/440/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="📰 International News",DW English (576p)
 https://cdn-7.pishow.tv/live/431/master.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="📰 International News",DW English (576p)
+https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="📰 International News",DW English (576p)
+https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" group-title="📰 International News",Euronews (720p)
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.de" group-title="🖖 Star Trek",Pluto TV Star Trek
@@ -11359,6 +11423,8 @@ https://cdn-7.pishow.tv/live/455/master.m3u8
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="📰 International News",NHK World-Japan HD (720p)
 http://170.83.16.50/NHK_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="📰 International News",NHK World-Japan (576p)
+https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="📰 International News",Euronews Español (684p)
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us" group-title="🖖 Star Trek",Pluto TV Star Trek
@@ -11387,6 +11453,8 @@ http://stream.mcquack.net/85/index.m3u8
 http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News UK HD (1080p)
 http://45.153.96.44:8001
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News North America (576p)
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
