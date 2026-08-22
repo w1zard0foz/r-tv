@@ -2523,6 +2523,10 @@ https://live.azenagroup.com/zenith/index.ll.m3u8
 https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (576p)
 https://mumt03.tangotv.in/Dsly5z3HTV5MONDEASIA/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="🇫🇷 France",Euronews Spanish (1080p)
+https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="🇫🇷 France",Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -4413,6 +4417,10 @@ https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk" group-title="🇬🇧 United Kingdom",Nickelodeon +1 (720p)
 https://sra72yz.s.gy/NICKELODEON_UK_PLUS_1.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" group-title="🇬🇧 United Kingdom",BabyTV Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.uk" group-title="🇬🇧 United Kingdom",Eurochannel (1080p)
+https://cdn1tlinkgo.tlink.cl/eurochannel/index.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7133,8 +7141,6 @@ http://177.234.249.178:8888/UNIVERSAL/index.m3u8
 http://181.119.66.28:8081/Universal-HD/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",Univision (1080p)
 http://190.197.41.183/Univision/index.m3u8
-#EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",Univision (1080p)
-http://200.115.120.1:8000/play/ca106/index.m3u8
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" group-title="🇺🇸 United States",Univision Tlnovelas (1080p)
 http://45.6.4.35/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="🇺🇸 United States",USA Network (1080p)
@@ -7427,6 +7433,50 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us" group-title="🇺🇸 United States",Giggle Mug (576p)
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+#EXTINF:-1 tvg-id="BATVPublicChannel.us" group-title="🇺🇸 United States",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us" group-title="🇺🇸 United States",BATV Educational Channel
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVGovernmentChannel.us" group-title="🇺🇸 United States",BATV Government Channel
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BestofBATVChannel.us" group-title="🇺🇸 United States",Best of BATV Channel
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" group-title="🇺🇸 United States",Fox Business Network (720p)
+http://5.254.89.106/6187/index.m3u8
+#EXTINF:-1 tvg-id="NTDTV.us" group-title="🇺🇸 United States",NTD TV West (720p)
+https://ntd02.akamaized.net/HD-LA/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="🇺🇸 United States",Star Channel Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/starchannelhd/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" group-title="🇺🇸 United States",AMC Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/amchd/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us" group-title="🇺🇸 United States",Cinecanal (1080p)
+https://cdn1tlinkgo.tlink.cl/cinecanalhd/index.m3u8
+#EXTINF:-1 tvg-id="FXLatinAmerica.us" group-title="🇺🇸 United States",FX Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/fxhd/index.m3u8
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" group-title="🇺🇸 United States",Pasiones Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/pasioneshd/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="🇺🇸 United States",AXN Latin America Chile (1080p)
+https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" group-title="🇺🇸 United States",History 2 Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/history2hd/index.m3u8
+#EXTINF:-1 tvg-id="DHE.us" group-title="🇺🇸 United States",DHE (1080p)
+https://cdn1tlinkgo.tlink.cl/dhehd/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" group-title="🇺🇸 United States",Lifetime Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/lifetime/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" group-title="🇺🇸 United States",Sony Channel Andes (1080p)
+https://cdn1tlinkgo.tlink.cl/sonyhd/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" group-title="🇺🇸 United States",Studio Universal Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/studiouniversalhd/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" group-title="🇺🇸 United States",National Geographic Latin America (1080p)
+https://cdn1tlinkgo.tlink.cl/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="FMHKids.us" group-title="🇺🇸 United States",FMH Kids (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhkidshd/index.m3u8
+#EXTINF:-1 tvg-id="FMHMovies.us" group-title="🇺🇸 United States",FMH Movies (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us" group-title="🇺🇸 United States",FX Movie Channel (720p)
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
+#EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",Univision East HD (1080p)
+http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11401,6 +11451,10 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 Spanish (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/france24SRT/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="📰 International News",Euronews Spanish (1080p)
+https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="📰 International News",Euronews Spanish (1080p)
+https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" group-title="📰 International News",Euronews French (720p)
 https://jmp2.uk/plu-60d35bcaf1ff4a00078af0a6.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" group-title="📰 International News",CGTN Français (1080p)
