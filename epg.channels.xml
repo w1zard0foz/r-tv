@@ -1038,6 +1038,7 @@
 <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us">Big Ten Network (National)</channel>
 <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us">Bounce TV</channel>
 <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us">Comet TV</channel>
+<channel site="ontvtonight.com" site_id="us#69031480/espn-news-hdtv" lang="en" xmltv_id="ESPNews.us">ESPN News HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us">ESPNU</channel>
 <channel site="ontvtonight.com" site_id="us#69024962/kbsi-hdtv" lang="en" xmltv_id="KBSI231.us">KBSI HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69022690/kdfw-hdtv" lang="en" xmltv_id="KDFW41.us">KDFW HDTV</channel>
@@ -1271,6 +1272,7 @@
 <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us">Nick Jr.</channel>
 <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us">History</channel>
 <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us">FOX Sports 1</channel>
+<channel site="tvguide.com" site_id="9233008517" lang="en" xmltv_id="SECNetwork.us">SEC Network</channel>
 <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="DisneyJunior.us">Disney Junior</channel>
 <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us">LMN</channel>
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
@@ -1280,6 +1282,7 @@
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
+<channel site="tvguide.myjcom.jp" site_id="2_1072_32742" lang="ja" xmltv_id="JOTXDTV.jp">テレビ東京</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_104_65406" lang="ja" xmltv_id="TV5MondePacific.fr">ＴＶ５ＭＯＮＤＥ</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_192_65406" lang="ja" xmltv_id="GSTV.jp">ジュエリー☆GSTV</channel>
 <channel site="tvhebdo.com" site_id="bnnb/BNNB" lang="fr" xmltv_id="BNNBloomberg.ca">BNN Bloomberg</channel>
