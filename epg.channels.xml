@@ -82,6 +82,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90459" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tgcom24%2F20250227_160923%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TGCom24.it">TGCOM24</channel>
 <channel site="content.astro.com.my" site_id="144" lang="en" xmltv_id="HistoryAsia.us">History HD</channel>
 <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn">CGTN HD</channel>
+<channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp">NHK World Premium</channel>
 <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us">Lifetime HD</channel>
 <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk">BBC Earth</channel>
 <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk">Moonbug</channel>
@@ -260,6 +261,7 @@
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
 <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it">Donna TV</channel>
 <channel site="guida.tv" site_id="71657766/sky-italian-gambero-rosso-hd" lang="it" xmltv_id="GamberoRossoChannel.it">Sky Italian Gambero Rosso HD</channel>
+<channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it">Inter TV</channel>
 <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it">Iris</channel>
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
@@ -1055,10 +1057,7 @@
 <channel site="ontvtonight.com" site_id="us#69022186/kttv-hdtv" lang="en" xmltv_id="KTTV111.us">KTTV HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69022791/ktvu-hdtv" lang="en" xmltv_id="KTVU41.us">KTVU HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69025388/kuvn-hdtv-univision-23" lang="en" xmltv_id="KUVNDT491.us">KUVN HDTV Univision 23</channel>
-<channel site="ontvtonight.com" site_id="us#69032265/showtime-2-east" lang="en" xmltv_id="Showtime2.us">Showtime 2 (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69032259/showtime-extreme-hdtv-east" lang="en" xmltv_id="ShowtimeExtreme.us">Showtime Extreme HDTV (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69037597/showtime-next-east-hdtv-east" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next East HDTV (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us">STARZ HD (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us">STARZ Cinema (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
@@ -1258,7 +1257,6 @@
 <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us">E!</channel>
 <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV</channel>
 <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark</channel>
-<channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
@@ -1424,6 +1422,7 @@
 <channel site="tvtv.us" site_id="70376" lang="en" xmltv_id="WCIUTV265.us">MeTV Plus (WCIU-DT5) Chicago, IL</channel>
 <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="ImpactNetwork.us">Impact Network</channel>
 <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us">JBS</channel>
+<channel site="tvtv.us" site_id="78613" lang="en" xmltv_id="WTMOCD311.us">Telemundo 31 (WTMO-CD1) Orlando, FL</channel>
 <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us">MLB Strike Zone</channel>
 <channel site="tvtv.us" site_id="81295" lang="en" xmltv_id="WFXT662.us">Court TV Mystery (WFXT-DT2) Boston MI</channel>
 <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us">Smart LifeStyle TV</channel>
