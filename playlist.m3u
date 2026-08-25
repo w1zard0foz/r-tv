@@ -101,6 +101,8 @@ https://nrpus.bozztv.com/36bay2/gusa-moviemagictv/index.m3u8
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="TVSNBeauty.au" group-title="🇦🇺 Australia",TVSN Beauty (1080p)
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="tickerNews.au" group-title="🇦🇺 Australia",ticker News (1080p)
+https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
 #EXTINF:-1 group-title="🇦🇺 Australia",8 Out of 10 Cats (1080p) [Geo-blocked]
 https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇺 Australia",Action Hollywood Movies (1080p)
@@ -3921,8 +3923,6 @@ https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
 https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🇯🇵 Japan",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
-#EXTINF:-1 tvg-id="Bravo.nz" group-title="🇳🇿 New Zealand",Bravo +1
-https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="Channel200.nz" group-title="🇳🇿 New Zealand",Channel 200 (540p)
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" group-title="🇳🇿 New Zealand",Firstlight (576p)
@@ -7487,6 +7487,10 @@ http://5.254.89.106/6199/index.m3u8
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="🇺🇸 United States",Telemundo Al Dia (720p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
+#EXTINF:-1 tvg-id="DiyaTV.us" group-title="🇺🇸 United States",Diya TV (1080p)
+https://stream.diyatvinc.com/diya.m3u8
+#EXTINF:-1 tvg-id="ABHPTV.us" group-title="🇺🇸 United States",ABHP TV (480p)
+https://vietprocast.app/hls/abhp/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -8011,7 +8015,7 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",StashTV The Classics (720p) [Geo-blocked]
 https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Swerve Combat (720p)
+#EXTINF:-1 tvg-id="SwerveCombat.us" group-title="🇺🇸 United States",Swerve Combat (720p)
 https://a-cdn.klowdtv.com/live3/swervecombat_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us" group-title="🇺🇸 United States",Swerve Sports (720p)
 https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8
@@ -9357,7 +9361,7 @@ https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Supermarket Sweep (1080p) [Geo-blocked]
 https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
-#EXTINF:-1 tvg-id="SwerveSports.us" group-title="🇺🇸 United States",Swerve Combat (1080p)
+#EXTINF:-1 tvg-id="SwerveCombat.us" group-title="🇺🇸 United States",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us" group-title="🇺🇸 United States",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
 https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
@@ -11253,7 +11257,7 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Supermarket Sweep (1080p) [Geo-blocked]
 https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SwerveSports.us" group-title="🇺🇸 United States",Swerve Combat (1080p)
+#EXTINF:-1 tvg-id="SwerveCombat.us" group-title="🇺🇸 United States",Swerve Combat (1080p)
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeenEspanol.us" group-title="🇺🇸 United States",Tastemade en Espanol (1080p) [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8

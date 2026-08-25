@@ -301,6 +301,7 @@
 <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us">NBC News Now</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#quicktake" lang="en" xmltv_id="BloombergOriginals.us">Bloomberg Originals</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#sky-news-weather" lang="en" xmltv_id="SkyNewsWeather.uk">Sky News Weather</channel>
+<channel site="i.mjh.nz" site_id="Flash/epg#ticker-news" lang="en" xmltv_id="tickerNews.au">Ticker News</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#usa-today" lang="en" xmltv_id="USATODAY.us">USA Today</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca">Nature Time</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au">RACING.COM</channel>
@@ -948,7 +949,6 @@
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB40000028E" lang="en" xmltv_id="NBCLX.us">NBC LX Home</channel>
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA3000043LH" lang="en" xmltv_id="SamsungWildlife.us">Samsung Wild Life</channel>
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3000002OC" lang="en" xmltv_id="SonyCanalNovelas.us">Dramon</channel>
-<channel site="i.mjh.nz" site_id="SkyGo/epg#sky.512" lang="en" xmltv_id="Bravo.nz">Bravo +1</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.206" lang="en" xmltv_id="Firstlight.nz">Firstlight</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.21" lang="en" xmltv_id="HGTV.nz">HGTV</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.86" lang="en" xmltv_id="ParliamentTV.nz">Parliament</channel>
