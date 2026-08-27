@@ -7493,6 +7493,8 @@ https://vietprocast.app/hls/abhp/index.m3u8
 https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8
 #EXTINF:-1 tvg-id="VideoMixTV.us" group-title="🇺🇸 United States",Video Mix TV
 https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" group-title="🇺🇸 United States",CBS Sports Golazo Network (720p)
+https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
