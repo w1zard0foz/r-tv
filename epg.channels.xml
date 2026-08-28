@@ -164,7 +164,6 @@
 <channel site="entertainment.ie" site_id="bbc-one-ni" lang="en" xmltv_id="BBCOne.uk">BBC One NI</channel>
 <channel site="entertainment.ie" site_id="bbc-three" lang="en" xmltv_id="BBCThree.uk">BBC Three</channel>
 <channel site="entertainment.ie" site_id="cbbc" lang="en" xmltv_id="CBBC.uk">CBBC</channel>
-<channel site="entertainment.ie" site_id="channel-5" lang="en" xmltv_id="Channel5.uk">Channel 5</channel>
 <channel site="entertainment.ie" site_id="great-movies" lang="en" xmltv_id="GREATmovies.uk">Great! Movies</channel>
 <channel site="entertainment.ie" site_id="great-movies-romance" lang="en" xmltv_id="GREATromance.uk">Great! Movies Romance</channel>
 <channel site="entertainment.ie" site_id="itv2" lang="en" xmltv_id="ITV2.uk">ITV2</channel>
@@ -211,7 +210,6 @@
 <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk">GB News</channel>
 <channel site="freeview.co.uk" site_id="64257#24448" lang="en" xmltv_id="GemsTV.uk">Gemporia</channel>
 <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk">HobbyMaker</channel>
-<channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk">ITV1</channel>
 <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us">Ketchup TV</channel>
 <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk">Latest TV</channel>
 <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk">MBC</channel>
