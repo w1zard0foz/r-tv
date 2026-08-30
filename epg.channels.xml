@@ -182,6 +182,7 @@
 <channel site="epg.iptvx.one" site_id="iconcerts" lang="ru" xmltv_id="StingrayiConcerts.ca">Stingray iConcerts</channel>
 <channel site="epg.iptvx.one" site_id="m1global" lang="ru" xmltv_id="MMATVcom.ru">MMA-TV</channel>
 <channel site="epg.iptvx.one" site_id="mlb-network-us" lang="ru" xmltv_id="MLBNetwork.us">MLB Network [US]</channel>
+<channel site="epg.iptvx.one" site_id="mtv-de" lang="ru" xmltv_id="MTV.de">MTV DE</channel>
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
@@ -254,6 +255,7 @@
 <channel site="guida.tv" site_id="737350/italia-2" lang="it" xmltv_id="Italia2.it">ITALIA 2</channel>
 <channel site="guida.tv" site_id="738252/rete-4" lang="it" xmltv_id="Rete4.it">RETE 4</channel>
 <channel site="guida.tv" site_id="826552/rai-4" lang="it" xmltv_id="Rai4.it">Rai 4</channel>
+<channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it">7 Gold</channel>
 <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="AlmaTV.it">Alma</channel>
 <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it">Cine34</channel>
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
@@ -1109,6 +1111,7 @@
 <channel site="sky.com" site_id="DE#764" lang="de" xmltv_id="AnixePlus.de">ANIXE+</channel>
 <channel site="sky.com" site_id="DE#5800" lang="de" xmltv_id="AugsburgTV.de">a.tv HD</channel>
 <channel site="sky.com" site_id="DE#630" lang="de" xmltv_id="BRFernsehen.de">BR Fernsehen Nord HD</channel>
+<channel site="sky.com" site_id="DE#8652" lang="de" xmltv_id="ComedyCentral.de">Comedy Central HD</channel>
 <channel site="sky.com" site_id="DE#1446" lang="de" xmltv_id="DASDING908.de">DASDING</channel>
 <channel site="sky.com" site_id="DE#505" lang="de" xmltv_id="DeluxeDance.de">Deluxe Dance by Kontor</channel>
 <channel site="sky.com" site_id="DE#504" lang="de" xmltv_id="DeluxeRap.de">Deluxe Rap</channel>
@@ -1175,6 +1178,7 @@
 <channel site="skyperfectv.co.jp" site_id="basic_CS161" lang="ja" xmltv_id="QVC.jp">ＱＶＣ（キューヴィーシー）</channel>
 <channel site="skyperfectv.co.jp" site_id="basic_CS055" lang="ja" xmltv_id="ShopChannel.jp">ショップチャンネル</channel>
 <channel site="startimestv.com" site_id="381" lang="fr" xmltv_id="TV5MondeAfrica.fr">TV5 MONDE</channel>
+<channel site="superguidatv.it" site_id="lazio-style-channel/sky-sport/58" lang="it" xmltv_id="LazioStyleChannel.it">Lazio Style Channel</channel>
 <channel site="tataplay.com" site_id="1823" lang="en" xmltv_id="PrimeAsiaTV.ca">Prime Asia</channel>
 <channel site="teleboy.ch" site_id="20" lang="de" xmltv_id="TeleM1.ch">Tele M1</channel>
 <channel site="teleboy.ch" site_id="72" lang="de" xmltv_id="TeleZuri.ch">TeleZüri</channel>
@@ -1216,6 +1220,7 @@
 <channel site="tv.blue.ch" site_id="1031" lang="de" xmltv_id="ZeeOne.uk">Zee One</channel>
 <channel site="tv.blue.ch" site_id="1082" lang="fr" xmltv_id="Carac4.ch">CARAC 4</channel>
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
+<channel site="tv.blue.ch" site_id="1645" lang="it" xmltv_id="EspansioneTV.it">Espansione TV</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
 <channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it">SI Solocalcio</channel>
