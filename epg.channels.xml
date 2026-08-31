@@ -171,7 +171,6 @@
 <channel site="entertainment.ie" site_id="pick" lang="en" xmltv_id="SkyMix.uk">Pick</channel>
 <channel site="entertainment.ie" site_id="sky-nature" lang="en" xmltv_id="SkyNature.uk">Sky Nature</channel>
 <channel site="entertainment.ie" site_id="sky-sports-cricket" lang="en" xmltv_id="SkySportsCricket.uk">Sky Sports Cricket</channel>
-<channel site="entertainment.ie" site_id="sky-sports-golf" lang="en" xmltv_id="SkySportsGolf.uk">Sky Sports Golf</channel>
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
@@ -980,7 +979,6 @@
 <channel site="m.tv.sms.cz" site_id="ZDFneo" lang="de" xmltv_id="ZDFneo.de">ZDFneo</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
-<channel site="meo.pt" site_id="DOGTVHD" lang="pt" xmltv_id="DogTV.us">Dog TV</channel>
 <channel site="meo.pt" site_id="MCMTHD" lang="pt" xmltv_id="MCMTop.fr">MCM Top</channel>
 <channel site="meuguia.tv" site_id="135" lang="pt" xmltv_id="Combate.br">Combate</channel>
 <channel site="meuguia.tv" site_id="EET" lang="pt" xmltv_id="ELatinAmerica.us">E! Entertainment Television</channel>
@@ -997,7 +995,6 @@
 <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk">MUTV</channel>
 <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk">Utsav Plus</channel>
 <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk">CNBC UK</channel>
-<channel site="mytelly.co.uk" site_id="1670/sky-sports-f1" lang="en" xmltv_id="SkySportsF1.uk">Sky Sports F1</channel>
 <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk">Utsav Bharat</channel>
 <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk">NOW 80s</channel>
 <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk">NOW 70s</channel>
