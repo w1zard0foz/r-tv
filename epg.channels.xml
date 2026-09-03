@@ -107,7 +107,6 @@
 <channel site="directv.com.uy" site_id="508#STUN" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/508.png" xmltv_id="StudioUniversalLatinAmerica.us">Studio Universal</channel>
 <channel site="directv.com.uy" site_id="628#GOLF" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/628.png" xmltv_id="GolfChannelLatinAmerica.us">Golf Channel</channel>
 <channel site="directv.com.uy" site_id="730#NGEO" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/730.png" xmltv_id="NationalGeographicLatinAmerica.us">National Geographic</channel>
-<channel site="dishtv.in" site_id="144002" lang="en" xmltv_id="TheQIndia.us">TheQ</channel>
 <channel site="distro.tv" site_id="15976" lang="en" xmltv_id="OutsideTV.us">Outside</channel>
 <channel site="distro.tv" site_id="27440" lang="en" xmltv_id="NewsmaxTV.us">Newsmax TV</channel>
 <channel site="distro.tv" site_id="34008" lang="en" xmltv_id="OANPlus.us">OAN Plus</channel>
@@ -172,6 +171,7 @@
 <channel site="entertainment.ie" site_id="sky-nature" lang="en" xmltv_id="SkyNature.uk">Sky Nature</channel>
 <channel site="entertainment.ie" site_id="sky-sports-cricket" lang="en" xmltv_id="SkySportsCricket.uk">Sky Sports Cricket</channel>
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
+<channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
 <channel site="epg.iptvx.one" site_id="fox-business-us" lang="ru" xmltv_id="FoxBusinessNetwork.us">Fox Business [US]</channel>
@@ -977,6 +977,7 @@
 <channel site="m.tv.sms.cz" site_id="Wild+TV" lang="en" xmltv_id="WildTV.ca">Wild TV</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFinfo" lang="de" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFneo" lang="de" xmltv_id="ZDFneo.de">ZDFneo</channel>
+<channel site="maxstream.tv" site_id="0_84kdjuht" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
 <channel site="meo.pt" site_id="MCMTHD" lang="pt" xmltv_id="MCMTop.fr">MCM Top</channel>
