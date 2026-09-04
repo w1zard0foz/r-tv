@@ -47,8 +47,6 @@ https://bloomberg.com/media-manifest/streams/aus.m3u8
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 #EXTINF:-1 tvg-id="Channel7.au" group-title="🇦🇺 Australia",Channel 7 (720p) [Geo-blocked]
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
-#EXTINF:-1 tvg-id="Channel7.au" group-title="🇦🇺 Australia",Channel 7 Melbourne
-http://44.32.200.142:5004/auto/v7
 #EXTINF:-1 tvg-id="Channel9.au" group-title="🇦🇺 Australia",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au" group-title="🇦🇺 Australia",Channel 9 Brisbane (720p) [Geo-blocked]
@@ -4453,6 +4451,8 @@ https://iranefardalive.com/stream/live.m3u8
 http://202.70.146.135:8000/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="PlanetFun.uk" group-title="🇬🇧 United Kingdom",Planet Fun (1080p)
 http://66.102.126.10:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News Europe (576p)
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -6009,8 +6009,6 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="CMT.us" group-title="🇺🇸 United States",CMT (720p)
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="🇺🇸 United States",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us" group-title="🇺🇸 United States",Comedy Central (1080p)
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" group-title="🇺🇸 United States",Comedy Central Latin America (1080p)
@@ -7549,6 +7547,16 @@ http://41.205.93.154/MSNBC/index.m3u8
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Lifetime.us" group-title="🇺🇸 United States",Lifetime (720p) [Geo-blocked]
 http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Gagsnetwork.us" group-title="🇺🇸 United States",Gagsnetwork (576p)
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 tvg-id="AVIRewind.us" group-title="🇺🇸 United States",AVI Rewind (1080p)
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="ComercioTV.us" group-title="🇺🇸 United States",Comercio TV (1080p)
+http://45.70.201.81:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="FierroaFondoTV.us" group-title="🇺🇸 United States",Fierro a Fondo TV (1080p)
+http://45.70.201.81:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="ZTV.us" group-title="🇺🇸 United States",ZTV (1080p)
+http://45.70.201.81:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11581,6 +11589,8 @@ http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News North America (576p)
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News Europe (576p)
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
