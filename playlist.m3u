@@ -45,8 +45,6 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" group-title="🇦🇺 Australia",C31 Melbourne (240p)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 tvg-id="Channel7.au" group-title="🇦🇺 Australia",Channel 7 (720p) [Geo-blocked]
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 #EXTINF:-1 tvg-id="Channel9.au" group-title="🇦🇺 Australia",Channel 9 Adelaide (720p) [Geo-blocked]
 https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/adl/ch9/hls/r1/index.m3u8
 #EXTINF:-1 tvg-id="Channel9.au" group-title="🇦🇺 Australia",Channel 9 Brisbane (720p) [Geo-blocked]
@@ -293,27 +291,27 @@ https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bb
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca" group-title="🇨🇦 Canada",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CFTUDT.ca" group-title="🇨🇦 Canada",Canal Savoir (360p)
+#EXTINF:-1 tvg-id="Savoirmedia.ca" group-title="🇨🇦 Canada",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1 tvg-id="CBRTDT.ca" group-title="🇨🇦 Canada",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC Comedy (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
-#EXTINF:-1 tvg-id="CBXTDT.ca" group-title="🇨🇦 Canada",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC Heartland (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC Kids Channel (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
-#EXTINF:-1 tvg-id="CBWTDT.ca" group-title="🇨🇦 Canada",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 tvg-id="CBMTDT.ca" group-title="🇨🇦 Canada",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Montréal (CBMT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC Murdoch Mysteries (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca" group-title="🇨🇦 Canada",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 tvg-id="CBNTDT.ca" group-title="🇨🇦 Canada",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC News BC (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
@@ -323,23 +321,23 @@ https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",CBC News Toronto (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
-#EXTINF:-1 tvg-id="CFYKDT.ca" group-title="🇨🇦 Canada",CBC North (CFYK-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC North (CFYK-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 tvg-id="CBHTDT.ca" group-title="🇨🇦 Canada",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 tvg-id="CBOTDT.ca" group-title="🇨🇦 Canada",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca" group-title="🇨🇦 Canada",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 tvg-id="CBKTDT.ca" group-title="🇨🇦 Canada",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 tvg-id="CBLTDT.ca" group-title="🇨🇦 Canada",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 tvg-id="CBUTDT.ca" group-title="🇨🇦 Canada",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 tvg-id="CBETDT.ca" group-title="🇨🇦 Canada",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CBCTelevision.ca" group-title="🇨🇦 Canada",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 tvg-id="CFTODT.ca" group-title="🇨🇦 Canada",CFTO-DT (720p)
+#EXTINF:-1 tvg-id="CTV.ca" group-title="🇨🇦 Canada",CFTO-DT (720p)
 http://stream.cammonitorplus.net/1712/index.m3u8
 #EXTINF:-1 tvg-id="CHCHDT.ca" group-title="🇨🇦 Canada",CHCH-DT (720p)
 http://185.246.209.113/CHCHHD/index.m3u8
@@ -389,33 +387,33 @@ http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" group-title="🇨🇦 Canada",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CFHDDT.ca" group-title="🇨🇦 Canada",ICI Montreal (720p)
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",ICI Montreal (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="CBFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 tvg-id="CBXFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Alberta (CBXFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
-#EXTINF:-1 tvg-id="CBUFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 tvg-id="CJBRDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Est du Québec (CJBR-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 tvg-id="CKSHDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Estrie (CKSH-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 tvg-id="CBWFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Manitoba (CBWFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 tvg-id="CKTMDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Mauricie/Centre-du-Québec (CKTM-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 tvg-id="CBLFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Ontario (CBLFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 tvg-id="CBOFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
-#EXTINF:-1 tvg-id="CBVTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Québec (CBVT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 tvg-id="CKTVDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 tvg-id="CBKFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Saskatchewan (CBKFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-#EXTINF:-1 tvg-id="CBAFTDT.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+#EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" group-title="🇨🇦 Canada",Ici Radio-Canada Télé Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" group-title="🇨🇦 Canada",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
@@ -443,7 +441,7 @@ http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca" group-title="🇨🇦 Canada",NACTV
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
-#EXTINF:-1 tvg-id="CJONDT.ca" group-title="🇨🇦 Canada",Newfoundland Television (480p)
+#EXTINF:-1 tvg-id="NTV.ca" group-title="🇨🇦 Canada",Newfoundland Television (480p)
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Noovo Cinéma (1080p)
 https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
@@ -515,7 +513,7 @@ http://23.133.220.149/TV5/index.m3u8
 http://23.133.220.149/Unis_TV/index.m3u8
 #EXTINF:-1 tvg-id="TV16Toronto.ca" group-title="🇨🇦 Canada",TV 16 Toronto (720p) [Not 24/7]
 http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="CFTMDT.ca" group-title="🇨🇦 Canada",TVA [Geo-blocked]
+#EXTINF:-1 tvg-id="TVA.ca" group-title="🇨🇦 Canada",TVA [Geo-blocked]
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca" group-title="🇨🇦 Canada",TVOKids (720p)
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
@@ -5887,7 +5885,7 @@ https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 https://reflect-batv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BATV.us" group-title="🇺🇸 United States",Bloomfield Access TV Channel 5 (480p)
 https://reflect-batv.cablecast.tv/live-5/live/live.m3u8
-#EXTINF:-1 tvg-id="KMBYLD275.us" group-title="🇺🇸 United States",Blues TV
+#EXTINF:-1 tvg-id="MeTVToons.us" group-title="🇺🇸 United States",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCHDTV.us" group-title="🇺🇸 United States",BMC-HD TV (720p)
 https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -6381,37 +6379,37 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="KaloopyTV.us" group-title="🇺🇸 United States",Kaloopy TV (1080p)
 https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
-#EXTINF:-1 tvg-id="KATC31.us" group-title="🇺🇸 United States",KATC 3.1 (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",KATC 3.1 (1080p)
 http://stream.cammonitorplus.net/1753/index.m3u8
-#EXTINF:-1 tvg-id="KCKSLD253.us" group-title="🇺🇸 United States",KCKS-LD 25.3 (720p)
+#EXTINF:-1 tvg-id="AceTV.us" group-title="🇺🇸 United States",KCKS-LD 25.3 (720p)
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
-#EXTINF:-1 tvg-id="KDFW41.us" group-title="🇺🇸 United States",KDFW-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KDFW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="KetchupTV.us" group-title="🇺🇸 United States",Ketchup TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
-#EXTINF:-1 tvg-id="KFTRDT461.us" group-title="🇺🇸 United States",KFTR-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",KFTR-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Kids Street (1080p)
 http://181.78.121.15:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="KIROTV71.us" group-title="🇺🇸 United States",KIRO-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",KIRO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="KMEXDT341.us" group-title="🇺🇸 United States",KMEX-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",KMEX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us" group-title="🇺🇸 United States",KMSP-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KNTV111.us" group-title="🇺🇸 United States",KNTV 11.1
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KNTV 11.1
 http://50.229.129.155/0.ts
-#EXTINF:-1 tvg-id="KNTV111.us" group-title="🇺🇸 United States",KNTV-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KNTV-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
-#EXTINF:-1 tvg-id="KOKITV231.us" group-title="🇺🇸 United States",KOKI-DT1 (1080p)
+#EXTINF:-1 tvg-id="Roar.us" group-title="🇺🇸 United States",KOKI-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="ACECountryRadio.us" group-title="🇺🇸 United States",ACE Country Radio KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KPVMLD257.us" group-title="🇺🇸 United States",KPVM AWE Plus
+#EXTINF:-1 tvg-id="AWEPlus.us" group-title="🇺🇸 United States",KPVM AWE Plus
 https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Movies.us" group-title="🇺🇸 United States",Movies! KPVM-LD
 https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KPVMLD255.us" group-title="🇺🇸 United States",KPVM Newsmax 2
+#EXTINF:-1 tvg-id="Newsmax2.us" group-title="🇺🇸 United States",KPVM Newsmax 2
 https://2-fss-2.streamhoster.com/pl_120/206858-4404556-1/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us" group-title="🇺🇸 United States",OAN Plus KPVM-LD
 https://2-fss-2.streamhoster.com/pl_118/206858-4404458-1/playlist.m3u8
@@ -6421,25 +6419,25 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryTelevision.us" group-title="🇺🇸 United States",Story Television KPVM-LD
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KQED92.us" group-title="🇺🇸 United States",KQED-DT2 (1080p)
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",KQED-DT2 (1080p)
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
 #EXTINF:-1 tvg-id="KRGVTV52.us" group-title="🇺🇸 United States",KRGV-DT2 [Geo-blocked]
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KRIV261.us" group-title="🇺🇸 United States",KRIV-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KRIV-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KSAZTV101.us" group-title="🇺🇸 United States",KSAZ-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTBC71.us" group-title="🇺🇸 United States",KTBC-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KTBC-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us" group-title="🇺🇸 United States",KTTV 11.1 (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KTTV 11.1 (720p)
 https://n15sb.host5245.com/63/index.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us" group-title="🇺🇸 United States",KTTV-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",KTTV-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="KUVNDT491.us" group-title="🇺🇸 United States",KUVN-DT1
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",KUVN-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
-#EXTINF:-1 tvg-id="KVIE62.us" group-title="🇺🇸 United States",KVIE-DT2 (1080p)
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",KVIE-DT2 (1080p)
 https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
-#EXTINF:-1 tvg-id="KXASTV51.us" group-title="🇺🇸 United States",KXAS-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KXAS-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_channelId=88889706a&ads.xumo_ifaType=&ads.xumo_providerId=3831&ads.xumo_providerName=NBCNDAL
 #EXTINF:-1 tvg-id="LaQueBuenaAtlanta.us" group-title="🇺🇸 United States",La Que Buena Atlanta
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
@@ -6607,7 +6605,7 @@ http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 http://stream.cammonitorplus.net/1785/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC (720p)
 http://170.254.17.2/NBC/index.m3u8
-#EXTINF:-1 tvg-id="WMAQTV51.us" group-title="🇺🇸 United States",NBC 5 Chicago Live News (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 5 Chicago Live News (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="NBCLXHome.us" group-title="🇺🇸 United States",NBC LX Home (1080p)
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
@@ -6629,7 +6627,7 @@ http://187.102.210.46/universo/index.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC West (720p)
 http://stream.cammonitorplus.net/1800/index.m3u8
-#EXTINF:-1 tvg-id="KNSD481.us" group-title="🇺🇸 United States",NBC West (San Diego) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",NBC West (San Diego) (1080p) [Not 24/7]
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us" group-title="🇺🇸 United States",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -6939,7 +6937,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us" group-title="🇺🇸 United States",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
-#EXTINF:-1 tvg-id="WCIUTV265.us" group-title="🇺🇸 United States",Story Television
+#EXTINF:-1 tvg-id="StoryTelevision.us" group-title="🇺🇸 United States",Story Television
 https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="StrykTV.us" group-title="🇺🇸 United States",Stryk TV (1080p)
 https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
@@ -7203,9 +7201,9 @@ https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2245
 #EXTINF:-1 tvg-id="WatchitScream.us" group-title="🇺🇸 United States",Watch it Scream! (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
-#EXTINF:-1 tvg-id="WBTSCD151.us" group-title="🇺🇸 United States",WBTS-CD1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WBTS-CD1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
-#EXTINF:-1 tvg-id="WCAU621.us" group-title="🇺🇸 United States",WCAU-DT1 (1080p)
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",WCAU-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
 #EXTINF:-1 tvg-id="WeTV.us" group-title="🇺🇸 United States",We TV (720p)
 http://170.254.17.2/WE_TV/index.m3u8
@@ -7213,25 +7211,25 @@ http://170.254.17.2/WE_TV/index.m3u8
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" group-title="🇺🇸 United States",WeatherNation (1080p)
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="WEDQ34.us" group-title="🇺🇸 United States",WEDQ-DT4 (1080p)
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",WEDQ-DT4 (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="Westerns4U.us" group-title="🇺🇸 United States",Westerns 4U (1080p)
 http://181.224.255.210:8001/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="WFLD501.us" group-title="🇺🇸 United States",WFLD-DT1 (1080p)
+#EXTINF:-1 tvg-id="MNT.us" group-title="🇺🇸 United States",WFLD-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT681.us" group-title="🇺🇸 United States",WFUT-DT1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",WFUT-DT1 (720p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
-#EXTINF:-1 tvg-id="WFXT662.us" group-title="🇺🇸 United States",WFXT-DT2 (1080p)
+#EXTINF:-1 tvg-id="MovieSphereGold.us" group-title="🇺🇸 United States",WFXT-DT2 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="WGALDT3.us" group-title="🇺🇸 United States",WGAL-DT3 (1080p) [Geo-blocked]
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
 #EXTINF:-1 tvg-id="WGNDT1.us" group-title="🇺🇸 United States",WGN-DT1 (720p)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="WGTV83.us" group-title="🇺🇸 United States",WGTV-DT3 (1080p)
+#EXTINF:-1 tvg-id="WorldChannel.us" group-title="🇺🇸 United States",WGTV-DT3 (1080p)
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
-#EXTINF:-1 tvg-id="WHBQTV131.us" group-title="🇺🇸 United States",WHBQ-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WHBQ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WHIOTV71.us" group-title="🇺🇸 United States",WHIO-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",WHIO-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="Whiplash.us" group-title="🇺🇸 United States",Whiplash (720p)
 https://cdn.whiplash.cc/whiplash/index.m3u8
@@ -7239,7 +7237,7 @@ https://cdn.whiplash.cc/whiplash/index.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 tvg-id="WhiplashII.us" group-title="🇺🇸 United States",Whiplash II (480p)
 https://cdn.whiplash.cc/whiplash-2/index.m3u8
-#EXTINF:-1 tvg-id="WHPSCD152.us" group-title="🇺🇸 United States",WHPS Detroit
+#EXTINF:-1 tvg-id="iHolyfieldTV.us" group-title="🇺🇸 United States",WHPS Detroit
 https://f-tx-edge-87.christianworldmedia.com/313watkins/mp4:313watkins/playlist.m3u8
 #EXTINF:-1 tvg-id="Willow.us" group-title="🇺🇸 United States",Willow (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
@@ -7257,65 +7255,63 @@ https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us" group-title="🇺🇸 United States",Wine Watches Whiskey (1080p)
 https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
-#EXTINF:-1 tvg-id="WITI61.us" group-title="🇺🇸 United States",WITI-DT1 (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAXTV471.us" group-title="🇺🇸 United States",WJAX-DT1 (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",WJAX-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WJBK21.us" group-title="🇺🇸 United States",WJBK-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WJBK-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" group-title="🇺🇸 United States",WLMB (1080p)
 https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8
-#EXTINF:-1 tvg-id="WLTVDT231.us" group-title="🇺🇸 United States",WLTV-DT1 [Geo-blocked]
+#EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",WLTV-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
-#EXTINF:-1 tvg-id="WMBCTV631.us" group-title="🇺🇸 United States",WMBC-DT1 (720p)
+#EXTINF:-1 tvg-id="EstrellaTV.us" group-title="🇺🇸 United States",WMBC-DT1 (720p)
 http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
-#EXTINF:-1 tvg-id="WMBCTV631.us" group-title="🇺🇸 United States",WMBC-DT1
+#EXTINF:-1 tvg-id="EstrellaTV.us" group-title="🇺🇸 United States",WMBC-DT1
 http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8
 #EXTINF:-1 tvg-id="WNBC471.us" group-title="🇺🇸 United States",WNBC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
-#EXTINF:-1 tvg-id="WNYW51.us" group-title="🇺🇸 United States",WNYW-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WNYW-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" group-title="🇺🇸 United States",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="WPIXHD.us" group-title="🇺🇸 United States",WPIX-HD (576p)
-https://tvsen6.aynaott.com/pix11/index.m3u8
-#EXTINF:-1 tvg-id="WPXI111.us" group-title="🇺🇸 United States",WPXI-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WPXI-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WRCDT1.us" group-title="🇺🇸 United States",WRC-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
 #EXTINF:-1 tvg-id="WSBDT1.us" group-title="🇺🇸 United States",WSB-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBSTV221.us" group-title="🇺🇸 United States",WSBS-DT1 (1080p)
+#EXTINF:-1 tvg-id="MegaTV.us" group-title="🇺🇸 United States",WSBS-DT1 (1080p)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
-#EXTINF:-1 tvg-id="WSLFLD351.us" group-title="🇺🇸 United States",WSLF-LD 35.1 (720p)
+#EXTINF:-1 tvg-id="DaystarTV.us" group-title="🇺🇸 United States",WSLF-LD 35.1 (720p)
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 #EXTINF:-1 tvg-id="WSOCNow.us" group-title="🇺🇸 United States",WSOC Now (1080p) [Geo-blocked]
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="WSOCTV91.us" group-title="🇺🇸 United States",WSOC-DT1 (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WSOC-DT1 (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="WTNH81.us" group-title="🇺🇸 United States",WTNH-DT1 (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WTNH-DT1 (720p)
 https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
-#EXTINF:-1 tvg-id="WTTG51.us" group-title="🇺🇸 United States",WTTG-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WTTG-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVJ61.us" group-title="🇺🇸 United States",WTVJ-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WTVJ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WTVT131.us" group-title="🇺🇸 United States",WTVT-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WTVT-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXFTV291.us" group-title="🇺🇸 United States",WTXF-DT1 (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WTXF-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="WuTangCollection.us" group-title="🇺🇸 United States",Wu Tang Collection (720p)
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="WVCULP.us" group-title="🇺🇸 United States",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-id="WVIT301.us" group-title="🇺🇸 United States",WVIT-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WVIT-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
 #EXTINF:-1 tvg-id="WVVHCD181.us" group-title="🇺🇸 United States",WVVH-CD 18.1 (720p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us" group-title="🇺🇸 United States",WWON TV CH 48
 https://tv2.fastcast4u.com:3943/stream/play.m3u8
-#EXTINF:-1 tvg-id="WWORTV91.us" group-title="🇺🇸 United States",WWOR-DT1
+#EXTINF:-1 tvg-id="MNT.us" group-title="🇺🇸 United States",WWOR-DT1
 http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
-#EXTINF:-1 tvg-id="WXTVDT681.us" group-title="🇺🇸 United States",WXTV-DT1
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",WXTV-DT1
 https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
 #EXTINF:-1 tvg-id="XFCTV.us" group-title="🇺🇸 United States",XFC TV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2247
@@ -7357,7 +7353,7 @@ https://streamer.metronethn.com/MTV/index.m3u8
 https://streamer.metronethn.com/Lifetime/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo West (2160p)
 http://168.228.44.241:9997/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="WLTVDT231.us" group-title="🇺🇸 United States",WLTV-DT 23.1 (720p)
+#EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",WLTV-DT 23.1 (720p)
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" group-title="🇺🇸 United States",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
@@ -7439,8 +7435,6 @@ https://tvsen6.aynaott.com/mtv/index.m3u8
 https://tvsen7.aynaott.com/lifetime/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us" group-title="🇺🇸 United States",National Geographic (576p)
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
-#EXTINF:-1 tvg-id="WPIXHD.us" group-title="🇺🇸 United States",WPIX-HD (576p)
-https://tvsen3.aynaott.com/GPHeknR5/index.m3u8
 #EXTINF:-1 tvg-id="GiggleMug.us" group-title="🇺🇸 United States",Giggle Mug (576p)
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
 #EXTINF:-1 tvg-id="BATVPublicChannel.us" group-title="🇺🇸 United States",BATV Public Channel
@@ -7497,7 +7491,7 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (720p)
 http://5.254.89.106/6199/index.m3u8
-#EXTINF:-1 tvg-id="WTMOCD311.us" group-title="🇺🇸 United States",WTMO-CD 31.1 (720p)
+#EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",WTMO-CD 31.1 (720p)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="🇺🇸 United States",Telemundo Al Dia (720p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
@@ -7557,6 +7551,10 @@ http://45.70.201.81:8000/play/a014/index.m3u8
 http://45.70.201.81:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="ZTV.us" group-title="🇺🇸 United States",ZTV (1080p)
 http://45.70.201.81:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" group-title="🇺🇸 United States",Adult Swim Latin America Brazil (720p)
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (1080p)
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -8117,13 +8115,13 @@ https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us" group-title="🇺🇸 United States",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
-#EXTINF:-1 tvg-id="KRGVTV51.us" group-title="🇺🇸 United States",ABC 5
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 5
 https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WFTV91.us" group-title="🇺🇸 United States",ABC 9 Orlando FL (WFTV) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 9 Orlando FL (WFTV) (720p)
 https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WPLG101.us" group-title="🇺🇸 United States",ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
-#EXTINF:-1 tvg-id="WWAY31.us" group-title="🇺🇸 United States",ABC WWAY 3
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC WWAY 3
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
 #EXTINF:-1 tvg-id="AccessHumboldt.us" group-title="🇺🇸 United States",Access Humboldt (1080p)
 https://rtmp-live-ingest-ap-northeast-2-universe-dacast-com.akamaized.net/transmuxv1/streams/f08fcd45-1d04-9a8c-39ca-f56091820e5c.m3u8
@@ -8165,7 +8163,7 @@ https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="CityTVCarlsbad.us" group-title="🇺🇸 United States",Carlsbad City TV Channel (Carlsbad CA) (720p)
 https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KWTVDT91.us" group-title="🇺🇸 United States",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 9 Oklahoma City OK (KWTV-DT1) (720p) [Not 24/7]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e48409e7-672d-42f2-b5e0-ebb6744b0425.m3u8
 #EXTINF:-1 tvg-id="CGTV.us" group-title="🇺🇸 United States",Champaign Government Television (CGTV) (Champaign IL) (720p)
 https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
@@ -8173,7 +8171,7 @@ https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" group-title="🇺🇸 United States",City TV Capital City Connection [Not 24/7]
 https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="WRDELD311.us" group-title="🇺🇸 United States",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
 https://live.field59.com/wrde/wrde1/playlist.m3u8
 #EXTINF:-1 tvg-id="CollierTV.us" group-title="🇺🇸 United States",Collier Television CTV (Naples FL) (720p)
 https://reflect-collier-countyboc.cablecast.tv/live-4/live/stream-1/live.m3u8
@@ -8219,9 +8217,9 @@ https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
 https://reflect-vod-fcgov.cablecast.tv/live-9/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us" group-title="🇺🇸 United States",Fort Pierce Live Stream (Fort Pierce FL) (720p)
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSI231.us" group-title="🇺🇸 United States",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 23 Cape Girardeau MO (KBSI-DT1) (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
-#EXTINF:-1 tvg-id="WFXT251.us" group-title="🇺🇸 United States",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
 #EXTINF:-1 tvg-id="CMAC1.us" group-title="🇺🇸 United States",Fresno CMAC 1 Public Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-1/live.m3u8
@@ -8233,7 +8231,7 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 #EXTINF:-1 tvg-id="GalvestonCountyTV.us" group-title="🇺🇸 United States",Galveston County TV (720p) [Not 24/7]
 https://edge-f.swagit.com/live/galvestontx/smil:hd-16x9-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="KBPXLD465.us" group-title="🇺🇸 United States",Geb Tv (KBPX LD5) (1080p)
+#EXTINF:-1 tvg-id="GEBNetwork.us" group-title="🇺🇸 United States",Geb Tv (KBPX LD5) (1080p)
 https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel17.us" group-title="🇺🇸 United States",Gilroy CMAP TV Channel 17 (720p)
 https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
@@ -8247,7 +8245,7 @@ https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GlendaleTV.us" group-title="🇺🇸 United States",Glendale TV (720p) [Geo-blocked]
 https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8
-#EXTINF:-1 tvg-id="KPCBDT171.us" group-title="🇺🇸 United States",God's Learning Channel (480p)
+#EXTINF:-1 tvg-id="GodsLearningChannel.us" group-title="🇺🇸 United States",God's Learning Channel (480p)
 https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8
 #EXTINF:-1 tvg-id="GCOtv.us" group-title="🇺🇸 United States",Golden Community Television (GCO.tv) (Golden CO) (1080p)
 https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8
@@ -8273,15 +8271,15 @@ https://brightonco.cablecast.tv/live-4/live/live.m3u8
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KidsFlix.us" group-title="🇺🇸 United States",KidsFlix (1080p) [Not 24/7]
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 tvg-id="KITV41.us" group-title="🇺🇸 United States",KITV 4 Island News (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",KITV 4 Island News (720p)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-#EXTINF:-1 tvg-id="KQSL81.us" group-title="🇺🇸 United States",KQSL Channel 8 (720p)
+#EXTINF:-1 tvg-id="TLN.ca" group-title="🇺🇸 United States",KQSL Channel 8 (720p)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
-#EXTINF:-1 tvg-id="KSCE382.us" group-title="🇺🇸 United States",KSCE Vida Cristiana (360p)
+#EXTINF:-1 tvg-id="RedADvenirTV.bo" group-title="🇺🇸 United States",KSCE Vida Cristiana (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KTOOTV33.us" group-title="🇺🇸 United States",KTOO 360TV 3 (FNX)
+#EXTINF:-1 tvg-id="KTOO360TV.us" group-title="🇺🇸 United States",KTOO 360TV 3 (FNX)
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
-#EXTINF:-1 tvg-id="KVVBLD331.us" group-title="🇺🇸 United States",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="YoutooAmerica.us" group-title="🇺🇸 United States",KVVB-TV 33 Victor Valley (1080p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us" group-title="🇺🇸 United States",LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
@@ -8337,11 +8335,11 @@ https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" group-title="🇺🇸 United States",Monroe County Television MCTV (Monroe County FL) (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
-#EXTINF:-1 tvg-id="KCWX351.us" group-title="🇺🇸 United States",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Roar.us" group-title="🇺🇸 United States",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WLIO81.us" group-title="🇺🇸 United States",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
 https://live.field59.com/wlio/wlio1/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAR101.us" group-title="🇺🇸 United States",NBC 10 Providence MA (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 10 Providence MA (1080p)
 https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
 #EXTINF:-1 tvg-id="NCMEducationalKidsChannel.us" group-title="🇺🇸 United States",NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
@@ -8427,17 +8425,17 @@ https://vallejo.cablecast.tv/live-3/live/live.m3u8
 https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="KVTNDT251.us" group-title="🇺🇸 United States",VTN Victory Television Network (720p)
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="WBBJTV71.us" group-title="🇺🇸 United States",WBBJ (Jackson TN) (432p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WBBJ (Jackson TN) (432p)
 https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
-#EXTINF:-1 tvg-id="WBRZTV21.us" group-title="🇺🇸 United States",WBRZ Weather Channel Baton Rouge LA (480p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WBRZ Weather Channel Baton Rouge LA (480p)
 https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="WCBITV41.us" group-title="🇺🇸 United States",WCBI (Columbus MI) (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",WCBI (Columbus MI) (720p)
 https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
 #EXTINF:-1 tvg-id="WCCADT1.us" group-title="🇺🇸 United States",WCCA 194 Worcester MA (WCCA-TV) (480p)
 https://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 tvg-id="WCOT.us" group-title="🇺🇸 United States",WCOT 13 (Tallahassee FL) (720p)
 https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WDEFTV121.us" group-title="🇺🇸 United States",WDEF-TV News Chattanooga TN (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",WDEF-TV News Chattanooga TN (720p)
 https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
 #EXTINF:-1 tvg-id="WhitePlainsCommunityMedia.us" group-title="🇺🇸 United States",White Plains Community Media (360p)
 https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
@@ -8447,19 +8445,19 @@ https://whittier.cablecast.tv/live/stream-1/live.m3u8
 https://frontdoor.wcat-tv.org/live-12/live/live.m3u8
 #EXTINF:-1 tvg-id="WITN22.us" group-title="🇺🇸 United States",WITN 22 (Wilmington DE) (1080p) [Not 24/7]
 https://witn.cablecast.tv/live-4/live/live.m3u8
-#EXTINF:-1 tvg-id="WJXT71.us" group-title="🇺🇸 United States",WJXT News4JAX (Jacksonville FL) (720p)
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",WJXT News4JAX (Jacksonville FL) (720p)
 https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 #EXTINF:-1 tvg-id="WLNGRadio.us" group-title="🇺🇸 United States",WLNG Radio (410p) [Not 24/7]
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="WMGTTV411.us" group-title="🇺🇸 United States",WMGT-TV News (Macon GA) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WMGT-TV News (Macon GA) (720p)
 https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
 #EXTINF:-1 tvg-id="WorldHarvestTV.us" group-title="🇺🇸 United States",World Harvest TV (360p)
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WPSTV.us" group-title="🇺🇸 United States",WPS TV (360p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVQDT361.us" group-title="🇺🇸 United States",WTVQ ABC 36 News (Lexington KY) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WTVQ ABC 36 News (Lexington KY) (720p)
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-#EXTINF:-1 tvg-id="WXXVTV251.us" group-title="🇺🇸 United States",WXXV-TV News (Biloxi MS) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WXXV-TV News (Biloxi MS) (720p)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
 #EXTINF:-1 tvg-id="YouDotGov.us" group-title="🇺🇸 United States",YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
@@ -8483,15 +8481,15 @@ https://lbs-us1.suprememastertv.com/720p.m3u8
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn" group-title="🇺🇸 United States",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KETS21.us" group-title="🇺🇸 United States",Arkansas PBS [Geo-blocked]
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",Arkansas PBS [Geo-blocked]
 https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8
-#EXTINF:-1 tvg-id="KHET111.us" group-title="🇺🇸 United States",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS Honolulu HI (KHET) (1080p) [Not 24/7]
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 #EXTINF:-1 tvg-id="WKPCDT2.us" group-title="🇺🇸 United States",PBS KET2 (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1 tvg-id="WKPCTV153.us" group-title="🇺🇸 United States",PBS KET KY (480p)
+#EXTINF:-1 tvg-id="KentuckyEducationalTelevision.us" group-title="🇺🇸 United States",PBS KET KY (480p)
 https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
-#EXTINF:-1 tvg-id="WKMJTV683.us" group-title="🇺🇸 United States",PBS KET World (480p)
+#EXTINF:-1 tvg-id="KentuckyEducationalTelevision.us" group-title="🇺🇸 United States",PBS KET World (480p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" group-title="🇺🇸 United States",PBS Kids Alaska (1080p)
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
@@ -8501,19 +8499,19 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us" group-title="🇺🇸 United States",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="KUONTV121.us" group-title="🇺🇸 United States",PBS Lincoln NE (KUON) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS Lincoln NE (KUON) (1080p) [Geo-blocked]
 https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8
-#EXTINF:-1 tvg-id="WMPT541.us" group-title="🇺🇸 United States",PBS MPT Baltimore MD (WMPB) (1080p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS National East (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS National West (1080p) [Geo-blocked]
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1 tvg-id="WNJT521.us" group-title="🇺🇸 United States",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
 https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
-#EXTINF:-1 tvg-id="KMOSTV61.us" group-title="🇺🇸 United States",PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="PBS.us" group-title="🇺🇸 United States",PBS Sedalia British Columbia MO (KMOS) (1080p) [Geo-blocked]
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="WMPT222.us" group-title="🇺🇸 United States",WMPT-DT2 (PBS Create)
+#EXTINF:-1 tvg-id="Create.us" group-title="🇺🇸 United States",WMPT-DT2 (PBS Create)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" group-title="🇺🇸 United States",AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
@@ -10201,7 +10199,7 @@ https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
 https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",World’s Most Evil Killers (1080p) [Geo-blocked]
 https://pb-b62f663v8jteu.akamaized.net/Worlds_Most_Evil_Killers.m3u8
-#EXTINF:-1 tvg-id="WSOCTV91.us" group-title="🇺🇸 United States",WSOC Charlotte (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",WSOC Charlotte (1080p) [Geo-blocked]
 https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",WWE Superstar Central (1080p)
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
@@ -10413,27 +10411,27 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" group-title="🇺🇸 United States",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="KATU321.us" group-title="🇺🇸 United States",ABC 2 Portland OR (KATU) (1080p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",ABC 2 Portland OR (KATU) (1080p)
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WCIV361.us" group-title="🇺🇸 United States",ABC 4 Charleston SC (WCIV) (1080p)
+#EXTINF:-1 tvg-id="MNT.us" group-title="🇺🇸 United States",ABC 4 Charleston SC (WCIV) (1080p)
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KOMOTV511.us" group-title="🇺🇸 United States",ABC 4 Seattle WA (KOMO) (1080p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",ABC 4 Seattle WA (KOMO) (1080p)
 https://linear-709.frequency.stream/dist/stirr/709/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KSTPTV51.us" group-title="🇺🇸 United States",ABC 5 St. Paul MN (KSTP) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 5 St. Paul MN (KSTP) (1080p)
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KAAL61.us" group-title="🇺🇸 United States",ABC 6 Austin TX (KAAL) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 6 Austin TX (KAAL) (1080p)
 https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WSYX61.us" group-title="🇺🇸 United States",ABC 6 Columbus OH (WSYX) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 6 Columbus OH (WSYX) (1080p)
 https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLATV71.us" group-title="🇺🇸 United States",ABC 7 Washington DC (WJLA) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 7 Washington DC (WJLA) (1080p)
 https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WDIODT101.us" group-title="🇺🇸 United States",ABC 10 Duluth MN (WDIO) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 10 Duluth MN (WDIO) (1080p)
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WLOS131.us" group-title="🇺🇸 United States",ABC 13 Asheville NC (WLOS) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 13 Asheville NC (WLOS) (1080p)
 https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WPDETV151.us" group-title="🇺🇸 United States",ABC 15 Myrtle Beach FL (WPDE) (1080p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 15 Myrtle Beach FL (WPDE) (1080p)
 https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WKEF451.us" group-title="🇺🇸 United States",ABC 22 Dayton OH (WKEF) (1080p)
+#EXTINF:-1 tvg-id="Roar.us" group-title="🇺🇸 United States",ABC 22 Dayton OH (WKEF) (1080p)
 https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",American Stories (1080p)
 https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8
@@ -10441,21 +10439,21 @@ https://linear-1016.frequency.stream/dist/stirr/1016/hls/master/playlist.m3u8
 https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Black Enterprise Streaming Network (1080p)
 https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KUTV21.us" group-title="🇺🇸 United States",CBS 2 Salt Lake City UT (KUTV) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 2 Salt Lake City UT (KUTV) (1080p)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WWMT31.us" group-title="🇺🇸 United States",CBS 3 Kalamazoo MI (WWMT) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 3 Kalamazoo MI (WWMT) (1080p)
 https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KDBCTV41.us" group-title="🇺🇸 United States",CBS 4 El Paso TX (KDBC) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 4 El Paso TX (KDBC) (1080p)
 https://linear-706.frequency.stream/dist/stirr/706/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WKRCTV121.us" group-title="🇺🇸 United States",CBS 12 Cincinnati OH (WKRC) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 12 Cincinnati OH (WKRC) (1080p)
 https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WPEC121.us" group-title="🇺🇸 United States",CBS 12 West Palm Beach FL (WPEC) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 12 West Palm Beach FL (WPEC) (1080p)
 https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WHPDT1.us" group-title="🇺🇸 United States",CBS 21 Harrisburg PA (WHP) (1080p)
 https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WSBTTV281.us" group-title="🇺🇸 United States",CBS 22 South Bend IN (WSBT) (1080p)
+#EXTINF:-1 tvg-id="Roar.us" group-title="🇺🇸 United States",CBS 22 South Bend IN (WSBT) (1080p)
 https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KEYETV421.us" group-title="🇺🇸 United States",CBS 42 Austin TX (KEYE) (1080p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 42 Austin TX (KEYE) (1080p)
 https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Channel Fight (1080p)
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
@@ -10481,13 +10479,13 @@ https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
 https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" group-title="🇺🇸 United States",FITE 24/7 (1080p)
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
-#EXTINF:-1 tvg-id="WLUKTV141.us" group-title="🇺🇸 United States",FOX 11 Green Bay WI (WLUK) (1080p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",FOX 11 Green Bay WI (WLUK) (1080p)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KOKHTV251.us" group-title="🇺🇸 United States",FOX 25 Oklahoma City OK (KOKH) (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 25 Oklahoma City OK (KOKH) (1080p)
 https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="KMPHTV261.us" group-title="🇺🇸 United States",FOX 26 Visalia CA (KMPH) (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 26 Visalia CA (KMPH) (1080p)
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WBFF451.us" group-title="🇺🇸 United States",FOX 45 Baltimore MD (WBFF) (1080p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 45 Baltimore MD (WBFF) (1080p)
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" group-title="🇺🇸 United States",Fuel TV (1080p)
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
@@ -10513,21 +10511,21 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 https://d2kwqe56yti97f.cloudfront.net/scheduler/scheduleMaster/490.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",My Money (1080p)
 https://d3bqd6nz14unwy.cloudfront.net/scheduler/scheduleMaster/468.m3u8
-#EXTINF:-1 tvg-id="KSNV31.us" group-title="🇺🇸 United States",NBC 3 Las Vegas NV (KSNV) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 3 Las Vegas NV (KSNV) (1080p)
 https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KOBDT1.us" group-title="🇺🇸 United States",NBC 4 Albuquerque NM (KOB) (1080p)
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WOAITV41.us" group-title="🇺🇸 United States",NBC 4 San Antonio TX (WOAI) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 4 San Antonio TX (WOAI) (1080p)
 https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WJACTV61.us" group-title="🇺🇸 United States",NBC 6 Johnstown PA (WJAC) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 6 Johnstown PA (WJAC) (1080p)
 https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WTOVTV91.us" group-title="🇺🇸 United States",NBC 9 Steubenville OH (WTOV) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 9 Steubenville OH (WTOV) (1080p)
 https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WJAR101.us" group-title="🇺🇸 United States",NBC 10 Cranston RI (WJAR) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 10 Cranston RI (WJAR) (1080p)
 https://linear-694.frequency.stream/dist/stirr/694/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WHECTV101.us" group-title="🇺🇸 United States",NBC 10 Rochester NY (WHEC) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 10 Rochester NY (WHEC) (1080p)
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYT131.us" group-title="🇺🇸 United States",NBC 13 Albany NY (WNYT) (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 13 Albany NY (WNYT) (1080p)
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" group-title="🇺🇸 United States",NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
@@ -10599,27 +10597,27 @@ https://docurama-tcl.amagi.tv/playlist.m3u8
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" group-title="🇺🇸 United States",Young Hollywood (720p)
 https://younghollywood-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WMARTV21.us" group-title="🇺🇸 United States",ABC 2 Baltimore MD (WMAR) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 2 Baltimore MD (WMAR) (720p)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="WCVBTV501.us" group-title="🇺🇸 United States",ABC 5 Boston MA (WCVB) (720p)
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us" group-title="🇺🇸 United States",ABC 5 Boston MA (WCVB) (720p)
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-id="KOATTV71.us" group-title="🇺🇸 United States",ABC 7 Albuquerque NM (KOAT) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 7 Albuquerque NM (KOAT) (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
-#EXTINF:-1 tvg-id="WSOCTV91.us" group-title="🇺🇸 United States",ABC 9 Charlotte NC (WSOC) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 9 Charlotte NC (WSOC) (720p)
 https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8
-#EXTINF:-1 tvg-id="WMURTV91.us" group-title="🇺🇸 United States",ABC 9 Manchester NH (WMUR-TV) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 9 Manchester NH (WMUR-TV) (720p)
 https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8
-#EXTINF:-1 tvg-id="KGUNTV91.us" group-title="🇺🇸 United States",ABC 9 Tucson AZ (KGUN) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 9 Tucson AZ (KGUN) (720p)
 https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8
-#EXTINF:-1 tvg-id="KGTV101.us" group-title="🇺🇸 United States",ABC 10 San Diego CA (KGTV) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 10 San Diego CA (KGTV) (720p)
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-id="WISNTV121.us" group-title="🇺🇸 United States",ABC 12 Milwaukee WI (WISN) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 12 Milwaukee WI (WISN) (720p)
 https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
 #EXTINF:-1 tvg-id="KNXVTV611.us" group-title="🇺🇸 United States",ABC 15 Phoenix AZ (KNXV) (720p)
 https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
-#EXTINF:-1 tvg-id="KEROTV231.us" group-title="🇺🇸 United States",ABC 23 Bakersfield CA (KERO) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 23 Bakersfield CA (KERO) (720p)
 https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8
-#EXTINF:-1 tvg-id="WTXLTV271.us" group-title="🇺🇸 United States",ABC 27 Tallahassee FL (WTXL) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 27 Tallahassee FL (WTXL) (720p)
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="🇺🇸 United States",ABC News Live (720p)
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
@@ -10657,11 +10655,11 @@ https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playl
 https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="🇺🇸 United States",CBC News Network (1080p)
 https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
-#EXTINF:-1 tvg-id="KMTVTV31.us" group-title="🇺🇸 United States",CBS 3 Omaha NE (KMTV) (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 3 Omaha NE (KMTV) (720p)
 https://aegis-cloudfront-1.tubi.video/0b16cabe-a8fd-4d91-99e5-3efb7aa740cc/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVRTV61.us" group-title="🇺🇸 United States",CBS 6 Richmond VA (WTVR) (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 6 Richmond VA (WTVR) (720p)
 https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
-#EXTINF:-1 tvg-id="KCCI81.us" group-title="🇺🇸 United States",CBS 8 Des Moines IA (KCCI) (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 8 Des Moines IA (KCCI) (720p)
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Cine Estrella (1080p)
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
@@ -10703,23 +10701,23 @@ https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/maste
 https://aegis-cloudfront-1.tubi.video/bf25c5e4-9d1e-4b3e-a6c3-5f5578a81382/playlist.m3u8
 #EXTINF:-1 tvg-id="FearFactor.us" group-title="🇺🇸 United States",Fear Factor (720p)
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
-#EXTINF:-1 tvg-id="WJBK21.us" group-title="🇺🇸 United States",FOX 2 Detroit MI (WJBK) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 2 Detroit MI (WJBK) (720p)
 https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
-#EXTINF:-1 tvg-id="KTVU41.us" group-title="🇺🇸 United States",FOX 2 San Francisco CA (KTVU) (720p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",FOX 2 San Francisco CA (KTVU) (720p)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
-#EXTINF:-1 tvg-id="WNYW51.us" group-title="🇺🇸 United States",FOX 5 New York NY (WNYW) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 5 New York NY (WNYW) (720p)
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
-#EXTINF:-1 tvg-id="WTTG51.us" group-title="🇺🇸 United States",FOX 5 Washington DC (WTTG) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 5 Washington DC (WTTG) (720p)
 https://aegis-cloudfront-1.tubi.video/4b125d60-5d81-4a3c-99c3-726c9cb8cf99/index.m3u8
-#EXTINF:-1 tvg-id="WITI61.us" group-title="🇺🇸 United States",FOX 6 Milwaukee WI (WITI) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 6 Milwaukee WI (WITI) (720p)
 https://aegis-cloudfront-1.tubi.video/f16a76f1-fdb8-4e18-a14b-1e40e98eb1ff/index.m3u8
-#EXTINF:-1 tvg-id="KSAZTV101.us" group-title="🇺🇸 United States",FOX 10 Phoenix AZ (KSAZ) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 10 Phoenix AZ (KSAZ) (720p)
 https://aegis-cloudfront-1.tubi.video/6bb80abf-8f73-46f3-a520-bb810d93f1d0/index.m3u8
-#EXTINF:-1 tvg-id="KTTV111.us" group-title="🇺🇸 United States",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 11 Los Angeles CA (KTTV) (720p)
 https://aegis-cloudfront-1.tubi.video/317a6700-b890-4066-a2e7-dea5c15fd915/index.m3u8
-#EXTINF:-1 tvg-id="KCPQ131.us" group-title="🇺🇸 United States",FOX 13 Seattle WA (KCPQ) (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 13 Seattle WA (KCPQ) (720p)
 https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
-#EXTINF:-1 tvg-id="WFLD501.us" group-title="🇺🇸 United States",FOX 32 Chicago IL (WFLD) (720p)
+#EXTINF:-1 tvg-id="MNT.us" group-title="🇺🇸 United States",FOX 32 Chicago IL (WFLD) (720p)
 https://aegis-cloudfront-1.tubi.video/3600d45a-dfbf-4878-9ca1-2e2bc9077fed/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" group-title="🇺🇸 United States",Fox Soul (720p)
 https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8
@@ -10777,21 +10775,21 @@ https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playl
 https://aegis-cloudfront-1.tubi.video/07f838db-e5bc-47c9-b2b8-6d7037b06b9b/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",NBA FAST Channel (720p)
 https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
-#EXTINF:-1 tvg-id="KCRATV581.us" group-title="🇺🇸 United States",NBC 3 Sacramento CA (KCRA) (720p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",NBC 3 Sacramento CA (KCRA) (720p)
 https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTMJTV41.us" group-title="🇺🇸 United States",NBC 4 Milwaukee WI (WTMJ) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 4 Milwaukee WI (WTMJ) (720p)
 https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBY61.us" group-title="🇺🇸 United States",NBC 6 Santa Barbara CA (KSBY) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 6 Santa Barbara CA (KSBY) (720p)
 https://aegis-cloudfront-1.tubi.video/d5f0543d-5f83-4a69-ba01-c5a68f0c09a1/playlist.m3u8
-#EXTINF:-1 tvg-id="WGAL81.us" group-title="🇺🇸 United States",NBC 8 Lancaster PA (WGAL) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 8 Lancaster PA (WGAL) (720p)
 https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8
-#EXTINF:-1 tvg-id="KSBW81.us" group-title="🇺🇸 United States",NBC 8 Salinas CA (KSBW) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 8 Salinas CA (KSBW) (720p)
 https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
-#EXTINF:-1 tvg-id="WBALTV111.us" group-title="🇺🇸 United States",NBC 11 Baltimore MD (WBAL) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 11 Baltimore MD (WBAL) (720p)
 https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
-#EXTINF:-1 tvg-id="WXIITV201.us" group-title="🇺🇸 United States",NBC 12 Winston-Salem NC (WXII) (720p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",NBC 12 Winston-Salem NC (WXII) (720p)
 https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8
-#EXTINF:-1 tvg-id="WGBATV261.us" group-title="🇺🇸 United States",NBC 26 Green Bay WI (WGBA) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 26 Green Bay WI (WGBA) (720p)
 https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" group-title="🇺🇸 United States",NBC News Now (1080p)
 https://aegis-cloudfront-1.tubi.video/605fb6ea-f89c-451a-873c-030cb726b493/master.m3u8
@@ -10913,37 +10911,37 @@ https://aegis-cloudfront-1.tubi.video/e0a81cae-d483-46f9-aaa1-d0b87faa13cf/playl
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8
 #EXTINF:-1 tvg-id="XploreTV.us" group-title="🇺🇸 United States",Xplore (720p)
 https://aegis-cloudfront-1.tubi.video/4cfc30dc-1431-46b6-aea7-89a2e7d35823/playlist.m3u8
-#EXTINF:-1 tvg-id="KEROTV231.us" group-title="🇺🇸 United States",23 ABC Bakersfield CA (KERO) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-#EXTINF:-1 tvg-id="KMGHTV71.us" group-title="🇺🇸 United States",ABC 7 Denver CO (KMGH) (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 7 Denver CO (KMGH) (720p)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
-#EXTINF:-1 tvg-id="KTNVTV331.us" group-title="🇺🇸 United States",ABC 13 Las Vegas NV (KTNV) (720p)
+#EXTINF:-1 tvg-id="CW.us" group-title="🇺🇸 United States",ABC 13 Las Vegas NV (KTNV) (720p)
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1 tvg-id="KNXVTV611.us" group-title="🇺🇸 United States",ABC 15 Phoenix AZ (KNXV-TV) (720p)
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 tvg-id="KXXV251.us" group-title="🇺🇸 United States",ABC 25 News Central Texas (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 25 News Central Texas (720p)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
-#EXTINF:-1 tvg-id="WTXLTV271.us" group-title="🇺🇸 United States",ABC Tallahassee (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC Tallahassee (720p) [Not 24/7]
 https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us" group-title="🇺🇸 United States",America's Voice (720p)
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1 tvg-id="KMTVTV31.us" group-title="🇺🇸 United States",CBS 3 Omaha NE (KMTV-TV) (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",CBS 3 Omaha NE (KMTV-TV) (720p)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" group-title="🇺🇸 United States",Court TV (720p)
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:-1 tvg-id="KRCA71.us" group-title="🇺🇸 United States",KRCA-TV Estrella Los Angeles (720p)
+#EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",KRCA-TV Estrella Los Angeles (720p)
 https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8
-#EXTINF:-1 tvg-id="KRISTV61.us" group-title="🇺🇸 United States",KRIS-DT1 (1080p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KRIS-DT1 (1080p)
 https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
-#EXTINF:-1 tvg-id="KRISTV61.us" group-title="🇺🇸 United States",KRIS-DT1 (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KRIS-DT1 (720p)
 https://content.uplynk.com/channel/f805c6ab7ddf4e2489ae648bb28fb133.m3u8
-#EXTINF:-1 tvg-id="KSBY61.us" group-title="🇺🇸 United States",KSBY News San Louis Obispo CA (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KSBY News San Louis Obispo CA (720p)
 https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
-#EXTINF:-1 tvg-id="KSHBTV411.us" group-title="🇺🇸 United States",KSHB 41 (Kansas City MO) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",KSHB 41 (Kansas City MO) (720p)
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 tvg-id="KZTV101.us" group-title="🇺🇸 United States",KZTV-DT1 (720p)
+#EXTINF:-1 tvg-id="CBS.us" group-title="🇺🇸 United States",KZTV-DT1 (720p)
 https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8
-#EXTINF:-1 tvg-id="WGBATV261.us" group-title="🇺🇸 United States",NBC 26 Green Bay WI (WGBA-DT1) (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC 26 Green Bay WI (WGBA-DT1) (720p)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 #EXTINF:-1 tvg-id="SchwabNetwork.us" group-title="🇺🇸 United States",Schwab Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
@@ -10953,11 +10951,11 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="TopStoriesbyNewsy.us" group-title="🇺🇸 United States",Top Stories by Newsy (720p)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
-#EXTINF:-1 tvg-id="WFTXTV361.us" group-title="🇺🇸 United States",WFTX News Fort Myers FL (720p)
+#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
-#EXTINF:-1 tvg-id="WGGSTV162.us" group-title="🇺🇸 United States",WGGS-DT2 (720p)
+#EXTINF:-1 tvg-id="Outlaw.us" group-title="🇺🇸 United States",WGGS-DT2 (720p)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:-1 tvg-id="WPTVTV51.us" group-title="🇺🇸 United States",WPTV News West Palm Beach FL (720p)
+#EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",WPTV News West Palm Beach FL (720p)
 https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
 #EXTINF:-1 tvg-id="AsianCultureTV.us" group-title="🇺🇸 United States",Asian Culture TV (1080p)
 https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
