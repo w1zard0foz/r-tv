@@ -3909,8 +3909,6 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp" group-title="🇯🇵 Japan",JOEX-DTV (540p)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="JOJGDTV.jp" group-title="🇯🇵 Japan",JOJG-DTV (1080i)
-https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" group-title="🇯🇵 Japan",JORX-DTV
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵 Japan",NHK General TV (720p)
@@ -6541,7 +6539,7 @@ https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="MontgomeryChannel.us" group-title="🇺🇸 United States",Montgomery Channel
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live.m3u8
-#EXTINF:-1 tvg-id="MoreMax.us" group-title="🇺🇸 United States",MoreMax (1080p)
+#EXTINF:-1 tvg-id="CinemaxHits.us" group-title="🇺🇸 United States",Cinemax Hits (1080p)
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="Movies.us" group-title="🇺🇸 United States",Movies! (480p)
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
@@ -7489,8 +7487,6 @@ https://wggstv16.ddns.net:9953/hls/walk1.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us" group-title="🇺🇸 United States",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (720p)
-http://5.254.89.106/6199/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",WTMO-CD 31.1 (720p)
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="🇺🇸 United States",Telemundo Al Dia (720p)
@@ -7555,6 +7551,18 @@ http://45.70.201.81:8000/play/a00u/index.m3u8
 http://45.162.64.114/ADULT_SWIM/index.m3u8
 #EXTINF:-1 tvg-id="MTV.us" group-title="🇺🇸 United States",MTV (1080p)
 http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="AspireTVLife.us" group-title="🇺🇸 United States",Aspire TV Life (1080p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" group-title="🇺🇸 United States",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" group-title="🇺🇸 United States",HBO Hits (720p)
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="HBOMovies.us" group-title="🇺🇸 United States",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us" group-title="🇺🇸 United States",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="AMCenEspanol.us" group-title="🇺🇸 United States",AMC en Espanol
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
