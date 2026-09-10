@@ -167,7 +167,6 @@
 <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk">Nickelodeon</channel>
 <channel site="entertainment.ie" site_id="pick" lang="en" xmltv_id="SkyMix.uk">Pick</channel>
 <channel site="entertainment.ie" site_id="sky-nature" lang="en" xmltv_id="SkyNature.uk">Sky Nature</channel>
-<channel site="entertainment.ie" site_id="sky-sports-cricket" lang="en" xmltv_id="SkySportsCricket.uk">Sky Sports Cricket</channel>
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
@@ -226,6 +225,7 @@
 <channel site="freeview.co.uk" site_id="64377#30465" lang="en" xmltv_id="TVWarehouse.uk">TV Warehouse+1</channel>
 <channel site="freeview.co.uk" site_id="64257#12298" lang="en" xmltv_id="UW.uk">U&amp;W</channel>
 <channel site="freeview.co.uk" site_id="64257#14464" lang="en" xmltv_id="WildEarth.za">WildEarth</channel>
+<channel site="gatotv.com" site_id="amc_espana" lang="es" xmltv_id="AMCEurope.uk">Canal AMC (España)</channel>
 <channel site="gatotv.com" site_id="axn_andes" lang="es" xmltv_id="AXNLatinAmerica.us">Canal AXN (Andes)</channel>
 <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us">Canal BabyFirst TV</channel>
 <channel site="gatotv.com" site_id="cine_sony" lang="es" xmltv_id="CineSony.us">Canal Cine Sony</channel>
@@ -280,6 +280,8 @@
 <channel site="guidatv.sky.it" site_id="DTH#11342" lang="it" xmltv_id="Twentyseven.it">27Twentyseven HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#11712" lang="it" xmltv_id="Value24TV.it">VALUE 24 TV</channel>
 <channel site="horizon.tv" site_id="10152" lang="sk" xmltv_id="EuronewsHungarian.fr">Euronews HU</channel>
+<channel site="horizon.tv" site_id="10166" lang="de" xmltv_id="RTL.de">RTL DE</channel>
+<channel site="horizon.tv" site_id="10167" lang="de" xmltv_id="RTLZwei.de">RTL Zwei</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-gem-sa" lang="en" xmltv_id="9Gem.au">9Gem</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-go-sa" lang="en" xmltv_id="9Go.au">9Go!</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-life-sa" lang="en" xmltv_id="9Life.au">9Life</channel>
@@ -1156,6 +1158,7 @@
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
 <channel site="tv.blue.ch" site_id="1645" lang="it" xmltv_id="EspansioneTV.it">Espansione TV</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
+<channel site="tv.blue.ch" site_id="1792" lang="de" xmltv_id="FixFoxi.de">Fix &amp; Foxi TV</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
 <channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it">SI Solocalcio</channel>
 <channel site="tv.blue.ch" site_id="2060" lang="it" xmltv_id="TrentinoTV.it">Trentino TV</channel>
@@ -1194,6 +1197,7 @@
 <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us">E!</channel>
 <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV</channel>
 <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark</channel>
+<channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>

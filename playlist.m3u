@@ -519,6 +519,8 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca" group-title="🇨🇦 Canada",TVOKids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ca" group-title="🇨🇦 Canada",NTV (720p)
+https://live.omni3.pl/cjon-dt/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 tvg-id="48Hours.us" group-title="🇨🇦 Canada",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Aftershock
@@ -1567,6 +1569,12 @@ https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="ComedyCentral.de" group-title="🇩🇪 Germany",Comedy Central
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="RTL.de" group-title="🇩🇪 Germany",RTL HD (1080p)
+https://live.omni3.pl/rtlde/index.m3u8?token=ebnk.xyz
+#EXTINF:-1 tvg-id="RTLZwei.de" group-title="🇩🇪 Germany",RTL Zwei (1080p)
+https://live.omni3.pl/rtl2de/index.m3u8?token=ebnk.xyz
+#EXTINF:-1 tvg-id="FixFoxi.de" group-title="🇩🇪 Germany",Fix & Foxi (540p)
+https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -4353,8 +4361,6 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 https://tvsen6.aynaott.com/skynature/index.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeather.uk" group-title="🇬🇧 United Kingdom",Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧 United Kingdom",Sky Sports Cricket HD (1080p)
-https://xemzi.short.gy/2000006
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" group-title="🇬🇧 United Kingdom",Space Live powered by sen (1080p)
 https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" group-title="🇬🇧 United Kingdom",Takbeer TV (720p)
@@ -4451,6 +4457,10 @@ http://202.70.146.135:8000/play/a0a2/index.m3u8
 http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News Europe (576p)
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk" group-title="🇬🇧 United Kingdom",AMC Europe Bulgary (576p)
+http://hls127.freeott.top:8080/BG_AMC/video.m3u8
+#EXTINF:-1 tvg-id="GODTV.uk" group-title="🇬🇧 United Kingdom",GOD TV (576p)
+https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7495,8 +7505,6 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
 http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="RadiantTV.us" group-title="🇺🇸 United States",RadiantTV (1080p)
 https://rpn.bozztv.com/radiant/radiant/radiant/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" group-title="🇺🇸 United States",Fox News Channel (720p)
-http://4.30.180.36:8420/foxnews/index.m3u8?token=test
 #EXTINF:-1 tvg-id="MeTV.us" group-title="🇺🇸 United States",MeTV (720p)
 http://4.30.180.36:8420/metv/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DSports.us" group-title="🇺🇸 United States",DSports
@@ -7559,6 +7567,16 @@ http://rezofoot.tv/NBATV/index.m3u8
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="SFree.us" group-title="🇺🇸 United States",S Free! (360p)
 https://vodcdn.bamboo-cloud.com/livehls/6a81c67306304414d27742d3/master.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",UniMas WFUT-DT (1080p)
+http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="Showtime.us" group-title="🇺🇸 United States",Showtime (1080p)
+http://4.30.180.36:8420/showtime/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="AXNBlack.us" group-title="🇺🇸 United States",AXN Black (576p)
+http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" group-title="🇺🇸 United States",AXN White Bulgaria (576p)
+http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
+#EXTINF:-1 tvg-id="6WiseTv.us" group-title="🇺🇸 United States",6 Wise Tv (720p)
+https://edge.enhdtv.com/8150/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
