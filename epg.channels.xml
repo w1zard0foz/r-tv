@@ -191,6 +191,7 @@
 <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="ru" xmltv_id="TBNArmenia.us">TBN Armenia</channel>
 <channel site="epg.iptvx.one" site_id="trace-sport-stars" lang="ru" xmltv_id="TraceSportStars.fr">Trace Sport Stars</channel>
 <channel site="epg.iptvx.one" site_id="tri-angela" lang="ru" xmltv_id="3ABNRussia.ru">Три Ангела</channel>
+<channel site="epg.iptvx.one" site_id="vh1-european" lang="ru" xmltv_id="VH1.us">VH1</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
@@ -1090,6 +1091,7 @@
 <channel site="sky.com" site_id="GB#1228" lang="en" xmltv_id="LoveWorldUK.ng">LoveWorld HD</channel>
 <channel site="sky.com" site_id="GB#3202" lang="en" xmltv_id="MTA1World.uk">MTA1 World HD</channel>
 <channel site="sky.com" site_id="GB#3715" lang="en" xmltv_id="NoorTV.uk">Noor TV</channel>
+<channel site="sky.com" site_id="GB#1041" lang="en" xmltv_id="PanjabTV.uk">Panjab TV</channel>
 <channel site="sky.com" site_id="GB#3355" lang="en" xmltv_id="SangatTV.uk">Sangat</channel>
 <channel site="sky.com" site_id="GB#4054" lang="en" xmltv_id="SkyNews.ie">Sky News HD</channel>
 <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk">Takbeer TV</channel>
@@ -1201,7 +1203,6 @@
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
-<channel site="tvguide.com" site_id="9200018644" lang="en" xmltv_id="FXX.us">FXX</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
 <channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us">Lifetime</channel>
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
@@ -1217,6 +1218,7 @@
 <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us">LMN</channel>
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
+<channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
 <channel site="tvguide.com" site_id="9233013967" lang="en" xmltv_id="FXMovieChannel.us">FX Movie</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
@@ -1254,6 +1256,7 @@
 <channel site="tvpassport.com" site_id="abc-wplg-miami-fl-hd/5722" lang="en" xmltv_id="WPLG101.us">ABC (WPLG) Miami, FL HD</channel>
 <channel site="tvpassport.com" site_id="nbc-wrc-district-of-columbia-hd/3739" lang="en" xmltv_id="WRCDT1.us">NBC (WRC) District of Columbia HD</channel>
 <channel site="tvpassport.com" site_id="yes-network/1953" lang="en" xmltv_id="YesNetwork.us">YES Network</channel>
+<channel site="tvtv.us" site_id="10222" lang="en" xmltv_id="Galavision.us">Galavisión Este</channel>
 <channel site="tvtv.us" site_id="10999" lang="en" xmltv_id="News12LongIsland.us">News12 Long Island</channel>
 <channel site="tvtv.us" site_id="11253" lang="en" xmltv_id="NTDTV.us">NTD TV</channel>
 <channel site="tvtv.us" site_id="11514" lang="en" xmltv_id="WorldHarvestTV.us">World Harvest TV</channel>
