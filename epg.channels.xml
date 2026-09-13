@@ -1012,7 +1012,6 @@
 <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us">ESPNU</channel>
 <channel site="ontvtonight.com" site_id="us#69022184/kmsp-hdtv" lang="en" xmltv_id="KMSPDT1.us">KMSP HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us">STARZ HD (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us">STARZ Cinema (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023464/starz-edge-east" lang="en" xmltv_id="StarzEdge.us">Starz Edge (East)</channel>
@@ -1219,7 +1218,6 @@
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
 <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
-<channel site="tvguide.com" site_id="9233013967" lang="en" xmltv_id="FXMovieChannel.us">FX Movie</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>

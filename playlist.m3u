@@ -4465,6 +4465,8 @@ https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PanjabTV.uk" group-title="🇬🇧 United Kingdom",Panjab TV (576p)
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
+#EXTINF:-1 tvg-id="MUTV.uk" group-title="🇬🇧 United Kingdom",MUTV (720p)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -6659,8 +6661,6 @@ http://212.5.144.156:8080/nickjr/index.m3u8
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" group-title="🇺🇸 United States",Nick Jr. Latin America (1080p)
 http://179.60.51.134:8888/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="🇺🇸 United States",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us" group-title="🇺🇸 United States",Nickelodeon (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" group-title="🇺🇸 United States",Nickelodeon Latin America (1080p)
@@ -6913,8 +6913,6 @@ http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
 http://181.119.66.28:8081/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="🇺🇸 United States",Star Channel Latin America Central America (1080p)
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us" group-title="🇺🇸 United States",Starz (1080p)
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us" group-title="🇺🇸 United States",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us" group-title="🇺🇸 United States",Starz Comedy (1080p)
@@ -7341,14 +7339,6 @@ http://168.228.44.241:9997/play/a07g/index.m3u8
 http://168.228.44.241:9997/play/a09d/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" group-title="🇺🇸 United States",BabyFirst Spanish (720p)
 http://168.228.44.241:9997/play/a07u/index.m3u8
-#EXTINF:-1 tvg-id="FXMovieChannel.us" group-title="🇺🇸 United States",FX Movie Channel HD (1080p)
-https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="🇺🇸 United States",Nickelodeon (1080p)
-https://sra72yz.s.gy/NICKELODEON_EAST_US.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" group-title="🇺🇸 United States",Nicktoons (1080p)
-https://sra72yz.s.gy/NICKTOONS_US.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" group-title="🇺🇸 United States",Nick Jr. (1080p)
-https://sra72yz.s.gy/NICK_JR_US.m3u8
 #EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",Univision East HD (1080p)
 http://45.190.13.8/UnivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.us" group-title="🇺🇸 United States",TUDN (1080p)
