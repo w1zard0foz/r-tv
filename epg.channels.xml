@@ -82,6 +82,7 @@
 <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn">CGTN HD</channel>
 <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp">NHK World Premium</channel>
 <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us">Lifetime HD</channel>
+<channel site="content.astro.com.my" site_id="451" lang="en" xmltv_id="BBCLifestyle.uk">BBC Lifestyle HD</channel>
 <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk">BBC Earth</channel>
 <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk">Moonbug</channel>
 <channel site="cubmu.com" site_id="234" lang="id" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
@@ -175,7 +176,6 @@
 <channel site="epg.iptvx.one" site_id="h2" lang="ru" xmltv_id="VICETV.us">H2</channel>
 <channel site="epg.iptvx.one" site_id="iconcerts" lang="ru" xmltv_id="StingrayiConcerts.ca">Stingray iConcerts</channel>
 <channel site="epg.iptvx.one" site_id="m1global" lang="ru" xmltv_id="MMATVcom.ru">MMA-TV</channel>
-<channel site="epg.iptvx.one" site_id="mlb-network-us" lang="ru" xmltv_id="MLBNetwork.us">MLB Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="mtv-de" lang="ru" xmltv_id="MTV.de">MTV DE</channel>
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
@@ -260,6 +260,7 @@
 <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it">Iris</channel>
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
+<channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="NickJr.it">Nick Jr.</channel>
 <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="La5.it">La 5</channel>
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
 <channel site="guida.tv" site_id="77686988/mediaset-extra" lang="it" xmltv_id="MediasetExtra.it">Mediaset Extra</channel>
@@ -280,8 +281,12 @@
 <channel site="guidatv.sky.it" site_id="DTH#11342" lang="it" xmltv_id="Twentyseven.it">27Twentyseven HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#11712" lang="it" xmltv_id="Value24TV.it">VALUE 24 TV</channel>
 <channel site="horizon.tv" site_id="10152" lang="sk" xmltv_id="EuronewsHungarian.fr">Euronews HU</channel>
+<channel site="horizon.tv" site_id="10164" lang="de" xmltv_id="WELT.de">WELT</channel>
 <channel site="horizon.tv" site_id="10166" lang="de" xmltv_id="RTL.de">RTL DE</channel>
 <channel site="horizon.tv" site_id="10167" lang="de" xmltv_id="RTLZwei.de">RTL Zwei</channel>
+<channel site="horizon.tv" site_id="10168" lang="de" xmltv_id="RTLSuper.de">Super RTL</channel>
+<channel site="horizon.tv" site_id="10170" lang="de" xmltv_id="VOX.de">VOX</channel>
+<channel site="horizon.tv" site_id="10171" lang="de" xmltv_id="Nitro.de">Nitro</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-gem-sa" lang="en" xmltv_id="9Gem.au">9Gem</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-go-sa" lang="en" xmltv_id="9Go.au">9Go!</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-life-sa" lang="en" xmltv_id="9Life.au">9Life</channel>
@@ -957,6 +962,7 @@
 <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="cs" xmltv_id="JimJamEurope.uk">Jim Jam</channel>
 <channel site="m.tv.sms.cz" site_id="Kika" lang="de" xmltv_id="KiKA.de">Kika</channel>
 <channel site="m.tv.sms.cz" site_id="MTV+%28hu%29" lang="cs" xmltv_id="MTVGlobal.uk">MTV (hu)</channel>
+<channel site="m.tv.sms.cz" site_id="n-tv" lang="cs" xmltv_id="ntv.de">n-tv</channel>
 <channel site="m.tv.sms.cz" site_id="Outdoor+Channel" lang="en" xmltv_id="OutdoorChannel.us">Outdoor Channel</channel>
 <channel site="m.tv.sms.cz" site_id="Phoenix" lang="de" xmltv_id="phoenix.de">Phoenix</channel>
 <channel site="m.tv.sms.cz" site_id="tagesschau24" lang="cs" xmltv_id="tagesschau24.de">tagesschau24</channel>
@@ -971,7 +977,6 @@
 <channel site="meuguia.tv" site_id="EET" lang="pt" xmltv_id="ELatinAmerica.us">E! Entertainment Television</channel>
 <channel site="meuguia.tv" site_id="MGM" lang="pt" xmltv_id="AMCLatinAmerica.us">AMC</channel>
 <channel site="mi.tv" site_id="ar#hola-tv" lang="es" xmltv_id="HolaTVLatinAmerica.us">Hola TV</channel>
-<channel site="mi.tv" site_id="ar#nick-jr" lang="es" xmltv_id="NickJrLatinAmerica.us">Nick Jr.</channel>
 <channel site="mi.tv" site_id="ar#sony" lang="es" xmltv_id="SonyChannelAndes.us">Sony</channel>
 <channel site="mi.tv" site_id="br#sonlife-broadcasting-network" lang="pt" xmltv_id="SBNTVInternational.us">SonLife Broadcasting Network</channel>
 <channel site="mi.tv" site_id="co#aliento-vision" lang="es" xmltv_id="AlientoVision.us">Aliento Vision</channel>
@@ -1158,7 +1163,6 @@
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
 <channel site="tv.blue.ch" site_id="1645" lang="it" xmltv_id="EspansioneTV.it">Espansione TV</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
-<channel site="tv.blue.ch" site_id="1792" lang="de" xmltv_id="FixFoxi.de">Fix &amp; Foxi TV</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
 <channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it">SI Solocalcio</channel>
 <channel site="tv.blue.ch" site_id="2060" lang="it" xmltv_id="TrentinoTV.it">Trentino TV</channel>
@@ -1170,6 +1174,7 @@
 <channel site="tv.magenta.at" site_id="206966312068" lang="de" xmltv_id="Okto.at">Okto HD</channel>
 <channel site="tv.magenta.at" site_id="206969384238" lang="de" xmltv_id="Nickelodeon.de">Nickelodeon</channel>
 <channel site="tv.nu" site_id="horse-country-tv" lang="sv" xmltv_id="HorseCountryTV.uk">Horse &amp; Country TV</channel>
+<channel site="tv.sfr.fr" site_id="182" lang="fr" xmltv_id="SWRFernsehenHD.de">SWR</channel>
 <channel site="tv.sfr.fr" site_id="1023" lang="fr" xmltv_id="TV78.fr">TV78</channel>
 <channel site="tv.sfr.fr" site_id="1724" lang="fr" xmltv_id="ILTV.fr">ILTV</channel>
 <channel site="tv.sfr.fr" site_id="1750" lang="fr" xmltv_id="viaTelePaese.fr">Télé Paese</channel>
@@ -1261,7 +1266,6 @@
 <channel site="tvtv.us" site_id="16143" lang="en" xmltv_id="News12NewJersey.us">News12 New Jersey</channel>
 <channel site="tvtv.us" site_id="16220" lang="en" xmltv_id="FreeSpeechTV.us">Free Speech TV</channel>
 <channel site="tvtv.us" site_id="16325" lang="en" xmltv_id="ClassicArtsShowcase.us">Classic Arts Showcase</channel>
-<channel site="tvtv.us" site_id="17596" lang="en" xmltv_id="NBCSportsPhiladelphia.us">NBC Sports Philadelphia</channel>
 <channel site="tvtv.us" site_id="18580" lang="en" xmltv_id="News12Bronx.us">News12 Bronx</channel>
 <channel site="tvtv.us" site_id="19049" lang="en" xmltv_id="StingrayRomanceLatino.ca">Stingray Romance Latino</channel>
 <channel site="tvtv.us" site_id="25148" lang="en" xmltv_id="RFDTV.us">RFD-TV</channel>
