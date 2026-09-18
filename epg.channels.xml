@@ -31,6 +31,7 @@
 <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr">LCI</channel>
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
+<channel site="canalplus.com" site_id="#560" lang="fr" xmltv_id="Mezzo.fr">MEZZO</channel>
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
 <channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
@@ -38,6 +39,7 @@
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
 <channel site="canalplus.com" site_id="#356" lang="fr" xmltv_id="SerieClub.fr">SERIE CLUB</channel>
 <channel site="canalplus.com" site_id="#292" lang="fr" xmltv_id="Teva.fr">TEVA</channel>
+<channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr">TF1</channel>
 <channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr">TFX</channel>
 <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr">TRACE LATINA</channel>
 <channel site="canalplus.com" site_id="#585" lang="fr" xmltv_id="TraceUrban.fr">TRACE URBAN</channel>
@@ -87,6 +89,7 @@
 <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk">Moonbug</channel>
 <channel site="cubmu.com" site_id="234" lang="id" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
 <channel site="cubmu.com" site_id="244" lang="id" xmltv_id="DaystarTV.us">DayStar</channel>
+<channel site="cubmu.com" site_id="196" lang="id" xmltv_id="FashionTVAsia.fr">Fashion TV</channel>
 <channel site="dens.tv" site_id="98" lang="id" xmltv_id="Motorvision.de">Motorvision+</channel>
 <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.ch">My Cinema Europe HD</channel>
 <channel site="dens.tv" site_id="143" lang="id" xmltv_id="QwestTV.fr">Qwest TV</channel>
@@ -284,7 +287,6 @@
 <channel site="horizon.tv" site_id="10164" lang="de" xmltv_id="WELT.de">WELT</channel>
 <channel site="horizon.tv" site_id="10166" lang="de" xmltv_id="RTL.de">RTL DE</channel>
 <channel site="horizon.tv" site_id="10167" lang="de" xmltv_id="RTLZwei.de">RTL Zwei</channel>
-<channel site="horizon.tv" site_id="10168" lang="de" xmltv_id="RTLSuper.de">Super RTL</channel>
 <channel site="horizon.tv" site_id="10170" lang="de" xmltv_id="VOX.de">VOX</channel>
 <channel site="horizon.tv" site_id="10171" lang="de" xmltv_id="Nitro.de">Nitro</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-gem-sa" lang="en" xmltv_id="9Gem.au">9Gem</channel>
@@ -940,7 +942,6 @@
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA3000043LH" lang="en" xmltv_id="SamsungWildlife.us">Samsung Wild Life</channel>
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3000002OC" lang="en" xmltv_id="SonyCanalNovelas.us">Dramon</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.206" lang="en" xmltv_id="Firstlight.nz">Firstlight</channel>
-<channel site="i.mjh.nz" site_id="SkyGo/epg#sky.21" lang="en" xmltv_id="HGTV.nz">HGTV</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.86" lang="en" xmltv_id="ParliamentTV.nz">Parliament</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.4" lang="en" xmltv_id="SkyOpen.nz">Sky Open</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.501" lang="en" xmltv_id="TVNZ1.nz">TVNZ 1 +1</channel>
@@ -972,6 +973,7 @@
 <channel site="maxstream.tv" site_id="0_84kdjuht" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
+<channel site="meo.pt" site_id="24KTHD" lang="pt" xmltv_id="24Kitchen.us">24Kitchen</channel>
 <channel site="meo.pt" site_id="MCMTHD" lang="pt" xmltv_id="MCMTop.fr">MCM Top</channel>
 <channel site="meuguia.tv" site_id="135" lang="pt" xmltv_id="Combate.br">Combate</channel>
 <channel site="meuguia.tv" site_id="EET" lang="pt" xmltv_id="ELatinAmerica.us">E! Entertainment Television</channel>
