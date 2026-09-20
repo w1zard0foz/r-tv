@@ -525,6 +525,8 @@ http://107.167.16.138/cp24/index.m3u8?token=test
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 #EXTINF:-1 tvg-id="StingrayiConcerts.ca" group-title="🇨🇦 Canada",Stingray iConcerts HD (1080p)
 http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
+#EXTINF:-1 tvg-id="StingrayTikTokRadio.ca" group-title="🇨🇦 Canada",Stingray TikTok Radio (1080p)
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
 #EXTINF:-1 tvg-id="48Hours.us" group-title="🇨🇦 Canada",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Aftershock
@@ -2067,6 +2069,8 @@ https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" group-title="🇪🇪 Estonia",Vantage Rock (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ee" group-title="🇪🇪 Estonia",OTV
+http://88.212.15.19/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eveo.fi" group-title="🇫🇮 Finland",Eveo (720p) [Not 24/7]
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hero.fi" group-title="🇫🇮 Finland",Hero (720p) [Not 24/7]
@@ -7521,8 +7525,6 @@ http://4.30.180.36:8420/history/index.m3u8?token=test
 http://4.30.180.36:8420/syfy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="🇺🇸 United States",Paramount Network (720p)
 http://4.30.180.36:8420/paramount/index.m3u8?token=test
-#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="🇺🇸 United States",Comedy Central (720p)
-http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AMC.us" group-title="🇺🇸 United States",AMC (720p)
 http://4.30.180.36:8420/amc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="🇺🇸 United States",Hallmark Channel (720p)
@@ -7531,7 +7533,7 @@ http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 #EXTINF:-1 tvg-id="USANetwork.us" group-title="🇺🇸 United States",USA Network (720p)
 http://4.30.180.36:8420/usa/index.m3u8?token=test
-#EXTINF:-1 tvg-id="FX.us" group-title="🇺🇸 United States",FX (720p)
+#EXTINF:-1 tvg-id="FX.us" group-title="🇺🇸 United States",FX East HD (720p)
 http://4.30.180.36:8420/fx/index.m3u8?token=test
 #EXTINF:-1 tvg-id="VH1.us" group-title="🇺🇸 United States",VH1 (720p)
 http://4.30.180.36:8420/vh1/index.m3u8?token=test
@@ -7547,9 +7549,9 @@ http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 http://4.30.180.36:8420/msnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SPremium.us" group-title="🇺🇸 United States",S Premium! (360p)
 https://vodcdn.bamboo-cloud.com/livehls/6aa1f82906304434d9688a53/master.m3u8
-#EXTINF:-1 tvg-id="Galavision.us" group-title="🇺🇸 United States",Galavision (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Galavision.us" group-title="🇺🇸 United States",Galavision East HD (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
-#EXTINF:-1 tvg-id="Galavision.us" group-title="🇺🇸 United States",Galavision West (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Galavision.us" group-title="🇺🇸 United States",Galavision West HD (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8
 #EXTINF:-1 tvg-id="Univision.us" group-title="🇺🇸 United States",Univision (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
@@ -7601,6 +7603,8 @@ https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 http://181.78.79.131:8000/play/a0mu
 #EXTINF:-1 tvg-id="24Kitchen.us" group-title="🇺🇸 United States",24Kitchen Bulgary (1080p)
 http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" group-title="🇺🇸 United States",Hola! TV Latin America
+https://xyktmobile00.s.gy/PPV901_HOLA_TV
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
