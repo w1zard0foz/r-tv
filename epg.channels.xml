@@ -957,6 +957,7 @@
 <channel site="m.tv.sms.cz" site_id="Crime+and+Investigation" lang="cs" xmltv_id="CrimePlusInvestigationCEE.uk">Crime and Investigation</channel>
 <channel site="m.tv.sms.cz" site_id="Deluxe+Lounge+HD" lang="cs" xmltv_id="DeluxeLounge.de">Deluxe Lounge HD</channel>
 <channel site="m.tv.sms.cz" site_id="Deluxe+Music" lang="cs" xmltv_id="DeluxeMusic.de">Deluxe Music</channel>
+<channel site="m.tv.sms.cz" site_id="Disney+Channel+%28de%29" lang="de" xmltv_id="DisneyChannel.de">Disney Channel (de)</channel>
 <channel site="m.tv.sms.cz" site_id="Euronews+%28ru%29" lang="cs" xmltv_id="EuronewsRussian.fr">Euronews (ru)</channel>
 <channel site="m.tv.sms.cz" site_id="HR-fernsehen" lang="de" xmltv_id="hrfernsehen.de">HR-fernsehen</channel>
 <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="cs" xmltv_id="JimJamEurope.uk">Jim Jam</channel>
@@ -1061,8 +1062,10 @@
 <channel site="sky.com" site_id="DE#5501" lang="de" xmltv_id="HSEExtra.de">HSE Extra HD</channel>
 <channel site="sky.com" site_id="DE#77" lang="de" xmltv_id="HSETrend.de">HSE Trend SD</channel>
 <channel site="sky.com" site_id="DE#2616" lang="de" xmltv_id="Juwelo.de">Juwelo TV</channel>
+<channel site="sky.com" site_id="DE#1306" lang="de" xmltv_id="kabeleinsDoku.de">Kabel Eins Doku HD</channel>
 <channel site="sky.com" site_id="DE#651" lang="de" xmltv_id="MDRFernsehen.de">MDR Sachsen HD</channel>
 <channel site="sky.com" site_id="DE#632" lang="de" xmltv_id="NDRFernsehen.de">NDR FS HH HD</channel>
+<channel site="sky.com" site_id="DE#1304" lang="de" xmltv_id="ProSiebenMaxx.de">Pro7 MAXX HD</channel>
 <channel site="sky.com" site_id="DE#803" lang="de" xmltv_id="QVCStyle.de">QVC STYLE HD</channel>
 <channel site="sky.com" site_id="DE#5504" lang="de" xmltv_id="QVCZwei.de">QVC ZWEI HD</channel>
 <channel site="sky.com" site_id="DE#379" lang="de" xmltv_id="RadioBremenFernsehen.de">Radio Bremen HD</channel>
