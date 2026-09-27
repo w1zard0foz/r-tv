@@ -232,6 +232,7 @@
 <channel site="gatotv.com" site_id="axn_andes" lang="es" xmltv_id="AXNLatinAmerica.us">Canal AXN (Andes)</channel>
 <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us">Canal BabyFirst TV</channel>
 <channel site="gatotv.com" site_id="cine_sony" lang="es" xmltv_id="CineSony.us">Canal Cine Sony</channel>
+<channel site="gatotv.com" site_id="concert_channel" lang="es" xmltv_id="ConcertChannel.us">Canal Concert Channel</channel>
 <channel site="gatotv.com" site_id="dhe" lang="es" xmltv_id="DHE.us">Canal DHE</channel>
 <channel site="gatotv.com" site_id="espn_deportes" lang="es" xmltv_id="ESPNDeportes.us">Canal ESPN Deportes</channel>
 <channel site="gatotv.com" site_id="estrella_tv" lang="es" xmltv_id="EstrellaTV.us">Canal Estrella TV</channel>
@@ -245,13 +246,13 @@
 <channel site="gatotv.com" site_id="telemundo_mexico" lang="es" xmltv_id="TelemundoInternacional.us">Canal Telemundo (México)</channel>
 <channel site="gatotv.com" site_id="tudn_estados_unidos" lang="es" xmltv_id="TUDN.us">Canal TUDN (Estados Unidos)</channel>
 <channel site="gatotv.com" site_id="tv5monde" lang="es" xmltv_id="TV5MondeLatinAmerica.fr">Canal TV5MONDE</channel>
+<channel site="gatotv.com" site_id="universal_cinema" lang="es" xmltv_id="UniversalCinema.us">Canal Universal Cinema</channel>
 <channel site="gatotv.com" site_id="universal_crime" lang="es" xmltv_id="UniversalCrime.us">Canal Universal Crime</channel>
 <channel site="gatotv.com" site_id="universal_tv_mexico" lang="es" xmltv_id="UniversalTVLatinAmerica.us">Canal Universal TV (México)</channel>
 <channel site="gatotv.com" site_id="univision_tlnovelas" lang="es" xmltv_id="UnivisionTlnovelas.us">Canal Univision TLNovelas</channel>
 <channel site="guida.tv" site_id="676773/canale-5" lang="it" xmltv_id="Canale5.it">Canale 5</channel>
 <channel site="guida.tv" site_id="737349/italia-1" lang="it" xmltv_id="Italia1.it">ITALIA 1</channel>
 <channel site="guida.tv" site_id="737350/italia-2" lang="it" xmltv_id="Italia2.it">ITALIA 2</channel>
-<channel site="guida.tv" site_id="738252/rete-4" lang="it" xmltv_id="Rete4.it">RETE 4</channel>
 <channel site="guida.tv" site_id="826552/rai-4" lang="it" xmltv_id="Rai4.it">Rai 4</channel>
 <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it">7 Gold</channel>
 <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="AlmaTV.it">Alma</channel>
@@ -281,7 +282,6 @@
 <channel site="guidatv.sky.it" site_id="DTH#10033" lang="it" xmltv_id="RadioItaliaTrendTV.it">Radio Italia Trend Tv HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#10468" lang="it" xmltv_id="TopCrime.it">TOPcrime HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#10616" lang="it" xmltv_id="Radiofreccia.it">RADIOFRECCIA HD</channel>
-<channel site="guidatv.sky.it" site_id="DTH#11342" lang="it" xmltv_id="Twentyseven.it">27Twentyseven HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#11712" lang="it" xmltv_id="Value24TV.it">VALUE 24 TV</channel>
 <channel site="horizon.tv" site_id="10152" lang="sk" xmltv_id="EuronewsHungarian.fr">Euronews HU</channel>
 <channel site="horizon.tv" site_id="10164" lang="de" xmltv_id="WELT.de">WELT</channel>
