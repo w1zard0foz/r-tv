@@ -156,7 +156,6 @@
 <channel site="distro.tv" site_id="144409" lang="en" xmltv_id="OnTV4U.us">ONTV4U</channel>
 <channel site="dsmart.com.tr" site_id="5dfc9faacfef0b201d2246b5" lang="tr" xmltv_id="LoveNature.ca">Love Nature</channel>
 <channel site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60626e" lang="tr" xmltv_id="NBATV.us">NBA TV</channel>
-<channel site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606269" lang="tr" xmltv_id="FX.us">FX</channel>
 <channel site="dstv.com" site_id="nga#325" lang="en" xmltv_id="TraceNaija.fr">TRACE Naija</channel>
 <channel site="dstv.com" site_id="nga#333" lang="en" xmltv_id="TraceJama.fr">Trace Jama</channel>
 <channel site="dstv.com" site_id="nga#348" lang="en" xmltv_id="EWTN.us">Eternal Word Television Network</channel>
@@ -300,7 +299,6 @@
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-channel-9-sa" lang="en" xmltv_id="Channel9.au">Channel 9</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-c44" lang="en" xmltv_id="Channel44.au">Channel 44</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#ausbiz" lang="en" xmltv_id="AusbizTV.au">Ausbiz</channel>
-<channel site="i.mjh.nz" site_id="Flash/epg#msnbc" lang="en" xmltv_id="MSNOW.us">MSNBC</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#nbc-news-now" lang="en" xmltv_id="NBCNewsNOW.us">NBC News Now</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#quicktake" lang="en" xmltv_id="BloombergOriginals.us">Bloomberg Originals</channel>
 <channel site="i.mjh.nz" site_id="Flash/epg#sky-news-weather" lang="en" xmltv_id="SkyNewsWeather.uk">Sky News Weather</channel>
@@ -1194,8 +1192,6 @@
 <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
 <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us">A&amp;E</channel>
 <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us">Oxygen</channel>
-<channel site="tvguide.com" site_id="9200006942" lang="en" xmltv_id="Freeform.us">Freeform</channel>
-<channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us">TeenNick</channel>
 <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us">STARZ Kids &amp; Family</channel>
 <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="Reelz.us">Reelz</channel>
 <channel site="tvguide.com" site_id="9200011927" lang="en" xmltv_id="Telemundo.us">Telemundo</channel>
@@ -1208,7 +1204,6 @@
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
-<channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us">Lifetime</channel>
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
 <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
 <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
