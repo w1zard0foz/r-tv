@@ -182,7 +182,6 @@
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
-<channel site="epg.iptvx.one" site_id="nfl-network-us" lang="ru" xmltv_id="NFLNetwork.us">NFL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nhl-network-us" lang="ru" xmltv_id="NHLNetwork.us">NHL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nickelodeon-ru" lang="ru" xmltv_id="Nickelodeon.us">Nickelodeon</channel>
 <channel site="epg.iptvx.one" site_id="nicktoons" lang="ru" xmltv_id="Nicktoons.us">Nicktoons</channel>
@@ -192,7 +191,6 @@
 <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="ru" xmltv_id="TBNArmenia.us">TBN Armenia</channel>
 <channel site="epg.iptvx.one" site_id="trace-sport-stars" lang="ru" xmltv_id="TraceSportStars.fr">Trace Sport Stars</channel>
 <channel site="epg.iptvx.one" site_id="tri-angela" lang="ru" xmltv_id="3ABNRussia.ru">Три Ангела</channel>
-<channel site="epg.iptvx.one" site_id="vh1-european" lang="ru" xmltv_id="VH1.us">VH1</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
@@ -233,6 +231,7 @@
 <channel site="gatotv.com" site_id="cine_sony" lang="es" xmltv_id="CineSony.us">Canal Cine Sony</channel>
 <channel site="gatotv.com" site_id="concert_channel" lang="es" xmltv_id="ConcertChannel.us">Canal Concert Channel</channel>
 <channel site="gatotv.com" site_id="dhe" lang="es" xmltv_id="DHE.us">Canal DHE</channel>
+<channel site="gatotv.com" site_id="esne_tv" lang="es" xmltv_id="ESNETV.us">Canal ESNE TV</channel>
 <channel site="gatotv.com" site_id="espn_deportes" lang="es" xmltv_id="ESPNDeportes.us">Canal ESPN Deportes</channel>
 <channel site="gatotv.com" site_id="estrella_tv" lang="es" xmltv_id="EstrellaTV.us">Canal Estrella TV</channel>
 <channel site="gatotv.com" site_id="fox_deportes" lang="es" xmltv_id="FoxDeportes.us">Canal Fox Deportes</channel>
@@ -1016,7 +1015,6 @@
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us">STARZ Cinema (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023898/starz-comedy-east" lang="en" xmltv_id="StarzComedy.us">Starz Comedy (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69023464/starz-edge-east" lang="en" xmltv_id="StarzEdge.us">Starz Edge (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69040329/starz-encore-espanol" lang="en" xmltv_id="StarzEncoreSpanish.us">STARZ ENCORE Español</channel>
 <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us">UniMás (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69022354/wnbc-hdtv" lang="en" xmltv_id="WNBC471.us">WNBC HDTV</channel>
@@ -1199,7 +1197,6 @@
 <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us">E!</channel>
 <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV</channel>
 <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark</channel>
-<channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
@@ -1207,7 +1204,6 @@
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
 <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
 <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
-<channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us">USA</channel>
 <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us">PBS HD</channel>
 <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us">Nick Jr.</channel>
 <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us">History</channel>
@@ -1217,7 +1213,6 @@
 <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us">LMN</channel>
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
-<channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
