@@ -1028,6 +1028,7 @@
 <channel site="pluto.tv" site_id="65b917d333ea860008598a05" lang="fi" xmltv_id="PlutoTVBudTerence.de">Pluto TV Bud &amp; Terence</channel>
 <channel site="pluto.tv" site_id="5c45f216e909d90674242965" lang="en" xmltv_id="PlutoTVRomance.de">Pluto TV Romance+</channel>
 <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us">Sony Movies</channel>
+<channel site="programtv.onet.pl" site_id="bbc-brit-275" lang="pl" xmltv_id="BBCBrit.uk">BBC Brit</channel>
 <channel site="programtv.onet.pl" site_id="bibel-tv-266" lang="de" xmltv_id="BibelTV.de">Bibel TV</channel>
 <channel site="programtv.onet.pl" site_id="deutsches-musik-fernsehen-119" lang="de" xmltv_id="DMF.de">Deutsches Musik Fernsehen</channel>
 <channel site="programtv.onet.pl" site_id="einslive-427" lang="pl" xmltv_id="WDR1Live.de">EinsLive</channel>
@@ -1219,6 +1220,7 @@
 <channel site="tvguide.myjcom.jp" site_id="2_1072_32742" lang="ja" xmltv_id="JOTXDTV.jp">テレビ東京</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_104_65406" lang="ja" xmltv_id="TV5MondePacific.fr">ＴＶ５ＭＯＮＤＥ</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_192_65406" lang="ja" xmltv_id="GSTV.jp">ジュエリー☆GSTV</channel>
+<channel site="tvhebdo.com" site_id="bet/BET" lang="fr" xmltv_id="BET.ca">BLACK ENTERTAINMENT</channel>
 <channel site="tvhebdo.com" site_id="bnnb/BNNB" lang="fr" xmltv_id="BNNBloomberg.ca">BNN Bloomberg</channel>
 <channel site="tvhebdo.com" site_id="clif/CLIF" lang="fr" xmltv_id="CTVLifeChannel.ca">CTV LIFE SD</channel>
 <channel site="tvhebdo.com" site_id="cott/COTT" lang="fr" xmltv_id="CottageLife.ca">Cottage Life</channel>

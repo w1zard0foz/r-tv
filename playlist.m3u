@@ -529,6 +529,8 @@ http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="🇨🇦 Canada",Love Nature
 https://xyktmobile00.s.gy/PPV928_LOVE_NATURE
+#EXTINF:-1 tvg-id="BET.ca" group-title="🇨🇦 Canada",BET (1080p)
+https://sra72yz.s.gy/BET_CANADA_HD.m3u8
 #EXTINF:-1 tvg-id="48Hours.us" group-title="🇨🇦 Canada",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Aftershock
@@ -4539,6 +4541,16 @@ https://cdn.stmify.com/bbc/stream/BBC_THREE/hevc_iptv_mse_v0.mpd
 https://cdn.stmify.com/bbc/stream/BBC_TWO/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BabyTV.uk" group-title="🇬🇧 United Kingdom",BabyTV Latin America (1080p)
 http://38.44.109.41:8003/play/a0eh
+#EXTINF:-1 tvg-id="BBCEarth.uk" group-title="🇬🇧 United Kingdom",BBC Earth (1080p)
+http://57.128.231.171:8080/307/index.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk" group-title="🇬🇧 United Kingdom",BBC Brit (1080p)
+http://57.128.231.171:8080/309/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk" group-title="🇬🇧 United Kingdom",BBC Lifestyle Poland (1080p)
+http://57.128.231.171:8080/305/index.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" group-title="🇬🇧 United Kingdom",BBC Two Wales
+https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="Now90s00s.uk" group-title="🇬🇧 United Kingdom",Now 90s00s (576p)
+https://web-primeprimetv2026.onrender.com/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7621,6 +7633,22 @@ http://187.102.208.209:8000/play/a0ac/index.m3u8
 http://187.102.208.209:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" group-title="🇺🇸 United States",Pasiones Latin America (1080p)
 http://190.60.55.141:9083/play/a0ni/index.m3u8
+#EXTINF:-1 tvg-id="SemillitasTV.us" group-title="🇺🇸 United States",Semillitas TV (1080p)
+http://38.252.238.18:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAction.us" group-title="🇺🇸 United States",Cinemax Action East HD (1080p)
+https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us" group-title="🇺🇸 United States",HBO Drama West (1080p)
+https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" group-title="🇺🇸 United States",HBO Hits West HD (1080p)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" group-title="🇺🇸 United States",Discovery Turbo (1080p)
+https://sra72yz.s.gy/DISCOVERY_TURBO.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" group-title="🇺🇸 United States",Univision Tlnovelas (1080p)
+http://200.115.120.1:8000/play/ca110/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us" group-title="🇺🇸 United States",DSports 2 (1080p)
+http://187.102.208.209:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="UniMas.us" group-title="🇺🇸 United States",UniMas WAMI-DT (1080p)
+http://190.197.41.183/Unimas/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
