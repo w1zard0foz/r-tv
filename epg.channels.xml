@@ -151,6 +151,7 @@
 <channel site="distro.tv" site_id="143731" lang="en" xmltv_id="CGTNGlobalBiz.cn">CGTN Global Biz</channel>
 <channel site="distro.tv" site_id="143732" lang="en" xmltv_id="ChinaTravel.cn">China Travel</channel>
 <channel site="distro.tv" site_id="143733" lang="en" xmltv_id="DiscoveringChina.cn">Discovering China</channel>
+<channel site="distro.tv" site_id="144301" lang="en" xmltv_id="DaystarTVEspanol.us">Daystar Español</channel>
 <channel site="distro.tv" site_id="144407" lang="en" xmltv_id="RVTV.us">RVTV</channel>
 <channel site="distro.tv" site_id="144408" lang="en" xmltv_id="WineWatchesWhiskey.us">Wine, Watches &amp; Whiskey</channel>
 <channel site="distro.tv" site_id="144409" lang="en" xmltv_id="OnTV4U.us">ONTV4U</channel>
@@ -1220,7 +1221,6 @@
 <channel site="tvguide.myjcom.jp" site_id="2_1072_32742" lang="ja" xmltv_id="JOTXDTV.jp">テレビ東京</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_104_65406" lang="ja" xmltv_id="TV5MondePacific.fr">ＴＶ５ＭＯＮＤＥ</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_192_65406" lang="ja" xmltv_id="GSTV.jp">ジュエリー☆GSTV</channel>
-<channel site="tvhebdo.com" site_id="bet/BET" lang="fr" xmltv_id="BET.ca">BLACK ENTERTAINMENT</channel>
 <channel site="tvhebdo.com" site_id="bnnb/BNNB" lang="fr" xmltv_id="BNNBloomberg.ca">BNN Bloomberg</channel>
 <channel site="tvhebdo.com" site_id="clif/CLIF" lang="fr" xmltv_id="CTVLifeChannel.ca">CTV LIFE SD</channel>
 <channel site="tvhebdo.com" site_id="cott/COTT" lang="fr" xmltv_id="CottageLife.ca">Cottage Life</channel>
@@ -1283,6 +1283,7 @@
 <channel site="tvtv.us" site_id="70113" lang="en" xmltv_id="PixLTV.us">PixL TV</channel>
 <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="ImpactNetwork.us">Impact Network</channel>
 <channel site="tvtv.us" site_id="73580" lang="en" xmltv_id="KIIOLD101.us">US Armenia (KIIO-LD) Los Angeles, CA</channel>
+<channel site="tvtv.us" site_id="74299" lang="en" xmltv_id="TeleXitos.us">TeleXitos</channel>
 <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us">JBS</channel>
 <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us">MLB Strike Zone</channel>
 <channel site="tvtv.us" site_id="88293" lang="en" xmltv_id="SmartLifeStyleTV.us">Smart LifeStyle TV</channel>
