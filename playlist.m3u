@@ -2581,6 +2581,16 @@ http://str2.iptvhd.ru:8080/mezzo_live_hd/index.m3u8
 http://str2.iptvhd.ru:8080/TF1/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo.fr" group-title="🇫🇷 France",Mezzo (1080p)
 http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr" group-title="🇫🇷 France",MCM Pop (576p)
+http://193.254.245.162/MCM/index.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" group-title="🇫🇷 France",Paris Premiere (720p)
+http://193.254.245.162/PARIS-PREMIERE/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" group-title="🇫🇷 France",Canal+ Sport (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
+#EXTINF:-1 tvg-id="GolfPlus.fr" group-title="🇫🇷 France",Golf + (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" group-title="🇫🇷 France",TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -4559,6 +4569,12 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 http://51.75.127.199:3141/britasia/index.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" group-title="🇬🇧 United Kingdom",GOD TV (576p)
 https://cdn.pishow.tv/ott/live/1391/master.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" group-title="🇬🇧 United Kingdom",ITV1 London +1
+https://xyktmobile00.s.gy/TICK_44100
+#EXTINF:-1 tvg-id="StarBharat.uk" group-title="🇬🇧 United Kingdom",Star Bharat (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" group-title="🇬🇧 United Kingdom",BBC Two Northern Ireland
+https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7399,7 +7415,7 @@ http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalkTV.us" group-title="🇺🇸 United States",The Walk TV
 https://wggstv16.ddns.net:9953/hls/walk1.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us" group-title="🇺🇸 United States",ESPNews (720p)
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" group-title="🇺🇸 United States",Discovery Turbo (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="SECNetwork.us" group-title="🇺🇸 United States",SEC Network (1080p)
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
@@ -7495,8 +7511,6 @@ http://4.30.180.36:8420/nickjr/index.m3u8?token=test
 http://4.30.180.36:8420/syfy/index.m3u8?token=test
 #EXTINF:-1 tvg-id="HallmarkChannel.us" group-title="🇺🇸 United States",Hallmark Channel (720p)
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel HD East (720p)
-http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="CNBC.us" group-title="🇺🇸 United States",CNBC (720p)
 http://4.30.180.36:8420/cnbc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="SPremium.us" group-title="🇺🇸 United States",S Premium! (360p)
@@ -7669,6 +7683,14 @@ http://45.173.231.22:8000/play/a097/index.m3u8
 http://179.1.196.222:9000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us" group-title="🇺🇸 United States",Daystar TV Espanol (1080p)
 http://167.249.23.102:8000/play/a0ev/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" group-title="🇺🇸 United States",ESNE TV (1080p)
+http://190.217.66.92:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" group-title="🇺🇸 United States",VH1 (432p)
+http://193.254.245.162/VH1/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="🇺🇸 United States",Paramount Network (432p)
+http://193.254.245.162/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us" group-title="🇺🇸 United States",Fox Sports 1 (720p)
+http://193.254.245.162/Fox_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)

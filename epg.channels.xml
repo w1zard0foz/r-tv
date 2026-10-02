@@ -19,6 +19,7 @@
 <channel site="canalplus.com" site_id="#154" lang="fr" xmltv_id="arte.fr">ARTE</channel>
 <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr">BFM BUSINESS</channel>
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
+<channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr">CANAL+SPORT</channel>
 <channel site="canalplus.com" site_id="#396" lang="fr" xmltv_id="CinePlusEmotion.fr">CINE+ EMOTION</channel>
 <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr">CNEWS</channel>
 <channel site="canalplus.com" site_id="#513" lang="fr" xmltv_id="CStar.fr">CSTAR</channel>
@@ -28,6 +29,7 @@
 <channel site="canalplus.com" site_id="#926" lang="fr" xmltv_id="France3.fr">F3 ALPES</channel>
 <channel site="canalplus.com" site_id="#544" lang="fr" xmltv_id="France4.fr">FRANCE 4</channel>
 <channel site="canalplus.com" site_id="#545" lang="fr" xmltv_id="France5.fr">FRANCE 5</channel>
+<channel site="canalplus.com" site_id="#378" lang="fr" xmltv_id="GolfPlus.fr">GOLF+</channel>
 <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr">LCI</channel>
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
@@ -35,12 +37,14 @@
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
 <channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
+<channel site="canalplus.com" site_id="#294" lang="fr" xmltv_id="ParisPremiere.fr">PARIS PREMIERE</channel>
 <channel site="canalplus.com" site_id="#557" lang="fr" xmltv_id="RFMTV.fr">RFM TV</channel>
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
 <channel site="canalplus.com" site_id="#356" lang="fr" xmltv_id="SerieClub.fr">SERIE CLUB</channel>
 <channel site="canalplus.com" site_id="#292" lang="fr" xmltv_id="Teva.fr">TEVA</channel>
 <channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr">TF1</channel>
 <channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr">TFX</channel>
+<channel site="canalplus.com" site_id="#584" lang="fr" xmltv_id="TMC.fr">TMC</channel>
 <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr">TRACE LATINA</channel>
 <channel site="canalplus.com" site_id="#585" lang="fr" xmltv_id="TraceUrban.fr">TRACE URBAN</channel>
 <channel site="canalplus.com" site_id="#520" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr">TV5 MONDE</channel>
@@ -179,6 +183,7 @@
 <channel site="epg.iptvx.one" site_id="h2" lang="ru" xmltv_id="VICETV.us">H2</channel>
 <channel site="epg.iptvx.one" site_id="iconcerts" lang="ru" xmltv_id="StingrayiConcerts.ca">Stingray iConcerts</channel>
 <channel site="epg.iptvx.one" site_id="m1global" lang="ru" xmltv_id="MMATVcom.ru">MMA-TV</channel>
+<channel site="epg.iptvx.one" site_id="mcm-pop" lang="ru" xmltv_id="MCMPop.fr">MCM Pop</channel>
 <channel site="epg.iptvx.one" site_id="mtv-de" lang="ru" xmltv_id="MTV.de">MTV DE</channel>
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
@@ -192,6 +197,7 @@
 <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="ru" xmltv_id="TBNArmenia.us">TBN Armenia</channel>
 <channel site="epg.iptvx.one" site_id="trace-sport-stars" lang="ru" xmltv_id="TraceSportStars.fr">Trace Sport Stars</channel>
 <channel site="epg.iptvx.one" site_id="tri-angela" lang="ru" xmltv_id="3ABNRussia.ru">Три Ангела</channel>
+<channel site="epg.iptvx.one" site_id="vh1-european" lang="ru" xmltv_id="VH1.us">VH1</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
@@ -206,6 +212,7 @@
 <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk">GB News</channel>
 <channel site="freeview.co.uk" site_id="64257#24448" lang="en" xmltv_id="GemsTV.uk">Gemporia</channel>
 <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk">HobbyMaker</channel>
+<channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk">ITV1</channel>
 <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us">Ketchup TV</channel>
 <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk">Latest TV</channel>
 <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk">MBC</channel>
@@ -1010,7 +1017,6 @@
 <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us">Big Ten Network (National)</channel>
 <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us">Bounce TV</channel>
 <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us">Comet TV</channel>
-<channel site="ontvtonight.com" site_id="us#69031480/espn-news-hdtv" lang="en" xmltv_id="ESPNews.us">ESPN News HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us">ESPNU</channel>
 <channel site="ontvtonight.com" site_id="us#69022184/kmsp-hdtv" lang="en" xmltv_id="KMSPDT1.us">KMSP HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
@@ -1215,6 +1221,7 @@
 <channel site="tvguide.com" site_id="9233009825" lang="en" xmltv_id="LifetimeMovies.us">LMN</channel>
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
+<channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
