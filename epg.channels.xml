@@ -1212,6 +1212,7 @@
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
 <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
 <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
+<channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="USANetwork.us">USA</channel>
 <channel site="tvguide.com" site_id="9233004141" lang="en" xmltv_id="PBS.us">PBS HD</channel>
 <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="NickJr.us">Nick Jr.</channel>
 <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="History.us">History</channel>
