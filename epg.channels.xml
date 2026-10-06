@@ -19,6 +19,7 @@
 <channel site="canalplus.com" site_id="#154" lang="fr" xmltv_id="arte.fr">ARTE</channel>
 <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr">BFM BUSINESS</channel>
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
+<channel site="canalplus.com" site_id="#301" lang="fr" xmltv_id="CanalPlus.fr">CANAL+</channel>
 <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr">CANAL+SPORT</channel>
 <channel site="canalplus.com" site_id="#396" lang="fr" xmltv_id="CinePlusEmotion.fr">CINE+ EMOTION</channel>
 <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr">CNEWS</channel>
@@ -31,6 +32,7 @@
 <channel site="canalplus.com" site_id="#545" lang="fr" xmltv_id="France5.fr">FRANCE 5</channel>
 <channel site="canalplus.com" site_id="#378" lang="fr" xmltv_id="GolfPlus.fr">GOLF+</channel>
 <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr">LCI</channel>
+<channel site="canalplus.com" site_id="#554" lang="fr" xmltv_id="LCP.fr">LCP</channel>
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
 <channel site="canalplus.com" site_id="#560" lang="fr" xmltv_id="Mezzo.fr">MEZZO</channel>
@@ -58,7 +60,6 @@
 <channel site="chaines-tv.orange.fr" site_id="33" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_canal_cinema%2F20230801_115557%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CanalPlusCinemas.fr">CANAL+CINEMA(S)</channel>
 <channel site="chaines-tv.orange.fr" site_id="90550" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cctvf%2F20241114_183854%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CGTNFrench.cn">CGTN Français</channel>
 <channel site="chaines-tv.orange.fr" site_id="1989" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_clubbingtv%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="ClubbingTV.us">CLUBBING TV</channel>
-<channel site="chaines-tv.orange.fr" site_id="1190" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_eurochannel%2F20240527_095559%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Eurochannel.uk">EUROCHANNEL</channel>
 <channel site="chaines-tv.orange.fr" site_id="1996" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_fashiontv%2F20220128_093134%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FashionTVEurope.fr">FASHIONTV PARIS</channel>
 <channel site="chaines-tv.orange.fr" site_id="90515" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_iqraa%2F20191107_103814%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="IqraTV.uk">IQRAA</channel>
 <channel site="chaines-tv.orange.fr" site_id="110" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_kto%2F20240520_182952%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="KTO.fr">KTO</channel>
@@ -172,8 +173,6 @@
 <channel site="entertainment.ie" site_id="great-movies-romance" lang="en" xmltv_id="GREATromance.uk">Great! Movies Romance</channel>
 <channel site="entertainment.ie" site_id="itv2" lang="en" xmltv_id="ITV2.uk">ITV2</channel>
 <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk">Nickelodeon</channel>
-<channel site="entertainment.ie" site_id="pick" lang="en" xmltv_id="SkyMix.uk">Pick</channel>
-<channel site="entertainment.ie" site_id="sky-nature" lang="en" xmltv_id="SkyNature.uk">Sky Nature</channel>
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
@@ -314,7 +313,6 @@
 <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca">Nature Time</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au">RACING.COM</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au">Sky Racing 1</channel>
-<channel site="i.mjh.nz" site_id="Foxtel/epg#SRW" lang="en" xmltv_id="SkyThoroughbredCentral.au">Sky Racing Thoroughbred Central</channel>
 <channel site="i.mjh.nz" site_id="MeTV/epg#metv" lang="en" xmltv_id="MeTV.us">MeTV</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" lang="en" xmltv_id="50CentAction.us">50 Cent Action</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" lang="en" xmltv_id="ACCDigitalNetwork.us">ACCDN</channel>
@@ -947,7 +945,6 @@
 <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3000002OC" lang="en" xmltv_id="SonyCanalNovelas.us">Dramon</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.206" lang="en" xmltv_id="Firstlight.nz">Firstlight</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.86" lang="en" xmltv_id="ParliamentTV.nz">Parliament</channel>
-<channel site="i.mjh.nz" site_id="SkyGo/epg#sky.4" lang="en" xmltv_id="SkyOpen.nz">Sky Open</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.501" lang="en" xmltv_id="TVNZ1.nz">TVNZ 1 +1</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.502" lang="en" xmltv_id="TVNZ2.nz">TVNZ 2 +1</channel>
 <channel site="i.mjh.nz" site_id="SkyGo/epg#sky.504" lang="en" xmltv_id="TVNZDUKE.nz">TVNZ DUKE +1</channel>
@@ -1102,7 +1099,6 @@
 <channel site="sky.com" site_id="GB#3715" lang="en" xmltv_id="NoorTV.uk">Noor TV</channel>
 <channel site="sky.com" site_id="GB#1041" lang="en" xmltv_id="PanjabTV.uk">Panjab TV</channel>
 <channel site="sky.com" site_id="GB#3355" lang="en" xmltv_id="SangatTV.uk">Sangat</channel>
-<channel site="sky.com" site_id="GB#4054" lang="en" xmltv_id="SkyNews.ie">Sky News HD</channel>
 <channel site="sky.com" site_id="GB#4408" lang="en" xmltv_id="TakbeerTV.uk">Takbeer TV</channel>
 <channel site="sky.com" site_id="GB#5426" lang="en" xmltv_id="TVOne.uk">TV One</channel>
 <channel site="sky.com" site_id="GB#3825" lang="en" xmltv_id="UAlibi.uk">U&amp;Alibi HD</channel>
@@ -1168,6 +1164,7 @@
 <channel site="tv.blue.ch" site_id="1082" lang="fr" xmltv_id="Carac4.ch">CARAC 4</channel>
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
 <channel site="tv.blue.ch" site_id="1645" lang="it" xmltv_id="EspansioneTV.it">Espansione TV</channel>
+<channel site="tv.blue.ch" site_id="1767" lang="fr" xmltv_id="Nicktoons.fr">Nicktoons F</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
 <channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it">SI Solocalcio</channel>
