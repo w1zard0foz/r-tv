@@ -211,7 +211,6 @@
 <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk">GB News</channel>
 <channel site="freeview.co.uk" site_id="64257#24448" lang="en" xmltv_id="GemsTV.uk">Gemporia</channel>
 <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk">HobbyMaker</channel>
-<channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk">ITV1</channel>
 <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us">Ketchup TV</channel>
 <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk">Latest TV</channel>
 <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk">MBC</channel>
@@ -746,7 +745,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/us#561d7d484dc7c8770484914a" lang="en" xmltv_id="PlutoTVAction.us">Pluto TV Action</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#612f761008a9e50007984ba0" lang="en" xmltv_id="PlutoTVAnimation.de">Pluto TV Animation</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#67ed8f7e443f0671bc2b2368" lang="en" xmltv_id="PlutoTVAnimeMovies.us">Pluto TV Anime Movies</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/us#5cabdf1437b88b26947346b2" lang="en" xmltv_id="PlutoTVBackcountry.us">Pluto TV Backcountry</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5f513564e4622a0007c578c0" lang="en" xmltv_id="PlutoTVCineComedia.us">Cine comedia</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d134a74ca91eedee1630faa" lang="en" xmltv_id="PlutoTVClassicTV.de">Pluto TV Classic TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5c363c2411c5ca053f198f97" lang="en" xmltv_id="PlutoTVComedyMovies.de">Pluto TV Comedy Movies</channel>
