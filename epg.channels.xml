@@ -62,6 +62,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90550" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cctvf%2F20241114_183854%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CGTNFrench.cn">CGTN Français</channel>
 <channel site="chaines-tv.orange.fr" site_id="1989" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_clubbingtv%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="ClubbingTV.us">CLUBBING TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="1996" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_fashiontv%2F20220128_093134%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FashionTVEurope.fr">FASHIONTV PARIS</channel>
+<channel site="chaines-tv.orange.fr" site_id="90406" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_food_network%2F20210608_154814%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FoodNetwork.us">FOOD NETWORK</channel>
 <channel site="chaines-tv.orange.fr" site_id="90515" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_iqraa%2F20191107_103814%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="IqraTV.uk">IQRAA</channel>
 <channel site="chaines-tv.orange.fr" site_id="110" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_kto%2F20240520_182952%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="KTO.fr">KTO</channel>
 <channel site="chaines-tv.orange.fr" site_id="90345" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_le_figaro_tv_idf%2F20250515_150605%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="LeFigaroTVIledeFrance.fr">LE FIGARO TV IDF</channel>
@@ -113,8 +114,12 @@
 <channel site="directv.com.uy" site_id="503#GLDN" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/503.png" xmltv_id="Golden.mx">Golden TV</channel>
 <channel site="directv.com.uy" site_id="507#CC" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/507.png" xmltv_id="Cinecanal.us">Cinecanal (COL)</channel>
 <channel site="directv.com.uy" site_id="508#STUN" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/508.png" xmltv_id="StudioUniversalLatinAmerica.us">Studio Universal</channel>
+<channel site="directv.com.uy" site_id="524#HBOE" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/524.png" xmltv_id="HBOLatinAmerica.us">HBO (Este)</channel>
 <channel site="directv.com.uy" site_id="628#GOLF" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/628.png" xmltv_id="GolfChannelLatinAmerica.us">Golf Channel</channel>
 <channel site="directv.com.uy" site_id="730#NGEO" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/730.png" xmltv_id="NationalGeographicLatinAmerica.us">National Geographic</channel>
+<channel site="directv.com.uy" site_id="734#ANML" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/734.png" xmltv_id="AnimalPlanetLatinAmerica.us">Animal Planet</channel>
+<channel site="directv.com.uy" site_id="740#TLC" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/740.png" xmltv_id="TLCLatinAmerica.us">TLC - Travel &amp; Living Channel</channel>
+<channel site="directv.com.uy" site_id="1738#DISWHD" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/1738.png" xmltv_id="DiscoveryWorld.us">Discovery World HD</channel>
 <channel site="distro.tv" site_id="15976" lang="en" xmltv_id="OutsideTV.us">Outside</channel>
 <channel site="distro.tv" site_id="27440" lang="en" xmltv_id="NewsmaxTV.us">Newsmax TV</channel>
 <channel site="distro.tv" site_id="34008" lang="en" xmltv_id="OANPlus.us">OAN Plus</channel>
@@ -178,6 +183,7 @@
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="cinemax" lang="ru" xmltv_id="Cinemax.us">Cinemax</channel>
 <channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
+<channel site="epg.iptvx.one" site_id="discovery-channel" lang="ru" xmltv_id="DiscoveryChannel.us">Discovery Channel</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
 <channel site="epg.iptvx.one" site_id="fox-business-us" lang="ru" xmltv_id="FoxBusinessNetwork.us">Fox Business [US]</channel>
@@ -251,6 +257,7 @@
 <channel site="gatotv.com" site_id="historia_espana" lang="es" xmltv_id="Historia.es">Canal Historia (España)</channel>
 <channel site="gatotv.com" site_id="history_2_mexico" lang="es" xmltv_id="History2LatinAmerica.us">Canal History 2 (México)</channel>
 <channel site="gatotv.com" site_id="history_panregional" lang="es" xmltv_id="HistoryLatinAmerica.us">Canal History (Panregional)</channel>
+<channel site="gatotv.com" site_id="hln" lang="es" xmltv_id="HLN.us">Canal HLN</channel>
 <channel site="gatotv.com" site_id="lifetime_mexico" lang="es" xmltv_id="LifetimeLatinAmerica.us">Canal Lifetime (México)</channel>
 <channel site="gatotv.com" site_id="universo" lang="es" xmltv_id="NBCUniverso.us">Canal Universo</channel>
 <channel site="gatotv.com" site_id="semillitas" lang="es" xmltv_id="SemillitasTV.us">Canal Semillitas</channel>
@@ -264,6 +271,7 @@
 <channel site="gatotv.com" site_id="universal_crime" lang="es" xmltv_id="UniversalCrime.us">Canal Universal Crime</channel>
 <channel site="gatotv.com" site_id="universal_tv_mexico" lang="es" xmltv_id="UniversalTVLatinAmerica.us">Canal Universal TV (México)</channel>
 <channel site="gatotv.com" site_id="univision_tlnovelas" lang="es" xmltv_id="UnivisionTlnovelas.us">Canal Univision TLNovelas</channel>
+<channel site="gatotv.com" site_id="warner_tv_panregional" lang="es" xmltv_id="WarnerChannel.us">Canal Warner TV (Panregional)</channel>
 <channel site="guida.tv" site_id="676773/canale-5" lang="it" xmltv_id="Canale5.it">Canale 5</channel>
 <channel site="guida.tv" site_id="737349/italia-1" lang="it" xmltv_id="Italia1.it">ITALIA 1</channel>
 <channel site="guida.tv" site_id="737350/italia-2" lang="it" xmltv_id="Italia2.it">ITALIA 2</channel>
@@ -278,6 +286,7 @@
 <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it">Iris</channel>
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
+<channel site="guida.tv" site_id="73847873/nickelodeon" lang="it" xmltv_id="Nickelodeon.it">Nickelodeon</channel>
 <channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="NickJr.it">Nick Jr.</channel>
 <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="La5.it">La 5</channel>
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
@@ -1019,6 +1028,7 @@
 <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us">ABC</channel>
 <channel site="ontvtonight.com" site_id="us#7224220194/acc-network" lang="en" xmltv_id="ACCNetwork.us">ACC Network</channel>
 <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us">AMC (East)</channel>
+<channel site="ontvtonight.com" site_id="us#69047235/animal-planet-east" lang="en" xmltv_id="AnimalPlanet.us">Animal Planet (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69044423/bbc-america-east" lang="en" xmltv_id="BBCAmerica.us">BBC America (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us">Big Ten Network (National)</channel>
 <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us">Bounce TV</channel>
@@ -1195,11 +1205,15 @@
 <channel site="tv.sfr.fr" site_id="3770" lang="fr" xmltv_id="CannesLerinsTV.fr">Cannes Lérins TV</channel>
 <channel site="tv.sfr.fr" site_id="3771" lang="fr" xmltv_id="PuissanceTV.fr">Puissance TV</channel>
 <channel site="tv.sfr.fr" site_id="4092" lang="fr" xmltv_id="BFM2.fr">BFM2</channel>
+<channel site="tv24.se" site_id="magnolia-network-hd" lang="en" xmltv_id="MagnoliaNetwork.us">Magnolia Network HD</channel>
 <channel site="tvcesoir.fr" site_id="70787971/gong" lang="fr" xmltv_id="Gong.fr">Gong</channel>
 <channel site="tvgids.nl" site_id="ndr" lang="nl" xmltv_id="NDRFernsehenInternational.de">NDR Fernsehen</channel>
+<channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="CookingChannel.us">Cooking</channel>
 <channel site="tvguide.com" site_id="9200000657" lang="en" xmltv_id="ComedyCentral.us">Comedy Central</channel>
 <channel site="tvguide.com" site_id="9200000867" lang="es" xmltv_id="Univision.us">Univision</channel>
 <channel site="tvguide.com" site_id="9200000872" lang="en" xmltv_id="MTV2.us">MTV2</channel>
+<channel site="tvguide.com" site_id="9200002243" lang="en" xmltv_id="InvestigationDiscovery.us">Investigation Discovery</channel>
+<channel site="tvguide.com" site_id="9200002736" lang="en" xmltv_id="OWN.us">OWN</channel>
 <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="Bravo.us">Bravo</channel>
 <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us">IFC</channel>
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
@@ -1232,6 +1246,7 @@
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
 <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
+<channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us">American Heroes</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
