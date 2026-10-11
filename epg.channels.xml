@@ -3,6 +3,7 @@
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_SYMAND_TV_HD" lang="en" xmltv_id="AndTV.in">&amp; TV HD</channel>
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_BBC_NEWS" lang="en" xmltv_id="BBCNews.uk">BBC News</channel>
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CBEEBIES" lang="en" xmltv_id="CBeebies.uk">CBeebies</channel>
+<channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_CNN_INTERNATIONAL" lang="en" xmltv_id="CNNInternational.us">CNN International</channel>
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_FRANCE_24" lang="en" xmltv_id="France24.fr">France 24</channel>
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_TV5_MONDE_ASIA" lang="en" xmltv_id="TV5MondeAsia.fr">TV5 Monde Asia</channel>
 <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_WION" lang="en" xmltv_id="WION.in">WION</channel>
@@ -29,6 +30,8 @@
 <channel site="canalplus.com" site_id="#781" lang="fr" xmltv_id="DasErste.de">ARD DAS ERSTE</channel>
 <channel site="canalplus.com" site_id="#540" lang="fr" xmltv_id="Equidia.fr">EQUIDIA</channel>
 <channel site="canalplus.com" site_id="#324" lang="fr" xmltv_id="EuronewsFrench.fr">EURONEWS</channel>
+<channel site="canalplus.com" site_id="#101" lang="fr" xmltv_id="Eurosport1.fr">EUROSPORT 1</channel>
+<channel site="canalplus.com" site_id="#436" lang="fr" xmltv_id="Eurosport2.fr">EUROSPORT 2</channel>
 <channel site="canalplus.com" site_id="#926" lang="fr" xmltv_id="France3.fr">F3 ALPES</channel>
 <channel site="canalplus.com" site_id="#544" lang="fr" xmltv_id="France4.fr">FRANCE 4</channel>
 <channel site="canalplus.com" site_id="#545" lang="fr" xmltv_id="France5.fr">FRANCE 5</channel>
@@ -117,6 +120,7 @@
 <channel site="directv.com.uy" site_id="508#STUN" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/508.png" xmltv_id="StudioUniversalLatinAmerica.us">Studio Universal</channel>
 <channel site="directv.com.uy" site_id="524#HBOE" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/524.png" xmltv_id="HBOLatinAmerica.us">HBO (Este)</channel>
 <channel site="directv.com.uy" site_id="525#HBO2" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/525.png" xmltv_id="HBO2LatinAmerica.us">HBO2</channel>
+<channel site="directv.com.uy" site_id="526#HBOP" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/526.png" xmltv_id="HBOPlusLatinAmerica.us">HBO Plus (Este)</channel>
 <channel site="directv.com.uy" site_id="628#GOLF" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/628.png" xmltv_id="GolfChannelLatinAmerica.us">Golf Channel</channel>
 <channel site="directv.com.uy" site_id="730#NGEO" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/730.png" xmltv_id="NationalGeographicLatinAmerica.us">National Geographic</channel>
 <channel site="directv.com.uy" site_id="734#ANML" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/734.png" xmltv_id="AnimalPlanetLatinAmerica.us">Animal Planet</channel>
@@ -194,6 +198,8 @@
 <channel site="epg.iptvx.one" site_id="discovery-channel" lang="ru" xmltv_id="DiscoveryChannel.us">Discovery Channel</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
+<channel site="epg.iptvx.one" site_id="espn2-us" lang="ru" xmltv_id="ESPN2.us">ESPN2 [US]</channel>
+<channel site="epg.iptvx.one" site_id="espn-us" lang="ru" xmltv_id="ESPN.us">ESPN [US]</channel>
 <channel site="epg.iptvx.one" site_id="fox-business-us" lang="ru" xmltv_id="FoxBusinessNetwork.us">Fox Business [US]</channel>
 <channel site="epg.iptvx.one" site_id="fox-news-us" lang="ru" xmltv_id="FoxNewsChannel.us">Fox News</channel>
 <channel site="epg.iptvx.one" site_id="h2" lang="ru" xmltv_id="VICETV.us">H2</channel>
@@ -264,7 +270,11 @@
 <channel site="gatotv.com" site_id="discovery_science_latinoamerica" lang="es" xmltv_id="DiscoveryScienceLatinAmerica.us">Canal Discovery Science (Latinoamérica)</channel>
 <channel site="gatotv.com" site_id="discovery_theater_latinoamerica" lang="es" xmltv_id="DiscoveryTheaterLatinAmerica.us">Canal Discovery Theater (Latinoamérica)</channel>
 <channel site="gatotv.com" site_id="esne_tv" lang="es" xmltv_id="ESNETV.us">Canal ESNE TV</channel>
+<channel site="gatotv.com" site_id="espn_2_colombia" lang="es" xmltv_id="ESPN2LatinAmerica.us">Canal ESPN 2 (Colombia)</channel>
+<channel site="gatotv.com" site_id="espn_3_sur" lang="es" xmltv_id="ESPN3LatinAmerica.us">Canal ESPN 3 (Sur)</channel>
+<channel site="gatotv.com" site_id="espn_4_norte" lang="es" xmltv_id="ESPN4LatinAmerica.us">Canal ESPN 4 (Norte)</channel>
 <channel site="gatotv.com" site_id="espn_deportes" lang="es" xmltv_id="ESPNDeportes.us">Canal ESPN Deportes</channel>
+<channel site="gatotv.com" site_id="espn_chile" lang="es" xmltv_id="ESPNLatinAmerica.us">Canal ESPN (Chile)</channel>
 <channel site="gatotv.com" site_id="estrella_tv" lang="es" xmltv_id="EstrellaTV.us">Canal Estrella TV</channel>
 <channel site="gatotv.com" site_id="fox_deportes" lang="es" xmltv_id="FoxDeportes.us">Canal Fox Deportes</channel>
 <channel site="gatotv.com" site_id="hbo_family_latinoamerica" lang="es" xmltv_id="HBOFamilyLatinAmerica.us">Canal HBO Family Latinoamérica</channel>
@@ -296,6 +306,7 @@
 <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="AlmaTV.it">Alma</channel>
 <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it">Cine34</channel>
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
+<channel site="guida.tv" site_id="68776588/dmax-italia" lang="it" xmltv_id="DMAX.it">DMAX Italia</channel>
 <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it">Donna TV</channel>
 <channel site="guida.tv" site_id="71657766/sky-italian-gambero-rosso-hd" lang="it" xmltv_id="GamberoRossoChannel.it">Sky Italian Gambero Rosso HD</channel>
 <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it">Inter TV</channel>
@@ -1024,6 +1035,7 @@
 <channel site="mi.tv" site_id="pe#byutv" lang="es" xmltv_id="BYUTV.us">BYUtv</channel>
 <channel site="mon-programme-tv.be" site_id="871/programme-television-disney-junior" lang="fr" xmltv_id="DisneyJr.fr">DISNEY JUNIOR</channel>
 <channel site="mujtvprogram.cz" site_id="47" lang="cs" xmltv_id="arte.de">ARTE</channel>
+<channel site="mujtvprogram.cz" site_id="151" lang="de" xmltv_id="DMAX.de">DMAX</channel>
 <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk">MUTV</channel>
 <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk">Utsav Plus</channel>
 <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk">CNBC UK</channel>
@@ -1237,6 +1249,7 @@
 <channel site="tvguide.com" site_id="9200002243" lang="en" xmltv_id="InvestigationDiscovery.us">Investigation Discovery</channel>
 <channel site="tvguide.com" site_id="9200002736" lang="en" xmltv_id="OWN.us">OWN</channel>
 <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="Bravo.us">Bravo</channel>
+<channel site="tvguide.com" site_id="9200004290" lang="en" xmltv_id="DiscoveryFamily.us">Discovery Family</channel>
 <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us">IFC</channel>
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
 <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
@@ -1251,6 +1264,7 @@
 <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="E.us">E!</channel>
 <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV</channel>
 <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark</channel>
+<channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us">Turner Classic Movies</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
@@ -1269,6 +1283,7 @@
 <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
 <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="Fuse.us">Fuse HD</channel>
 <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
+<channel site="tvguide.com" site_id="9233013815" lang="en" xmltv_id="TheWeatherChannel.us">The Weather</channel>
 <channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us">American Heroes</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
