@@ -40,7 +40,6 @@
 <channel site="canalplus.com" site_id="#554" lang="fr" xmltv_id="LCP.fr">LCP</channel>
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
-<channel site="canalplus.com" site_id="#560" lang="fr" xmltv_id="Mezzo.fr">MEZZO</channel>
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
 <channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
@@ -49,7 +48,6 @@
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
 <channel site="canalplus.com" site_id="#356" lang="fr" xmltv_id="SerieClub.fr">SERIE CLUB</channel>
 <channel site="canalplus.com" site_id="#292" lang="fr" xmltv_id="Teva.fr">TEVA</channel>
-<channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr">TF1</channel>
 <channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr">TFX</channel>
 <channel site="canalplus.com" site_id="#584" lang="fr" xmltv_id="TMC.fr">TMC</channel>
 <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr">TRACE LATINA</channel>
@@ -92,6 +90,7 @@
 <channel site="chaines-tv.orange.fr" site_id="1129" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_news_24%2F20241112_171532%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiNews24.it">RAI NEWS 24</channel>
 <channel site="chaines-tv.orange.fr" site_id="90459" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tgcom24%2F20250227_160923%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TGCom24.it">TGCOM24</channel>
 <channel site="content.astro.com.my" site_id="144" lang="en" xmltv_id="HistoryAsia.us">History HD</channel>
+<channel site="content.astro.com.my" site_id="198" lang="en" xmltv_id="HGTVAsia.us">HGTV HD</channel>
 <channel site="content.astro.com.my" site_id="426" lang="en" xmltv_id="CGTN.cn">CGTN HD</channel>
 <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp">NHK World Premium</channel>
 <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us">Lifetime HD</channel>
@@ -193,6 +192,7 @@
 <channel site="entertainment.ie" site_id="more4" lang="en" xmltv_id="More4.uk">More4</channel>
 <channel site="entertainment.ie" site_id="nickelodeon" lang="en" xmltv_id="Nickelodeon.uk">Nickelodeon</channel>
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
+<channel site="epg.iptvx.one" site_id="cartoon-network" lang="ru" xmltv_id="CartoonNetwork.us">Cartoon Network</channel>
 <channel site="epg.iptvx.one" site_id="cinemax" lang="ru" xmltv_id="Cinemax.us">Cinemax</channel>
 <channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
 <channel site="epg.iptvx.one" site_id="discovery-channel" lang="ru" xmltv_id="DiscoveryChannel.us">Discovery Channel</channel>
@@ -210,6 +210,7 @@
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
+<channel site="epg.iptvx.one" site_id="nfl-network-us" lang="ru" xmltv_id="NFLNetwork.us">NFL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nhl-network-us" lang="ru" xmltv_id="NHLNetwork.us">NHL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nickelodeon-ru" lang="ru" xmltv_id="Nickelodeon.us">Nickelodeon</channel>
 <channel site="epg.iptvx.one" site_id="nicktoons" lang="ru" xmltv_id="Nicktoons.us">Nicktoons</channel>
@@ -306,13 +307,17 @@
 <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="AlmaTV.it">Alma</channel>
 <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it">Cine34</channel>
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
+<channel site="guida.tv" site_id="68736773/discovery-channel-i" lang="it" xmltv_id="DiscoveryChannel.it">Discovery Channel I</channel>
 <channel site="guida.tv" site_id="68776588/dmax-italia" lang="it" xmltv_id="DMAX.it">DMAX Italia</channel>
 <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it">Donna TV</channel>
+<channel site="guida.tv" site_id="70787384/food-network" lang="it" xmltv_id="FoodNetwork.it">Food Network</channel>
 <channel site="guida.tv" site_id="71657766/sky-italian-gambero-rosso-hd" lang="it" xmltv_id="GamberoRossoChannel.it">Sky Italian Gambero Rosso HD</channel>
+<channel site="guida.tv" site_id="72717384/hgtv-it" lang="it" xmltv_id="HGTV.it">HGTV IT</channel>
 <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it">Inter TV</channel>
 <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it">Iris</channel>
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
+<channel site="guida.tv" site_id="73846765/cartoon-network-italy" lang="it" xmltv_id="CartoonNetwork.it">Cartoon Network Italy</channel>
 <channel site="guida.tv" site_id="73847873/nickelodeon" lang="it" xmltv_id="Nickelodeon.it">Nickelodeon</channel>
 <channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="NickJr.it">Nick Jr.</channel>
 <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="La5.it">La 5</channel>
@@ -333,6 +338,7 @@
 <channel site="guidatv.sky.it" site_id="DTH#10468" lang="it" xmltv_id="TopCrime.it">TOPcrime HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#10616" lang="it" xmltv_id="Radiofreccia.it">RADIOFRECCIA HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#11712" lang="it" xmltv_id="Value24TV.it">VALUE 24 TV</channel>
+<channel site="horizon.tv" site_id="10091" lang="cs" xmltv_id="CartoonNetworkCEE.uk">Cartoon Network HD</channel>
 <channel site="horizon.tv" site_id="10152" lang="sk" xmltv_id="EuronewsHungarian.fr">Euronews HU</channel>
 <channel site="horizon.tv" site_id="10164" lang="de" xmltv_id="WELT.de">WELT</channel>
 <channel site="horizon.tv" site_id="10166" lang="de" xmltv_id="RTL.de">RTL DE</channel>
@@ -1066,6 +1072,7 @@
 <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us">Bounce TV</channel>
 <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us">Comet TV</channel>
 <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us">ESPNU</channel>
+<channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us">HBO HDTV (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69022184/kmsp-hdtv" lang="en" xmltv_id="KMSPDT1.us">KMSP HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us">STARZ HD (East)</channel>
@@ -1285,6 +1292,7 @@
 <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network</channel>
 <channel site="tvguide.com" site_id="9233013815" lang="en" xmltv_id="TheWeatherChannel.us">The Weather</channel>
 <channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us">American Heroes</channel>
+<channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="Boomerang.us">Boomerang</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
