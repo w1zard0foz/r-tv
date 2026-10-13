@@ -1118,7 +1118,7 @@ https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg0073
 #EXTINF:-1 tvg-id="WedoTVAmor.ch" group-title="🇨🇭 Switzerland",Wedo TV Amor (1080p)
 https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
 #EXTINF:-1 tvg-id="NickSchweiz.ch" group-title="🇨🇭 Switzerland",Nick Schweiz
-https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts
+https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" group-title="🇨🇭 Switzerland",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="123tv.de" group-title="🇩🇪 Germany",1-2-3 TV (270p)
@@ -1603,6 +1603,8 @@ https://s6.hopslan.com/disneyX/index.m3u8
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:-1 tvg-id="kabeleinsDoku.de" group-title="🇩🇪 Germany",kabel eins Doku (720p)
 https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="🇩🇪 Germany",Da Vinci Asia Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -3665,8 +3667,6 @@ https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnR
 http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" group-title="🇮🇹 Italy",Rai Italia North Americas (1080p)
 http://138.59.177.78:9999/play/a0gf/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.it" group-title="🇮🇹 Italy",Nickelodeon
-https://zg9mhld.s.gy/HD-NICK-IT.ts
 #EXTINF:-1 tvg-id="LA7.it" group-title="🇮🇹 Italy",LA7 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 #EXTINF:-1 tvg-id="La7Cinema.it" group-title="🇮🇹 Italy",La7 Cinema (720p)
@@ -3680,7 +3680,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" group-title="🇮🇹 Italy",Discovery Channel (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" group-title="🇮🇹 Italy",Cartoon Network HD
-https://zg9mhld.s.gy/HD-CARTOON-IT.ts
+https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -4495,8 +4495,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk" group-title="🇬🇧 United Kingdom",Zee One (1080p)
 https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCUHD3.uk" group-title="🇬🇧 United Kingdom",BBC UHD 3 (720p)
-http://45.14.84.37/bbc3/index.m3u8
 #EXTINF:-1 tvg-id="BBCUHD4.uk" group-title="🇬🇧 United Kingdom",BBC UHD 4 (720p)
 http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="🇬🇧 United Kingdom",GB News (1080p)
@@ -4587,8 +4585,6 @@ http://103.151.60.162:2122/play/a0fl/index.m3u8?hls
 http://103.151.60.162:2122/play/a017/index.m3u8?hls
 #EXTINF:-1 tvg-id="StarPlus.uk" group-title="🇬🇧 United Kingdom",StarPlus (576p)
 http://103.151.60.162:2122/play/a0fo/index.m3u8?hls
-#EXTINF:-1 tvg-id="ITV1.uk" group-title="🇬🇧 United Kingdom",ITV1 (360p)
-https://lb.iptvnetwork.net/ls28/10103/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel4.uk" group-title="🇬🇧 United Kingdom",Channel 4 (360p)
 https://lb.iptvnetwork.net/ls28/10104/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.uk" group-title="🇬🇧 United Kingdom",Channel 5 (360p)
@@ -4609,6 +4605,10 @@ https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8
 http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" group-title="🇬🇧 United Kingdom",Cartoon Network CEE Czech Republic
 http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" group-title="🇬🇧 United Kingdom",Cartoonito CEE Czechia
+http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" group-title="🇬🇧 United Kingdom",Cartoon Network CEE Poland (1080p)
+http://57.128.231.171:8080/293/index.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -6669,8 +6669,6 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" group-title="🇺🇸 United States",Studio Universal Latin America Brazil (720p)
 http://187.102.210.46/universo/index.m3u8
-#EXTINF:-1 tvg-id="NBCUniverso.us" group-title="🇺🇸 United States",NBC Universo West (720p)
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" group-title="🇺🇸 United States",NBC West (720p)
 http://stream.cammonitorplus.net/1800/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",NBC West (San Diego) (1080p) [Not 24/7]
@@ -7691,8 +7689,6 @@ http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" group-title="🇺🇸 United States",Animal Planet (720p)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.us" group-title="🇺🇸 United States",Animal Planet East HD (720p)
-http://193.254.245.162/ANIMAL-PLANET/index.m3u8
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" group-title="🇺🇸 United States",American Heroes Channel (720p)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-id="CookingChannel.us" group-title="🇺🇸 United States",Cooking Channel (720p)
@@ -7723,7 +7719,7 @@ http://168.196.127.137:6001/play/a097/index.m3u8
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us" group-title="🇺🇸 United States",Starz West (720p)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="CNN.us" group-title="🇺🇸 United States",CNN (1080p)
+#EXTINF:-1 tvg-id="CNNOriginals.us" group-title="🇺🇸 United States",CNN Originals (1080p)
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="TeenNick.us" group-title="🇺🇸 United States",TeenNick (432p)
 http://tvsen7.aynascope.net/teennick/index.m3u8
@@ -7733,8 +7729,6 @@ http://168.196.127.137:6001/play/a09v/index.m3u8
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" group-title="🇺🇸 United States",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" group-title="🇺🇸 United States",HBO 2 Latin America (576p)
-http://38.65.175.84:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" group-title="🇺🇸 United States",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HTV.us" group-title="🇺🇸 United States",HTV (720p)
@@ -7825,8 +7819,6 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="OutdoorChannel.us" group-title="🇺🇸 United States",Outdoor Channel Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=216
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="🇺🇸 United States",Cartoon Network Latin America Mexico
-https://zg9mhld.s.gy/HD-CARTOON-MX.ts
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us" group-title="🇺🇸 United States",Lifetime Latin America Mexico (1080p)
 https://streaming.onnethn.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="🇺🇸 United States",ESPN Latin America Colombia (1080p)
@@ -7843,6 +7835,20 @@ http://tvsen7.aynascope.net/hbo2/index.m3u8
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" group-title="🇺🇸 United States",CNN International North America (1080p)
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+#EXTINF:-1 tvg-id="CNN.us" group-title="🇺🇸 United States",CNN (720p)
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast
+http://170.244.209.30:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="🇺🇸 United States",Cartoon Network Latin America North Atlantic (1080p)
+http://170.244.209.30:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us" group-title="🇺🇸 United States",Adult Swim Latin America
+http://170.244.209.30:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" group-title="🇺🇸 United States",Discovery Kids Latin America Chile (1080p)
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast SouthAmerica (1080p)
+http://200.62.239.170:830/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us" group-title="🇺🇸 United States",TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11535,8 +11541,6 @@ https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" group-title="🇺🇸 United States",Love Nature (1080p) [Geo-blocked]
 https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureenEspanol.us" group-title="🇺🇸 United States",Love Nature en Espanol (1080p) [Geo-blocked]
-https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us" group-title="🇺🇸 United States",Midsomer Murders
 https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Million Dollar Listing Vault (1080p)

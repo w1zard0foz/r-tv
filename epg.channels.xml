@@ -237,7 +237,6 @@
 <channel site="freeview.co.uk" site_id="64257#27360" lang="en" xmltv_id="GBNews.uk">GB News</channel>
 <channel site="freeview.co.uk" site_id="64257#24448" lang="en" xmltv_id="GemsTV.uk">Gemporia</channel>
 <channel site="freeview.co.uk" site_id="64257#27840" lang="en" xmltv_id="HobbyMaker.uk">HobbyMaker</channel>
-<channel site="freeview.co.uk" site_id="64304#8257" lang="en" xmltv_id="ITV1.uk">ITV1</channel>
 <channel site="freeview.co.uk" site_id="64257#16200" lang="en" xmltv_id="KetchupTV.us">Ketchup TV</channel>
 <channel site="freeview.co.uk" site_id="64275#32839" lang="en" xmltv_id="LatestTV.uk">Latest TV</channel>
 <channel site="freeview.co.uk" site_id="64257#13144" lang="en" xmltv_id="MBC.uk">MBC</channel>
@@ -285,7 +284,6 @@
 <channel site="gatotv.com" site_id="hln" lang="es" xmltv_id="HLN.us">Canal HLN</channel>
 <channel site="gatotv.com" site_id="htv" lang="es" xmltv_id="HTV.us">Canal HTV</channel>
 <channel site="gatotv.com" site_id="lifetime_mexico" lang="es" xmltv_id="LifetimeLatinAmerica.us">Canal Lifetime (México)</channel>
-<channel site="gatotv.com" site_id="universo" lang="es" xmltv_id="NBCUniverso.us">Canal Universo</channel>
 <channel site="gatotv.com" site_id="semillitas" lang="es" xmltv_id="SemillitasTV.us">Canal Semillitas</channel>
 <channel site="gatotv.com" site_id="tcm_panregional" lang="es" xmltv_id="TCMLatinAmerica.us">Canal TCM (Panregional)</channel>
 <channel site="gatotv.com" site_id="telemundo_mexico" lang="es" xmltv_id="TelemundoInternacional.us">Canal Telemundo (México)</channel>
@@ -318,7 +316,6 @@
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
 <channel site="guida.tv" site_id="73846765/cartoon-network-italy" lang="it" xmltv_id="CartoonNetwork.it">Cartoon Network Italy</channel>
-<channel site="guida.tv" site_id="73847873/nickelodeon" lang="it" xmltv_id="Nickelodeon.it">Nickelodeon</channel>
 <channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="NickJr.it">Nick Jr.</channel>
 <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="La5.it">La 5</channel>
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
@@ -405,6 +402,7 @@
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5f6b8e5900b0950040d0f2af" lang="en" xmltv_id="CheddarNews.us">Cheddar</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5ef11487d33ab9004048a1d3" lang="en" xmltv_id="Choppertown.us">Choppertown</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-67db0a3892cb453db28ab020" lang="en" xmltv_id="CineRomantico.us">Cine Romántico</channel>
+<channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ad6025cb5d3b7fb5011c2d" lang="en" xmltv_id="CNNOriginals.us">CNN Originals</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76" lang="en" xmltv_id="ComedyDynamics.us">Comedy Dynamics</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda" lang="en" xmltv_id="CookingPanda.us">Cooking Panda</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-626c1753ffda6789d20a452e" lang="en" xmltv_id="Cops.us">COPS</channel>
@@ -949,7 +947,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/it#6093f9281db477000759fce0" lang="it" xmltv_id="SuperSpongeBob.us">Super! SpongeBob</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#0d5283959d3a59bf87411e7077fd9e58" lang="en" xmltv_id="VevoLatino.us">Vevo Latino</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#1e2a4ec82eb65f729ad7484337c0bcd4" lang="en" xmltv_id="Filmex.mx">FILMEX</channel>
-<channel site="i.mjh.nz" site_id="Roku/all#03a419fc4dff59b39b176d9f76b09e38" lang="en" xmltv_id="LoveNatureenEspanol.us">Love Nature Spanish</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#4b631847108256fd8c77f6ba3bf3af03" lang="en" xmltv_id="NBCComedyVault.us">NBC Comedy Vault</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#7ef5e16ef5d95718b8e14b7bd657fa81" lang="en" xmltv_id="CinevaultWesterns.us">CINEVAULT: WESTERNS</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#8ad68e46b0d35e61a7787b7042b61eb0" lang="en" xmltv_id="LoveThePlanet.es">Love The Planet En Español</channel>
@@ -1024,8 +1021,10 @@
 <channel site="m.tv.sms.cz" site_id="Wild+TV" lang="en" xmltv_id="WildTV.ca">Wild TV</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFinfo" lang="de" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFneo" lang="de" xmltv_id="ZDFneo.de">ZDFneo</channel>
+<channel site="maxstream.tv" site_id="0_enfa8a2h" lang="id" xmltv_id="DaVinciAsia.de">Da Vinci Learning</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
+<channel site="melita.com" site_id="dac0cc07-c3f1-4753-a1b6-fd9465ba2e20" lang="en" xmltv_id="CartoonitoCEE.uk">Boomerang</channel>
 <channel site="meo.pt" site_id="24KTHD" lang="pt" xmltv_id="24Kitchen.us">24Kitchen</channel>
 <channel site="meuguia.tv" site_id="135" lang="pt" xmltv_id="Combate.br">Combate</channel>
 <channel site="meuguia.tv" site_id="DTU" lang="pt" xmltv_id="DiscoveryTurboLatinAmerica.us">Discovery Turbo</channel>
