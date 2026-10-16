@@ -95,6 +95,8 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 #EXTINF:-1 tvg-id="tickerNews.au" group-title="🇦🇺 Australia",ticker News (1080p)
 https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
+#EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="🇦🇺 Australia",Fox Sports News (1080p)
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
 #EXTINF:-1 group-title="🇦🇺 Australia",8 Out of 10 Cats (1080p) [Geo-blocked]
 https://amg00627-amg00627c37-samsung-au-4294.playouts.now.amagi.tv/playlist/amg00627-banijayfast-8outof10cats-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="🇦🇺 Australia",Action Hollywood Movies (1080p)
@@ -1605,6 +1607,10 @@ http://5.180.164.197:8080/ZDFNEO/index.m3u8
 https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="🇩🇪 Germany",Da Vinci Asia Vietnam (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTINF:-1 tvg-id="TLC.de" group-title="🇩🇪 Germany",TLC (576p)
+https://s6.hopslan.com/tlcX/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="🇩🇪 Germany",DW English (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -2339,8 +2345,6 @@ http://170.83.16.50/FRANCE_24/index.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 English (720p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 English (720p)
-https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 English (576p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 English (576p)
@@ -2433,8 +2437,6 @@ https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="RFMTV.fr" group-title="🇫🇷 France",RFM TV [Not 24/7]
 http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
-#EXTINF:-1 tvg-id="RMCLife.fr" group-title="🇫🇷 France",RMC Life (1080p)
-http://145.239.5.177/333/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" group-title="🇫🇷 France",RMC Story (1080p)
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="SciFi.fr" group-title="🇫🇷 France",SciFi (720p)
@@ -2479,8 +2481,6 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (1080p)
 http://54.37.19.157/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (720p)
-https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (576p)
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia
@@ -2605,6 +2605,12 @@ https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 http://stream.mcquack.net/176/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Russia (1080p)
 http://stream.mcquack.net/192/index.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr" group-title="🇫🇷 France",RMC Life (1080p)
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="🇫🇷 France",RMC Decouverte (1080p)
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -3675,6 +3681,8 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.it" group-title="🇮🇹 Italy",Nickelodeon
 https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it" group-title="🇮🇹 Italy",Discovery Turbo (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -4031,6 +4039,8 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="JOJGDTV.jp" group-title="🇯🇵 Japan",JOJG-DTV (1080p)
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="🇯🇵 Japan",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="Channel200.nz" group-title="🇳🇿 New Zealand",Channel 200 (540p)
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" group-title="🇳🇿 New Zealand",Firstlight (576p)
@@ -4603,6 +4613,14 @@ http://57.128.231.171:8080/306/index.m3u8
 http://57.128.231.171:8080/310/index.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" group-title="🇬🇧 United Kingdom",AMC Europe Poland (576i)
 http://57.128.231.171:8080/318/index.m3u8
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk" group-title="🇬🇧 United Kingdom",Viasat Epic Drama Poland (1080p)
+http://92.114.85.87:8001/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" group-title="🇬🇧 United Kingdom",Cartoon Network CEE Poland
+http://92.114.85.87:8007/play/a009
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" group-title="🇬🇧 United Kingdom",Cartoonito CEE Poland (1080p)
+http://92.114.85.87:8007/play/a008
+#EXTINF:-1 tvg-id="EnglishClubGlobal.uk" group-title="🇬🇧 United Kingdom",English Club Global
+https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7769,9 +7787,9 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="TCM.us" group-title="🇺🇸 United States",TCM West (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸 United States",ESPN (720p)
+#EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸 United States",ESPN HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸 United States",ESPN 2 (720p)
+#EXTINF:-1 tvg-id="ESPN2.us" group-title="🇺🇸 United States",ESPN 2 HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" group-title="🇺🇸 United States",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
@@ -7851,6 +7869,8 @@ http://212.5.144.156:8080/cartoon/index.m3u8
 http://212.5.144.156:8080/cnn/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" group-title="🇺🇸 United States",CBS News Los Angeles
 https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" group-title="🇺🇸 United States",HGTV (720p)
+http://tvsen7.aynascope.net/hgtv/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11679,6 +11699,8 @@ https://cdn-7.pishow.tv/live/431/master.m3u8
 https://mumt05.tangotv.in/87NeALx2DWTV/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="📰 International News",DW English (576p)
 https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
+#EXTINF:-1 tvg-id="DW.de" group-title="📰 International News",DW English (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=109
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" group-title="📰 International News",Euronews (720p)
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.de" group-title="🖖 Star Trek",Pluto TV Star Trek
@@ -11759,8 +11781,6 @@ http://170.83.16.50/FRANCE_24/index.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 English (720p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 English (720p)
-https://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 English (576p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 English (576p)
@@ -11835,6 +11855,8 @@ https://nhk.lls.pbs.org/index.m3u8
 http://170.83.16.50/NHK_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="📰 International News",NHK World-Japan (576p)
 https://mumt07.tangotv.in/zHjX9OFlNHKWORLD/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="📰 International News",NHK World-Japan HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=106
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr" group-title="📰 International News",Euronews Español (684p)
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us" group-title="🖖 Star Trek",Pluto TV Star Trek

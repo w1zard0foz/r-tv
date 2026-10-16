@@ -45,6 +45,7 @@
 <channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
 <channel site="canalplus.com" site_id="#557" lang="fr" xmltv_id="RFMTV.fr">RFM TV</channel>
+<channel site="canalplus.com" site_id="#595" lang="fr" xmltv_id="RMCDecouverte.fr">RMC DECOUVERTE</channel>
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
 <channel site="canalplus.com" site_id="#356" lang="fr" xmltv_id="SerieClub.fr">SERIE CLUB</channel>
 <channel site="canalplus.com" site_id="#292" lang="fr" xmltv_id="Teva.fr">TEVA</channel>
@@ -206,6 +207,7 @@
 <channel site="epg.iptvx.one" site_id="fox-business-us" lang="ru" xmltv_id="FoxBusinessNetwork.us">Fox Business [US]</channel>
 <channel site="epg.iptvx.one" site_id="fox-news-us" lang="ru" xmltv_id="FoxNewsChannel.us">Fox News</channel>
 <channel site="epg.iptvx.one" site_id="h2" lang="ru" xmltv_id="VICETV.us">H2</channel>
+<channel site="epg.iptvx.one" site_id="hgtv" lang="ru" xmltv_id="HGTV.us">HGTV</channel>
 <channel site="epg.iptvx.one" site_id="iconcerts" lang="ru" xmltv_id="StingrayiConcerts.ca">Stingray iConcerts</channel>
 <channel site="epg.iptvx.one" site_id="m1global" lang="ru" xmltv_id="MMATVcom.ru">MMA-TV</channel>
 <channel site="epg.iptvx.one" site_id="mcm-pop" lang="ru" xmltv_id="MCMPop.fr">MCM Pop</channel>
@@ -226,6 +228,7 @@
 <channel site="epg.iptvx.one" site_id="tsn4-ca" lang="ru" xmltv_id="TSN4.ca">TSN4</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
+<channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au">Fox Sports News</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
 <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au">SKY Racing 2</channel>
 <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au">TVSN</channel>
@@ -1142,6 +1145,7 @@
 <channel site="sky.com" site_id="DE#690" lang="de" xmltv_id="SRFernsehen.de">SR Fernsehen HD</channel>
 <channel site="sky.com" site_id="DE#637" lang="de" xmltv_id="SWRFernsehenBadenWurttemberg.de">SWR BW HD</channel>
 <channel site="sky.com" site_id="DE#638" lang="de" xmltv_id="SWRFernsehenRheinlandPfalz.de">SWR RP HD</channel>
+<channel site="sky.com" site_id="DE#100" lang="de" xmltv_id="TLC.de">TLC HD</channel>
 <channel site="sky.com" site_id="DE#5804" lang="de" xmltv_id="TVIngolstadt.de">tv.ingolstadt HD</channel>
 <channel site="sky.com" site_id="DE#4606" lang="de" xmltv_id="TVMainfranken.de">Mainfranken</channel>
 <channel site="sky.com" site_id="DE#3018" lang="de" xmltv_id="VolksmusikTV.de">Volksmusik.TV</channel>
