@@ -230,6 +230,7 @@
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au">Fox Sports News</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
+<channel site="foxtel.com.au" site_id="Sky-News-Extra/ASP" lang="en" xmltv_id="SkyNewsExtra.au">Sky News Extra</channel>
 <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au">SKY Racing 2</channel>
 <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au">TVSN</channel>
 <channel site="freeview.co.uk" site_id="64257#12992" lang="en" xmltv_id="5USA.uk">5USA</channel>
@@ -367,6 +368,7 @@
 <channel site="i.mjh.nz" site_id="Flash/epg#usa-today" lang="en" xmltv_id="USATODAY.us">USA Today</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca">Nature Time</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au">RACING.COM</channel>
+<channel site="i.mjh.nz" site_id="Foxtel/epg#FXW" lang="en" xmltv_id="SkyNewsWeatherChannel.au">SKY Weather</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au">Sky Racing 1</channel>
 <channel site="i.mjh.nz" site_id="MeTV/epg#metv" lang="en" xmltv_id="MeTV.us">MeTV</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" lang="en" xmltv_id="50CentAction.us">50 Cent Action</channel>
