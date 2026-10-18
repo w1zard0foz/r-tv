@@ -1615,6 +1615,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="🇩🇪 Germany",DW English (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=109
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="🇩🇪 Germany",ProSieben Maxx (576p)
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="🇩🇪 Germany",Da Vinci Asia Vietnam (1080p)
+https://vmttv.dpdns.org/tv360/?id=davinci-hd
+#EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste HD (1080p) [Geo-blocked]
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -2094,7 +2100,7 @@ https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-id="VantageRock.ee" group-title="🇪🇪 Estonia",Vantage Rock (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
 #EXTINF:-1 tvg-id="OTV.ee" group-title="🇪🇪 Estonia",OTV
-http://88.212.15.19/live/otv/playlist.m3u8
+http://88.212.15.17/live/otv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eveo.fi" group-title="🇫🇮 Finland",Eveo (720p) [Not 24/7]
 https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hero.fi" group-title="🇫🇮 Finland",Hero (720p) [Not 24/7]
@@ -2567,8 +2573,6 @@ https://iptv.bitred.cl/euronews/index.m3u8
 http://nmk.ioapk.com:5050/4gtv-live146/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 Spanish (720p)
 http://138.121.15.230:9002/FRANCE-24/index.m3u8
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" group-title="🇫🇷 France",FashionTV Asia (720p)
-http://58.8.186.128:10006/bysid/2616
 #EXTINF:-1 tvg-id="TraceLatina.fr" group-title="🇫🇷 France",Trace Latina (576p)
 https://mumbai-edge.smartplaytv.in/TraceLatina/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" group-title="🇫🇷 France",Trace Sport Stars (576p)
@@ -3689,6 +3693,10 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" group-title="🇮🇹 Italy",Discovery Turbo (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it" group-title="🇮🇹 Italy",Rai Movie HD (1080p)
+http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹 Italy",Rai 3 (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -4234,7 +4242,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="BabyTV.uk" group-title="🇬🇧 United Kingdom",BabyTV Latin America (720p)
 http://138.121.15.230:9002/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" group-title="🇬🇧 United Kingdom",BBC Earth Czechia
-http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk" group-title="🇬🇧 United Kingdom",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News Asia Pacific (576p)
@@ -4268,7 +4276,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="CNBCUK.uk" group-title="🇬🇧 United Kingdom",CNBC UK (1080p) [Geo-blocked]
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk" group-title="🇬🇧 United Kingdom",Crime + Investigation CEE
-http://88.212.15.19/live/test_cai_hevc/playlist.m3u8
+http://88.212.15.17/live/test_cai_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk" group-title="🇬🇧 United Kingdom",Deen TV (576p) [Not 24/7]
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk" group-title="🇬🇧 United Kingdom",Deen TV (576p)
@@ -4525,8 +4533,6 @@ https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="🇬🇧 United Kingdom",MUTV (720p)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk" group-title="🇬🇧 United Kingdom",BBC Lifestyle Asia (720p)
-http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="MoonbugKids.uk" group-title="🇬🇧 United Kingdom",Moonbug Kids (720p)
 https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News South Asia (720p)
@@ -6205,8 +6211,6 @@ http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/dhe_new/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us" group-title="🇺🇸 United States",Didgah TV (576p)
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel (720p) [Geo-blocked]
-http://212.5.144.156/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" group-title="🇺🇸 United States",Disney Channel Latin America (720p)
 http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" group-title="🇺🇸 United States",Disney Jr. Latin America (1080p)
@@ -7481,10 +7485,6 @@ http://107.167.16.138/OutdoorChannel/index.m3u8?token=test
 http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="KNino.us" group-title="🇺🇸 United States",KNino (1080p)
 https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="🇺🇸 United States",History Asia (720p)
-http://58.8.186.128:10005/bysid/2517
-#EXTINF:-1 tvg-id="LifetimeAsia.us" group-title="🇺🇸 United States",Lifetime Asia (720p)
-http://58.8.186.128:10006/bysid/2615
 #EXTINF:-1 tvg-id="HappyKids.us" group-title="🇺🇸 United States",HappyKids (576p)
 https://mumbai-edge.smartplaytv.in/HappyKids/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooBollywood.us" group-title="🇺🇸 United States",Shemaroo Bollywood (1080p)
@@ -7843,8 +7843,6 @@ http://170.244.209.30:8000/play/a027/index.m3u8
 http://170.244.209.30:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" group-title="🇺🇸 United States",Discovery Kids Latin America Chile (1080p)
 http://38.224.231.176:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast SouthAmerica (1080p)
-http://200.62.239.170:830/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us" group-title="🇺🇸 United States",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸 United States",ESPN (432p)
@@ -7875,6 +7873,10 @@ http://212.5.144.156:8080/cnn/index.m3u8
 https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/42e4ec14-fe53-469b-bc85-677ed0b245f4:ATL/variant/344ab3b460bc514714f94805d600b130/bandwidth/2121247.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" group-title="🇺🇸 United States",HGTV (720p)
 http://tvsen7.aynascope.net/hgtv/index.m3u8
+#EXTINF:-1 tvg-id="LucasFriends.us" group-title="🇺🇸 United States",Lucas & Friends
+https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="🇺🇸 United States",Cartoon Network Latin America Brazil (720p)
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)

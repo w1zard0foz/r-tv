@@ -101,7 +101,6 @@
 <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk">Moonbug</channel>
 <channel site="cubmu.com" site_id="234" lang="id" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
 <channel site="cubmu.com" site_id="244" lang="id" xmltv_id="DaystarTV.us">DayStar</channel>
-<channel site="cubmu.com" site_id="196" lang="id" xmltv_id="FashionTVAsia.fr">Fashion TV</channel>
 <channel site="dens.tv" site_id="98" lang="id" xmltv_id="Motorvision.de">Motorvision+</channel>
 <channel site="dens.tv" site_id="92" lang="id" xmltv_id="MyCinemaEurope.ch">My Cinema Europe HD</channel>
 <channel site="dens.tv" site_id="143" lang="id" xmltv_id="QwestTV.fr">Qwest TV</channel>
@@ -328,6 +327,7 @@
 <channel site="guida.tv" site_id="77686988/mediaset-extra" lang="it" xmltv_id="MediasetExtra.it">Mediaset Extra</channel>
 <channel site="guida.tv" site_id="77688384/mediaset-20" lang="it" xmltv_id="20.it">Mediaset 20</channel>
 <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="RaiGulp.it">Rai gulp</channel>
+<channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="RaiMovie.it">RAI Movie</channel>
 <channel site="guida.tv" site_id="82658486/radionorba-tv" lang="it" xmltv_id="RadioNorbaTV.it">Radionorba TV</channel>
 <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5</channel>
 <channel site="guida.tv" site_id="83495451/euronews" lang="it" xmltv_id="EuronewsItalian.fr">Euronews</channel>
@@ -1280,7 +1280,6 @@
 <channel site="tvguide.com" site_id="9200016034" lang="en" xmltv_id="HallmarkChannel.us">Hallmark</channel>
 <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us">Turner Classic Movies</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
-<channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
