@@ -97,7 +97,7 @@ https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8
 https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/index.m3u8
 #EXTINF:-1 tvg-id="FoxSportsNews.au" group-title="🇦🇺 Australia",Fox Sports News (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra.au" group-title="🇦🇺 Australia",Sky News Extra
+#EXTINF:-1 tvg-id="News24World.au" group-title="🇦🇺 Australia",News24 World
 https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-id="SkyNewsWeatherChannel.au" group-title="🇦🇺 Australia",Sky News Weather Channel
 https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
@@ -1609,8 +1609,6 @@ https://s6.hopslan.com/disneyX/index.m3u8
 http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:-1 tvg-id="kabeleinsDoku.de" group-title="🇩🇪 Germany",kabel eins Doku (720p)
 https://s6.hopslan.com/dokuX/index.m3u8
-#EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="🇩🇪 Germany",Da Vinci Asia Vietnam (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=214
 #EXTINF:-1 tvg-id="TLC.de" group-title="🇩🇪 Germany",TLC (576p)
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="DW.de" group-title="🇩🇪 Germany",DW English (1080p)
@@ -4023,8 +4021,6 @@ https://ntv5.mov3.co/hls/ntv.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp" group-title="🇯🇵 Japan",JOEX-DTV (540p)
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" group-title="🇯🇵 Japan",JORX-DTV
-https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" group-title="🇯🇵 Japan",NHK General TV (720p)
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="🇯🇵 Japan",NHK World-Japan (1080p)
@@ -4321,8 +4317,6 @@ https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/
 https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="🇬🇧 United Kingdom",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" group-title="🇬🇧 United Kingdom",GB News (1080p)
-https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="🇬🇧 United Kingdom",GB News (1080p)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
 #EXTINF:-1 tvg-id="GemsTV.uk" group-title="🇬🇧 United Kingdom",Gems TV (720p)
@@ -7453,8 +7447,6 @@ http://45.162.64.114/ADULT_SWIM/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us" group-title="🇺🇸 United States",Aspire TV Life (1080p)
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOMovies.us" group-title="🇺🇸 United States",HBO Movies (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxClassics.us" group-title="🇺🇸 United States",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="AMCenEspanol.us" group-title="🇺🇸 United States",AMC en Espanol
@@ -11685,8 +11677,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra3.au" group-title="📰 International News",Sky News Extra 3 (1080p)
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra.au" group-title="📰 International News",Sky News Extra
-https://skynewsau-live-premium.akamaized.net/hls/live/2105306/skynewsextra/live_540p.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr" group-title="📰 International News",Euronews Portuguese (720p)
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-id="StarTrek.us" group-title="🖖 Star Trek",Pluto TV Star Trek

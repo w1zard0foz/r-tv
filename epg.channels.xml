@@ -229,7 +229,6 @@
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au">Fox Sports News</channel>
 <channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
-<channel site="foxtel.com.au" site_id="Sky-News-Extra/ASP" lang="en" xmltv_id="SkyNewsExtra.au">Sky News Extra</channel>
 <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au">SKY Racing 2</channel>
 <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au">TVSN</channel>
 <channel site="freeview.co.uk" site_id="64257#12992" lang="en" xmltv_id="5USA.uk">5USA</channel>
@@ -1298,7 +1297,6 @@
 <channel site="tvguide.com" site_id="9233013815" lang="en" xmltv_id="TheWeatherChannel.us">The Weather</channel>
 <channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us">American Heroes</channel>
 <channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="Boomerang.us">Boomerang</channel>
-<channel site="tvguide.myjcom.jp" site_id="2_1048_32739" lang="ja" xmltv_id="JORXDTV.jp">TBS</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1072_32742" lang="ja" xmltv_id="JOTXDTV.jp">テレビ東京</channel>
