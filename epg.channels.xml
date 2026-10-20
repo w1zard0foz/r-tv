@@ -222,13 +222,13 @@
 <channel site="epg.iptvx.one" site_id="revolt-tv-us" lang="ru" xmltv_id="Revolt.us">Revolt TV [US]</channel>
 <channel site="epg.iptvx.one" site_id="setanta-sports" lang="ru" xmltv_id="RugbyPassTV.uk">Setanta Sports</channel>
 <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="ru" xmltv_id="TBNArmenia.us">TBN Armenia</channel>
+<channel site="epg.iptvx.one" site_id="tele5" lang="ru" xmltv_id="TELE5.de">Tele 5</channel>
 <channel site="epg.iptvx.one" site_id="trace-sport-stars" lang="ru" xmltv_id="TraceSportStars.fr">Trace Sport Stars</channel>
 <channel site="epg.iptvx.one" site_id="tri-angela" lang="ru" xmltv_id="3ABNRussia.ru">Три Ангела</channel>
 <channel site="epg.iptvx.one" site_id="tsn4-ca" lang="ru" xmltv_id="TSN4.ca">TSN4</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au">Fox Sports News</channel>
-<channel site="foxtel.com.au" site_id="SBS-Worldwatch/SWW" lang="en" xmltv_id="SBSWorldWatch.au">SBS Worldwatch</channel>
 <channel site="foxtel.com.au" site_id="SKY-Racing-2/SR2" lang="en" xmltv_id="SkyRacing2.au">SKY Racing 2</channel>
 <channel site="foxtel.com.au" site_id="TVSN/TVS" lang="en" xmltv_id="TVSN.au">TVSN</channel>
 <channel site="freeview.co.uk" site_id="64257#12992" lang="en" xmltv_id="5USA.uk">5USA</channel>
@@ -310,10 +310,12 @@
 <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it">Cine34</channel>
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
 <channel site="guida.tv" site_id="68736773/discovery-channel-i" lang="it" xmltv_id="DiscoveryChannel.it">Discovery Channel I</channel>
+<channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="Nove.it">Nove</channel>
 <channel site="guida.tv" site_id="68776588/dmax-italia" lang="it" xmltv_id="DMAX.it">DMAX Italia</channel>
 <channel site="guida.tv" site_id="68797878/donna-tv" lang="it" xmltv_id="DonnaTV.it">Donna TV</channel>
 <channel site="guida.tv" site_id="70787384/food-network" lang="it" xmltv_id="FoodNetwork.it">Food Network</channel>
 <channel site="guida.tv" site_id="71657766/sky-italian-gambero-rosso-hd" lang="it" xmltv_id="GamberoRossoChannel.it">Sky Italian Gambero Rosso HD</channel>
+<channel site="guida.tv" site_id="71737979/giallo" lang="it" xmltv_id="Giallo.it">Giallo</channel>
 <channel site="guida.tv" site_id="72717384/hgtv-it" lang="it" xmltv_id="HGTV.it">HGTV IT</channel>
 <channel site="guida.tv" site_id="73788469/inter-tv" lang="it" xmltv_id="InterTV.it">Inter TV</channel>
 <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it">Iris</channel>
@@ -328,6 +330,7 @@
 <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="RaiGulp.it">Rai gulp</channel>
 <channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="RaiMovie.it">RAI Movie</channel>
 <channel site="guida.tv" site_id="82658486/radionorba-tv" lang="it" xmltv_id="RadioNorbaTV.it">Radionorba TV</channel>
+<channel site="guida.tv" site_id="82847384/real-time" lang="it" xmltv_id="RealTime.it">Real Time</channel>
 <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5</channel>
 <channel site="guida.tv" site_id="83495451/euronews" lang="it" xmltv_id="EuronewsItalian.fr">Euronews</channel>
 <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it">Sport Italia</channel>
@@ -1040,6 +1043,7 @@
 <channel site="meuguia.tv" site_id="TNS" lang="pt" xmltv_id="TNTSeriesLatinAmerica.us">TNT Séries</channel>
 <channel site="mi.tv" site_id="ar#food-network" lang="es" xmltv_id="FoodNetworkLatinAmerica.us">Food Network</channel>
 <channel site="mi.tv" site_id="ar#hola-tv" lang="es" xmltv_id="HolaTVLatinAmerica.us">Hola TV</channel>
+<channel site="mi.tv" site_id="ar#nick-jr" lang="es" xmltv_id="NickJrLatinAmerica.us">Nick Jr.</channel>
 <channel site="mi.tv" site_id="ar#sony" lang="es" xmltv_id="SonyChannelAndes.us">Sony</channel>
 <channel site="mi.tv" site_id="br#sonlife-broadcasting-network" lang="pt" xmltv_id="SBNTVInternational.us">SonLife Broadcasting Network</channel>
 <channel site="mi.tv" site_id="co#aliento-vision" lang="es" xmltv_id="AlientoVision.us">Aliento Vision</channel>
@@ -1265,7 +1269,6 @@
 <channel site="tvguide.com" site_id="9200004290" lang="en" xmltv_id="DiscoveryFamily.us">Discovery Family</channel>
 <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us">IFC</channel>
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
-<channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
 <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us">A&amp;E</channel>
 <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us">Oxygen</channel>
 <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us">TeenNick</channel>

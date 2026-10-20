@@ -73,8 +73,6 @@ https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-racecentral/index.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au" group-title="🇦🇺 Australia",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="SBSWorldWatch.au" group-title="🇦🇺 Australia",SBS WorldWatch
-http://44.32.200.142:5004/auto/v35
 #EXTINF:-1 tvg-id="SkyNewsExtra1.au" group-title="🇦🇺 Australia",Sky News Extra 1 (540p)
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsExtra2.au" group-title="🇦🇺 Australia",Sky News Extra 2 (540p) [Not 24/7]
@@ -1619,6 +1617,8 @@ https://s6.hopslan.com/pro7maxxX/index.m3u8
 https://vmttv.dpdns.org/tv360/?id=davinci-hd
 #EXTINF:-1 tvg-id="DasErste.de" group-title="🇩🇪 Germany",Das Erste HD (1080p) [Geo-blocked]
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="TELE5.de" group-title="🇩🇪 Germany",TELE 5 (576p)
+https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -3695,6 +3695,12 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹 Italy",Rai 3 (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="RealTime.it" group-title="🇮🇹 Italy",Real Time (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Nove.it" group-title="🇮🇹 Italy",Nove (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" group-title="🇮🇹 Italy",Giallo (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -6217,8 +6223,6 @@ http://tvsen5.aynascope.net/disney/index.m3u8
 http://tvsen7.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" group-title="🇺🇸 United States",Disney Junior (480p)
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" group-title="🇺🇸 United States",Disney XD (720p)
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DNews.us" group-title="🇺🇸 United States",DNews (720p)
 http://38.19.16.151:8000/play/a0a3
 #EXTINF:-1 tvg-id="DocumentaryPlus.us" group-title="🇺🇸 United States",Documentary+ (1080p)
@@ -7737,7 +7741,7 @@ https://barinaslive1.boldmss.com/NICK/NICK.isml/NICK.m3u8
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" group-title="🇺🇸 United States",Cinemax Latin America (720p)
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (1080p)
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (720p)
 https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV.us" group-title="🇺🇸 United States",HTV (720p)
 https://streaming.onnethn.com/HTV/playlist.m3u8
@@ -7869,6 +7873,18 @@ http://tvsen7.aynascope.net/hgtv/index.m3u8
 https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="🇺🇸 United States",Cartoon Network Latin America Brazil (720p)
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" group-title="🇺🇸 United States",Nickelodeon Latin America (1080p)
+https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="TCMLatinAmerica.us" group-title="🇺🇸 United States",TCM Latin America Chile (1080p)
+https://streaming.onnethn.com/TCM_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLatinAmerica.us" group-title="🇺🇸 United States",MTV Latin America (1080p)
+https://streaming.onnethn.com/MTV/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJrLatinAmerica.us" group-title="🇺🇸 United States",Nick Jr. Latin America (1080p)
+https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="🇺🇸 United States",AXN Latin America (1080p)
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCSeriesLatinAmerica.us" group-title="🇺🇸 United States",AMC Series Latin America (1080p)
+https://streaming.onnethn.com/AMC/playlist.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
