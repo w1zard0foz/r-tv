@@ -370,7 +370,6 @@
 <channel site="i.mjh.nz" site_id="Flash/epg#usa-today" lang="en" xmltv_id="USATODAY.us">USA Today</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca">Nature Time</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au">RACING.COM</channel>
-<channel site="i.mjh.nz" site_id="Foxtel/epg#FXW" lang="en" xmltv_id="SkyNewsWeatherChannel.au">SKY Weather</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au">Sky Racing 1</channel>
 <channel site="i.mjh.nz" site_id="MeTV/epg#metv" lang="en" xmltv_id="MeTV.us">MeTV</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" lang="en" xmltv_id="50CentAction.us">50 Cent Action</channel>
@@ -1067,7 +1066,6 @@
 <channel site="neo.io" site_id="one-adria" lang="sl" xmltv_id="OneAdria.de">One Adria</channel>
 <channel site="nostv.pt" site_id="543" lang="pt" xmltv_id="TraceToca.fr">Trace Toca</channel>
 <channel site="nowplayer.now.com" site_id="713" lang="en" xmltv_id="TV5MondeStyle.fr">TV5MONDE Style</channel>
-<channel site="ntv.co.jp" site_id="#" lang="ja" xmltv_id="JOAXDTV.jp">Nippon TV</channel>
 <channel site="nzxmltv.com" site_id="xmltv/guide#10" lang="en" xmltv_id="TeReo.nz">Te Reo</channel>
 <channel site="nzxmltv.com" site_id="xmltv/guide#41" lang="en" xmltv_id="WairarapaTV.nz">Wairarapa TV</channel>
 <channel site="nzxmltv.com" site_id="xmltv/guide#200" lang="en" xmltv_id="Channel200.nz">CH200</channel>
@@ -1302,7 +1300,6 @@
 <channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="Boomerang.us">Boomerang</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
 <channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
-<channel site="tvguide.myjcom.jp" site_id="2_1072_32742" lang="ja" xmltv_id="JOTXDTV.jp">テレビ東京</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_104_65406" lang="ja" xmltv_id="TV5MondePacific.fr">ＴＶ５ＭＯＮＤＥ</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_192_65406" lang="ja" xmltv_id="GSTV.jp">ジュエリー☆GSTV</channel>
 <channel site="tvhebdo.com" site_id="bnnb/BNNB" lang="fr" xmltv_id="BNNBloomberg.ca">BNN Bloomberg</channel>
