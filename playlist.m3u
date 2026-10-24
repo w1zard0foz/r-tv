@@ -2547,10 +2547,6 @@ http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="MCMPop.fr" group-title="🇫🇷 France",MCM Pop (580p)
 http://188.115.15.121:8000/play/a014
-#EXTINF:-1 tvg-id="CanalPlus.fr" group-title="🇫🇷 France",Canal+ (1080p) [Geo-blocked]
-http://tv.streambox.fr/live/testlivestream/testlivestream/41.m3u8
-#EXTINF:-1 tvg-id="CanalPlus.fr" group-title="🇫🇷 France",Canal+ (720p)
-http://151.80.18.177:86/Canal+_HD/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr" group-title="🇫🇷 France",Europe 1 TV (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France",W9 (1086p)
@@ -2579,6 +2575,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9852
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
+#EXTINF:-1 tvg-id="arte.fr" group-title="🇫🇷 France",arte (720p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -3669,6 +3667,10 @@ http://team-tv.co:81/rai5/index.m3u8
 http://team-tv.co:81/raipremium/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it" group-title="🇮🇹 Italy",Boing (720p)
 https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" group-title="🇮🇹 Italy",Rai Gulp (1080p)
+http://5.180.164.197:8080/RAIGULP/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.it" group-title="🇮🇹 Italy",Nick Jr.
+https://streamer-jv9.pages.dev/italy/nickjr.m3u
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
