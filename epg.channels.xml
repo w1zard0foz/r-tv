@@ -28,8 +28,10 @@
 <channel site="canalplus.com" site_id="#324" lang="fr" xmltv_id="EuronewsFrench.fr">EURONEWS</channel>
 <channel site="canalplus.com" site_id="#101" lang="fr" xmltv_id="Eurosport1.fr">EUROSPORT 1</channel>
 <channel site="canalplus.com" site_id="#436" lang="fr" xmltv_id="Eurosport2.fr">EUROSPORT 2</channel>
+<channel site="canalplus.com" site_id="#26" lang="fr" xmltv_id="France2.fr">FRANCE 2</channel>
 <channel site="canalplus.com" site_id="#926" lang="fr" xmltv_id="France3.fr">F3 ALPES</channel>
 <channel site="canalplus.com" site_id="#544" lang="fr" xmltv_id="France4.fr">FRANCE 4</channel>
+<channel site="canalplus.com" site_id="#545" lang="fr" xmltv_id="France5.fr">FRANCE 5</channel>
 <channel site="canalplus.com" site_id="#378" lang="fr" xmltv_id="GolfPlus.fr">GOLF+</channel>
 <channel site="canalplus.com" site_id="#553" lang="fr" xmltv_id="LCI.fr">LCI</channel>
 <channel site="canalplus.com" site_id="#554" lang="fr" xmltv_id="LCP.fr">LCP</channel>
@@ -40,6 +42,9 @@
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
 <channel site="canalplus.com" site_id="#595" lang="fr" xmltv_id="RMCDecouverte.fr">RMC DECOUVERTE</channel>
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
+<channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr">TF1</channel>
+<channel site="canalplus.com" site_id="#526" lang="fr" xmltv_id="TF1SeriesFilms.fr">TF1 SERIES FILMS</channel>
+<channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr">TFX</channel>
 <channel site="canalplus.com" site_id="#584" lang="fr" xmltv_id="TMC.fr">TMC</channel>
 <channel site="canalplus.com" site_id="#784" lang="fr" xmltv_id="TraceLatina.fr">TRACE LATINA</channel>
 <channel site="canalplus.com" site_id="#585" lang="fr" xmltv_id="TraceUrban.fr">TRACE URBAN</channel>
@@ -1233,6 +1238,7 @@
 <channel site="tv.blue.ch" site_id="2096" lang="fr" xmltv_id="RhoneTV.ch">Rhône TV</channel>
 <channel site="tv.blue.ch" site_id="2110" lang="de" xmltv_id="Parlamentsfernsehen1.de">Deutscher Bundestag</channel>
 <channel site="tv.blue.ch" site_id="2113" lang="it" xmltv_id="Rete55.it">Rete 55</channel>
+<channel site="tv.blue.ch" site_id="2182" lang="fr" xmltv_id="NOVO19.fr">Novo 19</channel>
 <channel site="tv.cctv.com" site_id="guangdong" lang="zh" xmltv_id="GuangdongSatelliteTV.cn">广东卫视</channel>
 <channel site="tv.magenta.at" site_id="206966312068" lang="de" xmltv_id="Okto.at">Okto HD</channel>
 <channel site="tv.magenta.at" site_id="206969384238" lang="de" xmltv_id="Nickelodeon.de">Nickelodeon</channel>
@@ -1289,8 +1295,6 @@
 <channel site="tvguide.com" site_id="9233013815" lang="en" xmltv_id="TheWeatherChannel.us">The Weather</channel>
 <channel site="tvguide.com" site_id="9233015768" lang="en" xmltv_id="AmericanHeroesChannel.us">American Heroes</channel>
 <channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="Boomerang.us">Boomerang</channel>
-<channel site="tvguide.myjcom.jp" site_id="2_1056_32740" lang="ja" xmltv_id="JOCXDTV.jp">フジテレビ</channel>
-<channel site="tvguide.myjcom.jp" site_id="2_1064_32741" lang="ja" xmltv_id="JOEXDTV.jp">テレビ朝日</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_104_65406" lang="ja" xmltv_id="TV5MondePacific.fr">ＴＶ５ＭＯＮＤＥ</channel>
 <channel site="tvguide.myjcom.jp" site_id="120_192_65406" lang="ja" xmltv_id="GSTV.jp">ジュエリー☆GSTV</channel>
 <channel site="tvhebdo.com" site_id="bnnb/BNNB" lang="fr" xmltv_id="BNNBloomberg.ca">BNN Bloomberg</channel>
