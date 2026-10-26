@@ -17,6 +17,7 @@
 <channel site="cableplus.com.uy" site_id="880" lang="es" xmltv_id="Tooncast.us">TOONCAST</channel>
 <channel site="cableplus.com.uy" site_id="3271" lang="es" xmltv_id="ZooMoo.sg">ZOOMOO</channel>
 <channel site="canalplus.com" site_id="#654" lang="en" xmltv_id="NHKWorldJapan.jp">NHK WORLD-JAPAN</channel>
+<channel site="canalplus.com" site_id="#521" lang="fr" xmltv_id="6ter.fr">6TER</channel>
 <channel site="canalplus.com" site_id="#154" lang="fr" xmltv_id="arte.fr">ARTE</channel>
 <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr">BFM BUSINESS</channel>
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
@@ -301,6 +302,7 @@
 <channel site="guida.tv" site_id="55717668/7-gold" lang="it" xmltv_id="7Gold.it">7 Gold</channel>
 <channel site="guida.tv" site_id="65767765/alma" lang="it" xmltv_id="AlmaTV.it">Alma</channel>
 <channel site="guida.tv" site_id="66797378/boing" lang="it" xmltv_id="Boing.it">Boing</channel>
+<channel site="guida.tv" site_id="67658284/cartoonito" lang="it" xmltv_id="Cartoonito.it">Cartoonito</channel>
 <channel site="guida.tv" site_id="67735152/cine34" lang="it" xmltv_id="Cine34.it">Cine34</channel>
 <channel site="guida.tv" site_id="67786667/class-cnbc" lang="it" xmltv_id="ClassCNBC.it">Class CNBC</channel>
 <channel site="guida.tv" site_id="68736773/discovery-channel-i" lang="it" xmltv_id="DiscoveryChannel.it">Discovery Channel I</channel>
@@ -1263,6 +1265,7 @@
 <channel site="tvguide.com" site_id="9200004290" lang="en" xmltv_id="DiscoveryFamily.us">Discovery Family</channel>
 <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us">IFC</channel>
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
+<channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
 <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us">A&amp;E</channel>
 <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us">Oxygen</channel>
 <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us">TeenNick</channel>
