@@ -373,7 +373,6 @@
 <channel site="i.mjh.nz" site_id="Foxtel/epg#NAT" lang="en" xmltv_id="NatureTime.ca">Nature Time</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#RTV" lang="en" xmltv_id="Racingcom.au">RACING.COM</channel>
 <channel site="i.mjh.nz" site_id="Foxtel/epg#SRA" lang="en" xmltv_id="SkyRacing1.au">Sky Racing 1</channel>
-<channel site="i.mjh.nz" site_id="MeTV/epg#metv" lang="en" xmltv_id="MeTV.us">MeTV</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6827b9579beea89c38b6df55" lang="en" xmltv_id="50CentAction.us">50 Cent Action</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" lang="en" xmltv_id="ACCDigitalNetwork.us">ACCDN</channel>
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" lang="en" xmltv_id="AccuWeatherNOW.us">AccuWeather NOW</channel>
@@ -461,6 +460,7 @@
 <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514" lang="en" xmltv_id="HallmarkMoviesMore.us">Hallmark Movies &amp;amp; More</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fd115bdb7ef8d002dcf1820" lang="en" xmltv_id="HardKnocks.ca">Hard Knocks</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-646c0794fb58444e4e1e2629" lang="en" xmltv_id="HauntTV.ca">HauntTV</channel>
+<channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-631a212e82b744e0309aa56e" lang="en" xmltv_id="HBCUGOSports.us">HBCUGO SPORTS</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-679425abf343fe9fe16c47a7" lang="en" xmltv_id="Heartland.us">Heartland</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-65829d90a90606db3c841b19" lang="en" xmltv_id="HellsKitchen.us">Hell&apos;s Kitchen</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-64f1177d79fd56092f9061bf" lang="en" xmltv_id="HighwaytoHeaven.us">Highway to Heaven</channel>
@@ -1370,6 +1370,7 @@
 <channel site="tvtv.us" site_id="67676" lang="en" xmltv_id="SBNTV.us">SonLife Broadcasting Network</channel>
 <channel site="tvtv.us" site_id="68605" lang="en" xmltv_id="Willow.us">Willow</channel>
 <channel site="tvtv.us" site_id="68639" lang="en" xmltv_id="StingrayTodaysLatinPop.ca">Stingray Exitos del Momento</channel>
+<channel site="tvtv.us" site_id="69091" lang="en" xmltv_id="SonyMovies.us">Sony Movies</channel>
 <channel site="tvtv.us" site_id="69639" lang="en" xmltv_id="TheCountryNetwork.us">The Country Network</channel>
 <channel site="tvtv.us" site_id="70113" lang="en" xmltv_id="PixLTV.us">PixL TV</channel>
 <channel site="tvtv.us" site_id="71297" lang="en" xmltv_id="PetsTV.us">Pets.TV</channel>

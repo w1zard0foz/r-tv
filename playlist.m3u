@@ -3709,6 +3709,8 @@ http://102.129.186.182:81/pescacaccia/index.m3u8
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="TV8.it" group-title="🇮🇹 Italy",TV8 (720p)
 http://102.129.186.182:81/tv8/index.m3u8
+#EXTINF:-1 tvg-id="RadioTVSerieA.it" group-title="🇮🇹 Italy",Radio TV Serie A
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -6569,8 +6571,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us" group-title="🇺🇸 United States",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us" group-title="🇺🇸 United States",MeTV (720p)
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-id="MinisterioLaVozDeUnRemanenteTV.us" group-title="🇺🇸 United States",Ministerio La Voz De Un Remanente TV
 https://vs20.live.opencaster.com/remanente_5925b089/index.m3u8
 #EXTINF:-1 tvg-id="MissionTV.us" group-title="🇺🇸 United States",Mission TV (1080p) [Not 24/7]
@@ -7439,8 +7439,6 @@ http://200.115.120.1:8000/play/ca128/index.m3u8
 https://rarelivetv8080.neocities.org/USA_KARTOON_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us" group-title="🇺🇸 United States",24Kitchen Bulgary (1080p)
 http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
-#EXTINF:-1 tvg-id="SMetroTV.us" group-title="🇺🇸 United States",S Metro TV (360p)
-https://vodcdn.bamboo-cloud.com/livehls/6a9f8b4606304461c50dfe93/master.m3u8
 #EXTINF:-1 tvg-id="WeTV.us" group-title="🇺🇸 United States",We TV (1080p)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us" group-title="🇺🇸 United States",DSports (720p)
@@ -8337,6 +8335,8 @@ https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GamePlus.ca" group-title="🇺🇸 United States",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" group-title="🇺🇸 United States",GB News (720p)
+https://a-cdn.klowdtv.com/live3/gbnews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" group-title="🇺🇸 United States",GB News (720p) [Geo-blocked]
 https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" group-title="🇺🇸 United States",GoTraveler (720p) [Geo-blocked]
@@ -8443,6 +8443,8 @@ https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/
 https://a-cdn.klowdtv.com/live2/rav_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" group-title="🇺🇸 United States",WeatherNation TV (720p)
 https://a-cdn.klowdtv.com/live3/weathernation_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" group-title="🇺🇸 United States",The Weather Channel (720p)
+https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGrioTV.us" group-title="🇺🇸 United States",TheGrio (720p)
 https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CarsTV.us" group-title="🇺🇸 United States",Cars.TV (720p)
@@ -8451,7 +8453,7 @@ https://a-cdn.klowdtv.com/live2/carstv_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ESTV.us" group-title="🇺🇸 United States",ES.TV (720p)
 https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JusticeCentralTV.us" group-title="🇺🇸 United States",Justice Central (720p)
+#EXTINF:-1 tvg-id="JusticeCentralTV.us" group-title="🇺🇸 United States",Justice Central.TV (720p)
 https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MyDestinationTV.us" group-title="🇺🇸 United States",MyDestination.TV (720p)
 https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
@@ -8461,6 +8463,18 @@ https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="INSP.us" group-title="🇺🇸 United States",INSP (720p)
 https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",Western Bound (720p)
+https://a-cdn.klowdtv.com/live3/westernbound_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",On Patrol: Live (720p)
+https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",Reelz Famous & Infamous (720p)
+https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.us" group-title="🇺🇸 United States",Sony Movies (720p)
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",Cowboy+ Sports (720p)
+https://a-cdn.klowdtv.com/live3/cowboy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBCUGOSports.us" group-title="🇺🇸 United States",HBCU-GO Sports (720p)
+https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us" group-title="🇺🇸 United States",AABC TV (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="ABC.us" group-title="🇺🇸 United States",ABC 5
@@ -11359,6 +11373,8 @@ https://h5cul1yar48um3t.wcetv.com/hls/titv.m3u8
 https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" group-title="🇺🇸 United States",Yunnan Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" group-title="🇺🇸 United States",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",WFMZ Dorney Park Camera
 https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",WFMZ PennST camera
