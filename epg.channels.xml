@@ -75,6 +75,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90463" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_storia%2F20210517_173924%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiStoria.it">RAI STORIA</channel>
 <channel site="chaines-tv.orange.fr" site_id="1353" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_classica%2F20180419_150729%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="StingrayClassica.ca">STINGRAY CLASSICA</channel>
 <channel site="chaines-tv.orange.fr" site_id="4139" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_t18%2F20250515_092552%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="T18.fr">T18</channel>
+<channel site="chaines-tv.orange.fr" site_id="90353" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tebeo%2F20250806_161846%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TebeoTV.fr">TEBEO</channel>
 <channel site="chaines-tv.orange.fr" site_id="90397" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tn_tv%2F20180108_141727%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TNTV.pf">TAHITI NUI TELEVISION</channel>
 <channel site="chaines-tv.orange.fr" site_id="1179" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_africa%2F20230831_150807%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceAfrica.fr">TRACE AFRICA</channel>
 <channel site="chaines-tv.orange.fr" site_id="753" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_tropical%2F20230831_150807%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceCaribbean.fr">TRACE CARIBBEAN</channel>
@@ -255,7 +256,6 @@
 <channel site="freeview.co.uk" site_id="64377#30465" lang="en" xmltv_id="TVWarehouse.uk">TV Warehouse+1</channel>
 <channel site="freeview.co.uk" site_id="64257#12298" lang="en" xmltv_id="UW.uk">U&amp;W</channel>
 <channel site="freeview.co.uk" site_id="64257#14464" lang="en" xmltv_id="WildEarth.za">WildEarth</channel>
-<channel site="gatotv.com" site_id="amc_espana" lang="es" xmltv_id="AMCEurope.uk">Canal AMC (España)</channel>
 <channel site="gatotv.com" site_id="axn_andes" lang="es" xmltv_id="AXNLatinAmerica.us">Canal AXN (Andes)</channel>
 <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us">Canal BabyFirst TV</channel>
 <channel site="gatotv.com" site_id="cartoon_network_mexico" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us">Canal Cartoon Network (México)</channel>
@@ -1039,7 +1039,6 @@
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
 <channel site="melita.com" site_id="dac0cc07-c3f1-4753-a1b6-fd9465ba2e20" lang="en" xmltv_id="CartoonitoCEE.uk">Boomerang</channel>
-<channel site="meo.pt" site_id="24KTHD" lang="pt" xmltv_id="24Kitchen.us">24Kitchen</channel>
 <channel site="meo.pt" site_id="DAZN3" lang="pt" xmltv_id="DAZN3.uk">DAZN 3</channel>
 <channel site="meo.pt" site_id="DAZN4" lang="pt" xmltv_id="DAZN4.uk">DAZN 4</channel>
 <channel site="meo.pt" site_id="DAZN5" lang="pt" xmltv_id="DAZN5.uk">DAZN 5</channel>
@@ -1061,10 +1060,14 @@
 <channel site="mujtvprogram.cz" site_id="151" lang="de" xmltv_id="DMAX.de">DMAX</channel>
 <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk">MUTV</channel>
 <channel site="mytelly.co.uk" site_id="678/utsav-plus" lang="en" xmltv_id="UtsavPlus.uk">Utsav Plus</channel>
+<channel site="mytelly.co.uk" site_id="1492/tnt-sports-4" lang="en" xmltv_id="TNTSports4.uk">TNT Sports 4</channel>
 <channel site="mytelly.co.uk" site_id="1511/cnbc-uk" lang="en" xmltv_id="CNBCUK.uk">CNBC UK</channel>
 <channel site="mytelly.co.uk" site_id="1803/utsav-bharat" lang="en" xmltv_id="UtsavBharat.uk">Utsav Bharat</channel>
+<channel site="mytelly.co.uk" site_id="1804/tnt-sports-1" lang="en" xmltv_id="TNTSports1.uk">TNT Sports 1</channel>
+<channel site="mytelly.co.uk" site_id="1806/tnt-sports-2" lang="en" xmltv_id="TNTSports2.uk">TNT Sports 2</channel>
 <channel site="mytelly.co.uk" site_id="1915/now-80s" lang="en" xmltv_id="Now80s.uk">NOW 80s</channel>
 <channel site="mytelly.co.uk" site_id="1917/now-70s" lang="en" xmltv_id="Now70s.uk">NOW 70s</channel>
+<channel site="mytelly.co.uk" site_id="1952/tnt-sports-3" lang="en" xmltv_id="TNTSports3.uk">TNT Sports 3</channel>
 <channel site="mytelly.co.uk" site_id="2256/qvc-beauty" lang="en" xmltv_id="QVCBeauty.uk">QVC Beauty</channel>
 <channel site="mytelly.co.uk" site_id="2257/qvc-extra" lang="en" xmltv_id="QVCExtra.uk">QVC Extra</channel>
 <channel site="mytelly.co.uk" site_id="2259/qvc-style" lang="en" xmltv_id="QVCStyle.uk">QVC Style</channel>
