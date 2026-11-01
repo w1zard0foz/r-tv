@@ -1625,6 +1625,8 @@ https://rtmp.radiobozsike.com/hls/stream1.m3u8
 http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 #EXTINF:-1 tvg-id="RiCtoday.de" group-title="🇩🇪 Germany",RiC.today
 http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" group-title="🇩🇪 Germany",Nick/Comedy Central +1
+http://90.183.52.46:4000/play/a046/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -4093,6 +4095,22 @@ https://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 tvg-id="HGTV.nz" group-title="🇳🇿 New Zealand",HGTV (1080p)
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
+#EXTINF:-1 tvg-id="SkySport1.nz" group-title="🇳🇿 New Zealand",Sky Sport 1
+http://37.49.224.5/stream/44/index.m3u8
+#EXTINF:-1 tvg-id="SkySport2.nz" group-title="🇳🇿 New Zealand",Sky Sport 2
+http://37.49.224.5/stream/45/index.m3u8
+#EXTINF:-1 tvg-id="SkySport3.nz" group-title="🇳🇿 New Zealand",Sky Sport 3
+http://37.49.224.5/stream/46/index.m3u8
+#EXTINF:-1 tvg-id="SkySport4.nz" group-title="🇳🇿 New Zealand",Sky Sport 4
+http://37.49.224.5/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="SkySport7.nz" group-title="🇳🇿 New Zealand",Sky Sport 7
+http://37.49.224.5/stream/50/index.m3u8
+#EXTINF:-1 tvg-id="SkySport8.nz" group-title="🇳🇿 New Zealand",Sky Sport 8
+http://37.49.224.5/stream/70/index.m3u8
+#EXTINF:-1 tvg-id="SkySport9.nz" group-title="🇳🇿 New Zealand",Sky Sport 9
+http://37.49.224.5/stream/52/index.m3u8
+#EXTINF:-1 tvg-id="SkySportSelect.nz" group-title="🇳🇿 New Zealand",Sky Sport Select
+http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 group-title="🇳🇿 New Zealand",8 Out of 10 Cats (1080p) [Geo-blocked]
 https://amg00627-amg00627c37-samsung-nz-4295.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🇳🇿 New Zealand",Action Hollywood Movies (1080p)
@@ -4635,6 +4653,18 @@ http://37.49.224.5:80/stream/2/index.m3u8
 http://37.49.224.5:80/stream/3/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports4.uk" group-title="🇬🇧 United Kingdom",TNT Sports 4
 http://37.49.224.5:80/stream/4/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" group-title="🇬🇧 United Kingdom",Discovery Science Europe UK
+http://37.49.224.5/stream/9/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" group-title="🇬🇧 United Kingdom",Animal Planet
+http://37.49.224.5/stream/10/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" group-title="🇬🇧 United Kingdom",Discovery Channel
+http://37.49.224.5/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" group-title="🇬🇧 United Kingdom",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" group-title="🇬🇧 United Kingdom",Discovery Turbo
+http://37.49.224.5/stream/13/index.m3u8
+#EXTINF:-1 tvg-id="Really.uk" group-title="🇬🇧 United Kingdom",Really
+http://37.49.224.5/stream/36/index.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7879,6 +7909,28 @@ https://televisioncaribe.com/index.m3u8
 http://209.61.12.77:9000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="Telecyan.us" group-title="🇺🇸 United States",Telecyan (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
+#EXTINF:-1 tvg-id="MiMusicaHits.us" group-title="🇺🇸 United States",Mi Musica Hits (720p)
+http://38.188.186.47:4000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" group-title="🇺🇸 United States",AXN Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.us" group-title="🇺🇸 United States",Cinecanal South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us" group-title="🇺🇸 United States",Discovery Channel Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us" group-title="🇺🇸 United States",History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us" group-title="🇺🇸 United States",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" group-title="🇺🇸 United States",Star Channel Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us" group-title="🇺🇸 United States",Studio Universal Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" group-title="🇺🇸 United States",Telemundo Internacional
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us" group-title="🇺🇸 United States",Warner Channel South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us" group-title="🇺🇸 United States",HGTV Latin America (720p)
+https://streaming.onnethn.com/HGTV/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
