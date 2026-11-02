@@ -356,6 +356,7 @@
 <channel site="horizon.tv" site_id="10164" lang="de" xmltv_id="WELT.de">WELT</channel>
 <channel site="horizon.tv" site_id="10166" lang="de" xmltv_id="RTL.de">RTL DE</channel>
 <channel site="horizon.tv" site_id="10167" lang="de" xmltv_id="RTLZwei.de">RTL Zwei</channel>
+<channel site="horizon.tv" site_id="10168" lang="de" xmltv_id="RTLSuper.de">Super RTL</channel>
 <channel site="horizon.tv" site_id="10170" lang="de" xmltv_id="VOX.de">VOX</channel>
 <channel site="horizon.tv" site_id="10171" lang="de" xmltv_id="Nitro.de">Nitro</channel>
 <channel site="i.mjh.nz" site_id="au/Adelaide/epg#mjh-gem-sa" lang="en" xmltv_id="9Gem.au">9Gem</channel>

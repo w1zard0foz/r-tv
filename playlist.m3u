@@ -1627,6 +1627,10 @@ http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de" group-title="🇩🇪 Germany",Nick/Comedy Central +1
 http://90.183.52.46:4000/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="RTLSuper.de" group-title="🇩🇪 Germany",RTL Super HD (576p)
+https://s6.hopslan.com/superX/index.m3u8
+#EXTINF:-1 tvg-id="RTLZwei.de" group-title="🇩🇪 Germany",RTL Zwei HD (576p)
+https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -2575,8 +2579,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9852
 https://freem3u.xyz/api/live/play.m3u8?vid=96
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=10007
-#EXTINF:-1 tvg-id="arte.fr" group-title="🇫🇷 France",arte (720p)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" group-title="🇫🇷 France",TF1 Series Films
 http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" group-title="🇫🇷 France",TF1
@@ -2605,6 +2607,12 @@ http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-id="TebeoTV.fr" group-title="🇫🇷 France",Tebeo TV (576i)
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🇫🇷 France",TV5Monde Asia
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="🇫🇷 France",Eurosport 1 Germany
+http://90.183.52.46:4000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="arte.fr" group-title="🇫🇷 France",arte (1080p)
+http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -4665,6 +4673,10 @@ http://37.49.224.5/stream/12/index.m3u8
 http://37.49.224.5/stream/13/index.m3u8
 #EXTINF:-1 tvg-id="Really.uk" group-title="🇬🇧 United Kingdom",Really
 http://37.49.224.5/stream/36/index.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk" group-title="🇬🇧 United Kingdom",Cartoonito CEE
+http://193.33.39.108:9019/play/a00t
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" group-title="🇬🇧 United Kingdom",Cartoon Network CEE
+http://193.33.39.108:9007/play/a00l
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7931,6 +7943,14 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us" group-title="🇺🇸 United States",HGTV Latin America (720p)
 https://streaming.onnethn.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="CineSony.us" group-title="🇺🇸 United States",Cine Sony (720p)
+http://186.148.196.82:8001/play/a0a4
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast SouthAmerica (480p)
+http://190.234.82.52:8000/play/a0mo/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" group-title="🇺🇸 United States",Nickelodeon Latin America (1080p)
+http://190.234.82.52:8000/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us" group-title="🇺🇸 United States",DSports
+http://45.186.254.75:8000/play/a0en/index.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
