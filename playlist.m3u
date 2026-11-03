@@ -529,6 +529,10 @@ https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594
 #EXTINF:-1 tvg-id="TSN4.ca" group-title="🇨🇦 Canada",TSN4 (720p)
 http://109.104.153.220:80/TSN-4/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="🇨🇦 Canada",Love Nature Czechia
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="🇨🇦 Canada",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="48Hours.us" group-title="🇨🇦 Canada",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Aftershock
@@ -1299,16 +1303,12 @@ https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 #EXTINF:-1 tvg-id="MoreThanSportsTV.de" group-title="🇩🇪 Germany",More Than Sports TV (1080p)
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de" group-title="🇩🇪 Germany",Motorvision (576p)
-http://hls127.freeott.top:8080/Motorvision/video.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de" group-title="🇩🇪 Germany",Motorvision TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="MunchenTV.de" group-title="🇩🇪 Germany",München TV (1080p) [Not 24/7]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de" group-title="🇩🇪 Germany",Nachrichten 360 (1080p) [Geo-blocked]
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="NashKinomir.de" group-title="🇩🇪 Germany",Nash Kinomir (576p)
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" group-title="🇩🇪 Germany",NDR Fernsehen International (720p)
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" group-title="🇩🇪 Germany",NDR Hamburg (720p)
@@ -2565,10 +2565,6 @@ http://88.212.7.14/live/esp2_hun/index.m3u8
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="🇫🇷 France",Eurosport 1 Russia (1080p)
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Russia (1080p)
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr" group-title="🇫🇷 France",RMC Life (1080p)
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" group-title="🇫🇷 France",RMC Decouverte (1080p)
@@ -2613,6 +2609,14 @@ http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr" group-title="🇫🇷 France",arte (1080p)
 http://5.180.164.197:8080/ARTEFR/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="🇫🇷 France",Eurosport 1 Czechia
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Czechia
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="🇫🇷 France",Eurosport 1 Russia (1080p)
+https://s7.iptv-24.net/1439/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Russia (1080p)
+https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -3725,6 +3729,10 @@ http://102.129.186.182:81/cacciapesca/index.m3u8
 http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 tvg-id="RadioTVSerieA.it" group-title="🇮🇹 Italy",Radio TV Serie A
 https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1 tvg-id="ClassTVModa.it" group-title="🇮🇹 Italy",Class TV Moda (1080p)
+https://www.dailymotion.com/cdn/live/video/x98rt88.m3u8?sec=3FZxZQeceI08NWbQwAxAKdpdnH8gYPtFSg2hr2m8v11-0gQsz2FldP--C6DTACA-
+#EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹 Italy",Rai 2 (720p)
+http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -7951,6 +7959,12 @@ http://190.234.82.52:8000/play/a0mo/index.m3u8
 http://190.234.82.52:8000/play/a0ke/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us" group-title="🇺🇸 United States",DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel (720p)
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="TNTNovelas.us" group-title="🇺🇸 United States",TNT Novelas ColombiaHD (1080p)
+http://181.78.79.131:8000/play/a0na
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (1080p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)

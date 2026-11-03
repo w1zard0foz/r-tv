@@ -69,6 +69,7 @@
 <channel site="chaines-tv.orange.fr" site_id="1072" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_museum_channel%2F20210125_104742%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="MuseumTVFrench.fr">MUSEUM TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="829" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_myzentv%2F20181115_170016%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="MyZenTV.fr">MY ZEN TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="156" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_uno%2F20241112_173708%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Rai1.it">RAI 1</channel>
+<channel site="chaines-tv.orange.fr" site_id="154" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_due%2F20241112_174635%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Rai2.it">RAI 2</channel>
 <channel site="chaines-tv.orange.fr" site_id="155" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_tre%2F20241112_173917%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Rai3.it">RAI 3</channel>
 <channel site="chaines-tv.orange.fr" site_id="791" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_italia%2F20240117_185014%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiItalia.it">RAI ITALIA</channel>
 <channel site="chaines-tv.orange.fr" site_id="90464" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_scuola%2F20210517_173924%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiScuola.it">RAI SCUOLA</channel>
@@ -212,7 +213,6 @@
 <channel site="epg.iptvx.one" site_id="milan-it" lang="ru" xmltv_id="MilanTV.it">Milan TV</channel>
 <channel site="epg.iptvx.one" site_id="mtv-de" lang="ru" xmltv_id="MTV.de">MTV DE</channel>
 <channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
-<channel site="epg.iptvx.one" site_id="nash-kinomir" lang="ru" xmltv_id="NashKinomir.de">Наш КиноМир</channel>
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
 <channel site="epg.iptvx.one" site_id="nfl-network-us" lang="ru" xmltv_id="NFLNetwork.us">NFL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nhl-network-us" lang="ru" xmltv_id="NHLNetwork.us">NHL Network [US]</channel>
@@ -1052,6 +1052,7 @@
 <channel site="maxstream.tv" site_id="0_enfa8a2h" lang="id" xmltv_id="DaVinciAsia.de">Da Vinci Learning</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
+<channel site="melita.com" site_id="80429c96-4a21-43a5-8380-ce83e3c42153" lang="it" xmltv_id="ClassTVModa.it">TV Moda</channel>
 <channel site="melita.com" site_id="dac0cc07-c3f1-4753-a1b6-fd9465ba2e20" lang="en" xmltv_id="CartoonitoCEE.uk">Boomerang</channel>
 <channel site="meo.pt" site_id="DAZN3" lang="pt" xmltv_id="DAZN3.uk">DAZN 3</channel>
 <channel site="meo.pt" site_id="DAZN4" lang="pt" xmltv_id="DAZN4.uk">DAZN 4</channel>
@@ -1308,6 +1309,7 @@
 <channel site="tvguide.com" site_id="9200014754" lang="en" xmltv_id="MTV.us">MTV</channel>
 <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="TCM.us">Turner Classic Movies</channel>
 <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="WeTV.us">WE tv</channel>
+<channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
