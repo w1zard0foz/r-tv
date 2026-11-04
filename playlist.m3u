@@ -2617,6 +2617,8 @@ http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Russia (1080p)
 https://s7.iptv-24.net/1452/playlist.m3u8
+#EXTINF:-1 tvg-id="MCMTop.fr" group-title="🇫🇷 France",MCM Top
+http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -7617,8 +7619,6 @@ http://212.5.144.156/tnt/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" group-title="🇺🇸 United States",Destination America (720p)
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us" group-title="🇺🇸 United States",TCM Latin America South (1080p)
 http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" group-title="🇺🇸 United States",Cinemax Latin America HD (1080p)
@@ -7851,8 +7851,6 @@ http://tvsen7.aynascope.net/hgtv/index.m3u8
 https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" group-title="🇺🇸 United States",Cartoon Network Latin America Brazil (720p)
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us" group-title="🇺🇸 United States",Nickelodeon Latin America (1080p)
-https://zapster.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us" group-title="🇺🇸 United States",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVLatinAmerica.us" group-title="🇺🇸 United States",MTV Latin America (1080p)
@@ -7965,6 +7963,10 @@ http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 http://181.78.79.131:8000/play/a0na
 #EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (1080p)
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us" group-title="🇺🇸 United States",Tooncast (480p)
+http://181.224.255.210:8001/play/a0ou/index.m3u8?hls
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" group-title="🇺🇸 United States",History 2 Latin America (1080p)
+http://181.225.190.242:8000/play/a023
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -8231,8 +8233,6 @@ https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/pl
 https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheArchive.us" group-title="🇺🇸 United States",The Archive (1080p)
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TheFilmDetective.us" group-title="🇺🇸 United States",The Film Detective (720p)
-https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" group-title="🇺🇸 United States",Young Hollywood (1080p) [Geo-blocked]
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="🇺🇸 United States",CGTN (1080p)
@@ -8255,8 +8255,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-d
 https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" group-title="🇺🇸 United States",EstrellaTV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="🇺🇸 United States",Fight Network (1080p)
-https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us" group-title="🇺🇸 United States",Newsmax 2 (1080p)
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" group-title="🇺🇸 United States",Nolly Africa HD (1080p) [Geo-blocked]
@@ -11289,8 +11287,6 @@ https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playl
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",TV One Crime & Justice (1080p)
 https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",UFC (1080p)
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Untold Stories of the E.R. (720p)
 https://aegis-cloudfront-1.tubi.video/a0b550d8-29c6-49f5-a4f7-939d9eeec962/master.m3u8
 #EXTINF:-1 tvg-id="VICETV.us" group-title="🇺🇸 United States",VICE (720p) [Geo-blocked]
