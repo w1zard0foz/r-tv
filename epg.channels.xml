@@ -13,6 +13,7 @@
 <channel site="bein.com" site_id="entertainment#28" lang="ar" xmltv_id="EuronewsEnglish.fr">28</channel>
 <channel site="beinsports.com" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D" lang="en" xmltv_id="beINSPORTSXTRA.us">beIN SPORTS XTRA</channel>
 <channel site="beinsports.com" site_id="5223E3D7-FB4E-4155-885A-9165996B22FA" lang="en" xmltv_id="beINSPORTSXTRAenEspanol.us">beIN SPORTS XTRA ñ</channel>
+<channel site="beinsports.com" site_id="C244C48D-3B54-406A-94C9-D63B16318267" lang="en" xmltv_id="beINSportsUSA.us">beIN SPORTS</channel>
 <channel site="cableplus.com.uy" site_id="62" lang="es" xmltv_id="CNNenEspanol.us">CNN EN ESPAÑOL</channel>
 <channel site="cableplus.com.uy" site_id="880" lang="es" xmltv_id="Tooncast.us">TOONCAST</channel>
 <channel site="cableplus.com.uy" site_id="3271" lang="es" xmltv_id="ZooMoo.sg">ZOOMOO</channel>
@@ -634,16 +635,12 @@
 <channel site="i.mjh.nz" site_id="Plex/fr#6430aa45fc3be5947780904e-692228985cbe620c1f9b6bb9" lang="fr" xmltv_id="SonyOneHitsComedie.fr">Sony One | Hits Comédie</channel>
 <channel site="i.mjh.nz" site_id="Plex/fr#6430aa45fc3be5947780904e-671ff50c922f0674c9398afb" lang="fr" xmltv_id="VoyagesSaveurs.es">Voyages &amp;amp; Saveurs</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/dk#61c1979dfa307000070bbe4d" lang="da" xmltv_id="PlutoTVStarTrek.se">Pluto TV Star Trek</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#5d767b4889bca2ce7b73ef2e" lang="de" xmltv_id="PlutoTVScience.de">Pluto TV Science</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#62f4f4b88157cf00075c22db" lang="de" xmltv_id="PlutoTVHorror.de">Pluto TV Horror</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#64afe50c5dc16600087f3227" lang="de" xmltv_id="DAZNHeldinnenxPlutoTV.de">DAZN Heldinnen x Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#64b67f0424ade50008a3be17" lang="de" xmltv_id="DAZNDartsxPlutoTV.de">DAZN Darts x Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#64be64445dc166000899ce75" lang="de" xmltv_id="PlutoTVPolizeiserien.de">Pluto TV Polizeiserien</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#67d984408d8dc3d7754dccf2" lang="de" xmltv_id="PlutoTVNordicCrime.de">Pluto TV Nordic Crime</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#67ebc1b6432a0e406f141341" lang="de" xmltv_id="PlutoTVReality.de">Pluto TV Reality</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#67f68bd2135aeda9ddf0ef54" lang="de" xmltv_id="PlutoTVAdultAnimation.de">Pluto TV Adult Animation</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#67ff7d9c7fc25e0e72451bc9" lang="de" xmltv_id="PlutoTVHorrorSerien.de">Pluto TV Horror-Serien</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#68ac5543a1ac0c90f2c8943e" lang="de" xmltv_id="PlutoTVSnooker900.de">Pluto TV Snooker 900</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#68ada3edf84960586ad31c7d" lang="de" xmltv_id="PlutoTVReportagen.de">Pluto TV Reportagen</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#68ada46d5190a45dc9c45af1" lang="de" xmltv_id="PlutoTVFerneGalaxien.de">Pluto TV Ferne Galaxien</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#68ada3395190a45dc9c445cf" lang="de" xmltv_id="PlutoTVHistorischeSerien.de">Pluto TV Historische Serien</channel>
@@ -657,7 +654,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/de#66337de656fc840008ff7a65" lang="de" xmltv_id="PlutoTVKultComedies.de">Pluto TV Kult Comedies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#69492467ae33e24d916e56cf" lang="de" xmltv_id="PlutoTVStarTrekAnimation.de">Pluto TV Star Trek: Animation</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#682453215c646751955e1204" lang="de" xmltv_id="PlutoTVWesternSerien.de">Pluto TV Western Serien</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#65004605110545000842035d" lang="de" xmltv_id="PlutoTVAction.de">Pluto TV Action</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#60afb576053df900076fa2f0" lang="de" xmltv_id="BeverlyHills90210.us">Beverly Hills 90210</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5d4947590ba40f75dc29c26b" lang="de" xmltv_id="CCPlutoTV.de">CC Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#60afbad343e3840007164348" lang="de" xmltv_id="ChaosCity.us">Chaos City</channel>
@@ -667,27 +663,21 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5ce40f42ba7f7f5ea9518fe1" lang="de" xmltv_id="IcePilots.us">Ice Pilots</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#615c1e5ce3039400070a0547" lang="de" xmltv_id="Moviedome.us">MOVIEDOME</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5caf330ea5068259a32320fd" lang="de" xmltv_id="MTVDating.us">MTV Dating</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#5caf325764025859afdd6c4d" lang="de" xmltv_id="MTVPlutoTV.de">MTV Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5f9847fd513250000728a9a5" lang="de" xmltv_id="MTVRidiculousness.us">MTV Ridiculousness</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#60080e8a4bf36000076a81b1" lang="de" xmltv_id="N24Doku.de">N24 Doku</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#65d5fc39a25d5e00082895c4" lang="de" xmltv_id="Naruto.us">Naruto</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#64eddc3485efec00085b0369" lang="de" xmltv_id="PerryMason.us">Perry Mason</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5d767ae7b456c8cf265ce922" lang="de" xmltv_id="PlutoTVAnimals.de">Pluto TV Animals</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#608181d420fc8500075f612a" lang="de" xmltv_id="PlutoTVAnime.de">Pluto TV Anime</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5e7b6c60fd20c50007910bf5" lang="de" xmltv_id="PlutoTVCrime.de">Pluto TV Crime</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5ad9b8551b95267e225e59c1" lang="de" xmltv_id="PlutoTVExplore.de">Pluto TV Explore</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5dc280c9aa218c0009724b4b" lang="de" xmltv_id="PlutoTVFood.de">Pluto TV Food</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#5d767b1c126c65d0a307355f" lang="de" xmltv_id="PlutoTVHistory.de">Pluto TV History</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5dde47b63585b500099f74ec" lang="de" xmltv_id="PlutoTVKultfilme.de">Pluto TV Kultfilme</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5c5c3b948002db3c3e0b262e" lang="de" xmltv_id="PlutoTVMovies.de">Pluto TV Movies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#617aad99b68ef100072608cd" lang="de" xmltv_id="PlutoTVMystery.de">Pluto TV Mystery</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5be1c3f9851dd5632e2c91b2" lang="de" xmltv_id="PlutoTVNature.de">Pluto TV Nature</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#5f98487036af340008da1e37" lang="de" xmltv_id="PlutoTVParanormal.de">Pluto TV Paranormal</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#60ed498c4248a400077c0b9d" lang="de" xmltv_id="PlutoTVSciFi.de">Pluto TV Sci-Fi</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5dc190f7bfed110009d934c3" lang="de" xmltv_id="PlutoTVSerie.de">Pluto TV Serie</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5d767ab2b456c8cf265ce921" lang="de" xmltv_id="PlutoTVSitcoms.de">Pluto TV Sitcoms</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#61409f8d6feb30000766b675" lang="de" xmltv_id="PlutoTVSpace.de">Pluto TV Space</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/de#615333098185f00008715a56" lang="de" xmltv_id="PlutoTVTrueCrime.de">Pluto TV True Crime</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5e7cb84a172a0f0007da69e4" lang="de" xmltv_id="RedBullTV.at">Red Bull TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#65b923f90cb1a100088a03ab" lang="de" xmltv_id="TerraMaterWILD.de">Terra Mater WILD</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/de#5d6792bd6be2998ad0ccce30" lang="de" xmltv_id="TotallyTurtles.us">Totally Turtles</channel>
@@ -717,7 +707,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/ca#67922858b83355184c699699" lang="en" xmltv_id="PlutoTVReality.us">Pluto TV Reality</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5dc3fc6b9133f500099c7d98" lang="en" xmltv_id="PlutoTVFamilyMovieClub.de">Pluto TV Family Movie Club</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#65a7b0814a10d800085ff2df" lang="en" xmltv_id="PlutoTVPetrolHeads.de">Pluto TV PetrolHeads</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#66d717d2abec540008ba7ec4" lang="en" xmltv_id="PlutoTV80sAction.de">Pluto TV 80&apos;s Action</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#600acaff5f2d6e000745effb" lang="en" xmltv_id="PlutoTVToughJobs.de">Pluto TV Tough Jobs</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#625e8cb585ef320007806caf" lang="en" xmltv_id="PlutoTVBritainatWar.de">Pluto TV Britain at War</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#692ebafce72f03e07e7df985" lang="en" xmltv_id="PlutoTVAmericanTrueCrime.de">Pluto TV American True Crime</channel>
@@ -738,7 +727,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5ebc8688f3697d00072f7cf8" lang="en" xmltv_id="BellatorMMA.us">Bellator MMA</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#60f760bbdf090700075d7bfe" lang="en" xmltv_id="BestofDrPhil.us">Best of Dr. Phil</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#60f85644a9493e0007a1f035" lang="en" xmltv_id="BETClassicsPlutoTV.us">BET Classics</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#604f8f8622166000071a929f" lang="en" xmltv_id="BETPlutoTV.de">BET Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5ca670f6593a5d78f0e85aed" lang="en" xmltv_id="BETPlutoTV.us">BET Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5f7796e470510900070d4e3d" lang="en" xmltv_id="BeverlyHillbillies.us">Beverly Hillbillies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5d51e2bceca5b4b2c0e06c50" lang="en" xmltv_id="BlackInkCrew.us">Black Ink Crew</channel>
@@ -817,24 +805,19 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/us#67ed8f7e443f0671bc2b2368" lang="en" xmltv_id="PlutoTVAnimeMovies.us">Pluto TV Anime Movies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5f513564e4622a0007c578c0" lang="en" xmltv_id="PlutoTVCineComedia.us">Cine comedia</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d134a74ca91eedee1630faa" lang="en" xmltv_id="PlutoTVClassicTV.de">Pluto TV Classic TV</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#5c363c2411c5ca053f198f97" lang="en" xmltv_id="PlutoTVComedyMovies.de">Pluto TV Comedy Movies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d4ae94ef1a1bbb350ca41bb" lang="en" xmltv_id="PlutoTVConspiracy.de">Pluto TV Conspiracy</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#65a6a7a00c7ff50008cba07b" lang="en" xmltv_id="PlutoTVCrimeDrama.de">Pluto TV Crime Drama</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5f4d8594eb979c0007706de7" lang="en" xmltv_id="PlutoTVCrimeMovies.us">Pluto TV Crime Movies</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5c5c31f2f21b553c1f673fb0" lang="en" xmltv_id="PlutoTVCultFilms.de">Pluto TV Cult Films</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5c665db3e6c01b72c4977bc2" lang="en" xmltv_id="PlutoTVCultFilms.us">Pluto TV Cult Films</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#5ddf91149880d60009d35d27" lang="en" xmltv_id="PlutoTVDrama.de">Pluto TV Drama</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5b4e92e4694c027be6ecece1" lang="en" xmltv_id="PlutoTVDrama.us">Pluto TV Drama</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#66fedd65d7de140008dccd66" lang="en" xmltv_id="PlutoTVElReinoInfantil.us">El Reino Infantil</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5b64a245a202b3337f09e51d" lang="en" xmltv_id="PlutoTVFantastic.us">Pluto TV Fantastic</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#6036e7c385749f00075dbd3b" lang="en" xmltv_id="PlutoTVGameShows.us">Pluto TV Game Shows</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5a4d35dfa5c02e717a234f86" lang="en" xmltv_id="PlutoTVHistory.us">Pluto TV History</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#63808dc806aa4700075f319a" lang="en" xmltv_id="PlutoTVInvestigation.de">Pluto TV Investigation</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#5ad8d54be738977e2c310940" lang="en" xmltv_id="PlutoTVKids.de">Pluto TV Kids</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5d8beeb39b5d5d5f8c672530" lang="en" xmltv_id="PlutoTVLives.us">Pluto TV Lives</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5bb3fea0f711fd76340eebff" lang="en" xmltv_id="PlutoTVMilitary.us">Pluto TV Military</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5cf96c0222df39f1a338d163" lang="en" xmltv_id="PlutoTVNovelas.us">Pluto TV Novelas</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#6683cd71a1d7ad000866ec6a" lang="en" xmltv_id="PlutoTVPokemon.us">Pokémon</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#617b37b361e0fd0008cfd8c5" lang="en" xmltv_id="PlutoTVReaction.us">Pluto TV Reaction</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5c5c2b9d8002db3c3e0b1c6d" lang="en" xmltv_id="PlutoTVRetroToons.de">Pluto TV Retro Toons</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5a66795ef91fef2c7031c599" lang="en" xmltv_id="PlutoTVRomance.us">Pluto TV Romance</channel>
@@ -845,7 +828,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5f4d863b98b41000076cd061" lang="en" xmltv_id="PlutoTVStaffPicks.us">Pluto TV Staff Picks</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5c6dc88fcd232425a6e0f06e" lang="en" xmltv_id="PlutoTVTerror.us">Pluto TV Terror</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#67352ed93a61d4000881f9fa" lang="en" xmltv_id="PlutoTVTheTwilightZone.us">The Twilight Zone</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/gb#5dbfedccc563080009b60f4a" lang="en" xmltv_id="PlutoTVThrillers.de">Pluto TV Thrillers</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#5b4e69e08291147bd04a9fd7" lang="en" xmltv_id="PlutoTVThrillers.us">Pluto TV Thrillers</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/us#603fde9026ecbf0007752c2c" lang="en" xmltv_id="PlutoTVCompetition.us">Pluto TV Competition</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/gb#5d4bdb635ce813b38639e6a3" lang="en" xmltv_id="PlutoTVWesterns.de">Pluto TV Westerns</channel>
@@ -885,7 +867,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/es#63eb944dc111bc0008fe7021" lang="es" xmltv_id="PlutoTVTeen.de">Pluto TV Teen</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/es#6880aa28164eb4890282e803" lang="es" xmltv_id="PlutoTVToons.de">Pluto TV Toons</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/es#60dafb9a0df1ba000758d37b" lang="es" xmltv_id="BBCDrama.uk">BBC Series</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/es#5f1aa9bcd8160700076d45d1" lang="es" xmltv_id="PlutoTVJunior.de">Pluto TV Junior</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/es#609e7e423e9173000706a681" lang="es" xmltv_id="PlutoTVKidsClassics.de">Pluto TV Kids Classics</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#62f3e2d000418d00070f7dbc" lang="fr" xmltv_id="CinedAsiebyPlutoTV.de">Ciné d&apos;Asie by Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#62f3e0522443200008c567d7" lang="fr" xmltv_id="PlutoTVFrenchCollection.de">Pluto TV French Collection</channel>
@@ -921,7 +902,6 @@
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#611e771e2f5f180007002224" lang="fr" xmltv_id="PlutoTVHistoire.de">Pluto TV Histoire</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#5f8ed3892ed7bb000741a1d2" lang="fr" xmltv_id="PlutoTVInside.de">Pluto TV Inside</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#5f914f4b36d67d0007a91a04" lang="fr" xmltv_id="TrueCrimebyPlutoTV.de">True Crime by Pluto TV</channel>
-<channel site="i.mjh.nz" site_id="PlutoTV/fr#611e6ddc7fcd580007d1eb5f" lang="fr" xmltv_id="PlutoTVKidsClub.de">Pluto TV Kids Club</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#5f8ed4dbf6bb0800071ffbcb" lang="fr" xmltv_id="PlutoTVPolar.de">Pluto TV Polar</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#60812fc8539963000707d1e1" lang="fr" xmltv_id="CineRomancebyPlutoTV.de">Ciné Romance by Pluto TV</channel>
 <channel site="i.mjh.nz" site_id="PlutoTV/fr#60c34592c911890007f29a73" lang="fr" xmltv_id="CineSciFibyPlutoTV.de">Ciné Sci-Fi by Pluto TV</channel>
@@ -976,7 +956,6 @@
 <channel site="i.mjh.nz" site_id="Roku/all#9cb058af15a0fdacf5aa87b78b2e3d33" lang="en" xmltv_id="QVC2.us">QVC2</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#015c83c4485a597d9e2132252e2a75ae" lang="en" xmltv_id="QVC.us">QVC</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#50cd4d6c632d5172834eb5b77fa395c6" lang="en" xmltv_id="FilmexClasico.mx">FILMEX Clásico</channel>
-<channel site="i.mjh.nz" site_id="Roku/all#69f8d2659a475342b88db93b63f755d0" lang="en" xmltv_id="WSBDT1.us">WSB Atlanta</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#85f1333ff9065bf2923c8fa5eee50036" lang="en" xmltv_id="RainbowRuby.us">Rainbow Ruby</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#86c08261fc015a58866210bea63eb8f4" lang="en" xmltv_id="AlwaysFunnyVideos.us">Always Funny Videos</channel>
 <channel site="i.mjh.nz" site_id="Roku/all#95a0b94ff13a4dc14fea6e9eb47ecf09" lang="en" xmltv_id="TastemadeTravel.us">Tastemade Travel</channel>
@@ -1108,7 +1087,6 @@
 <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us">Comet TV</channel>
 <channel site="ontvtonight.com" site_id="us#69026524/espnu" lang="en" xmltv_id="ESPNU.us">ESPNU</channel>
 <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us">HBO HDTV (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69022184/kmsp-hdtv" lang="en" xmltv_id="KMSPDT1.us">KMSP HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us">STARZ HD (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69047892/starz-cinema-east" lang="en" xmltv_id="StarzCinema.us">STARZ Cinema (East)</channel>
@@ -1117,7 +1095,6 @@
 <channel site="ontvtonight.com" site_id="us#69046986/tbs-superstation-east" lang="en" xmltv_id="TBS.us">TBS Superstation (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69034109/trutv-hdtv-east" lang="en" xmltv_id="truTV.us">truTV HDTV (East)</channel>
 <channel site="ontvtonight.com" site_id="us#371340530/unimas-east" lang="en" xmltv_id="UniMas.us">UniMás (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69022354/wnbc-hdtv" lang="en" xmltv_id="WNBC471.us">WNBC HDTV</channel>
 <channel site="osn.com" site_id="9099" lang="ar" xmltv_id="BBCArabic.uk">BBC World</channel>
 <channel site="osn.com" site_id="212" lang="ar" xmltv_id="CrimePlusInvestigation.us">C &amp; I</channel>
 <channel site="plex.tv" site_id="6674c3c0a9c715b93ca6ca94" lang="de" xmltv_id="INFAST.nl">INFAST</channel>
@@ -1126,7 +1103,6 @@
 <channel site="plex.tv" site_id="6720013129bcfe7b69d4fef9" lang="it" xmltv_id="StorieCriminali.es">Storie Criminali</channel>
 <channel site="plex.tv" site_id="6577ab54f8a8e7d24bc86ed3" lang="en" xmltv_id="KNXVTV611.us">KNXV</channel>
 <channel site="pluto.tv" site_id="65b917d333ea860008598a05" lang="fi" xmltv_id="PlutoTVBudTerence.de">Pluto TV Bud &amp; Terence</channel>
-<channel site="pluto.tv" site_id="5c45f216e909d90674242965" lang="en" xmltv_id="PlutoTVRomance.de">Pluto TV Romance+</channel>
 <channel site="programacion.tcc.com.uy" site_id="468" lang="es" xmltv_id="SonyMoviesLatinAmerica.us">Sony Movies</channel>
 <channel site="programtv.onet.pl" site_id="bibel-tv-266" lang="de" xmltv_id="BibelTV.de">Bibel TV</channel>
 <channel site="programtv.onet.pl" site_id="deutsches-musik-fernsehen-119" lang="de" xmltv_id="DMF.de">Deutsches Musik Fernsehen</channel>
@@ -1298,7 +1274,6 @@
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
 <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
 <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us">A&amp;E</channel>
-<channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="Oxygen.us">Oxygen</channel>
 <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us">TeenNick</channel>
 <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us">STARZ Kids &amp; Family</channel>
 <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us">Destination America</channel>
@@ -1341,7 +1316,6 @@
 <channel site="tvhebdo.com" site_id="rdi/RDI" lang="fr" xmltv_id="IciRDI.ca">RDI</channel>
 <channel site="tvhebdo.com" site_id="trav/TRAV" lang="fr" xmltv_id="TPlusE.ca">Travel &amp; Escape</channel>
 <channel site="tvhebdo.com" site_id="tsc/SHOP" lang="fr" xmltv_id="TSC.ca">The Shopping Channel</channel>
-<channel site="tvhebdo.com" site_id="wgn9/WGN" lang="fr" xmltv_id="WGNDT1.us">WGN TV 9</channel>
 <channel site="tvpassport.com" site_id="three-angels-broadcasting-network/19066" lang="en" xmltv_id="3ABNEnglish.us">Three Angels Broadcasting Network</channel>
 <channel site="tvpassport.com" site_id="amp2/13283" lang="en" xmltv_id="AMP2.us">AMP2</channel>
 <channel site="tvpassport.com" site_id="charge/15228" lang="en" xmltv_id="Charge.us">CHARGE!</channel>
@@ -1349,7 +1323,6 @@
 <channel site="tvpassport.com" site_id="estv-hd/18805" lang="en" xmltv_id="ESTV.us">ES.TV HD</channel>
 <channel site="tvpassport.com" site_id="hope-channel/6827" lang="en" xmltv_id="HopeChannelNorthAmerica.us">Hope Channel</channel>
 <channel site="tvpassport.com" site_id="hsn-2/13495" lang="en" xmltv_id="HSN2.us">HSN 2</channel>
-<channel site="tvpassport.com" site_id="nbc-kob-albuquerque-nm-hd/5108" lang="en" xmltv_id="KOBDT1.us">NBC (KOB) Albuquerque, NM HD</channel>
 <channel site="tvpassport.com" site_id="laff--network-hd/20170" lang="en" xmltv_id="Laff.us">Laff - Network HD</channel>
 <channel site="tvpassport.com" site_id="ontario-legislature/417" lang="en" xmltv_id="LegislativeAssemblyofOntario.ca">Ontario Legislature</channel>
 <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="MSG.us">MSG (Madison Square Gardens) HD</channel>
@@ -1358,10 +1331,8 @@
 <channel site="tvpassport.com" site_id="positiv/4456" lang="en" xmltv_id="PositivTV.us">PosiTiV</channel>
 <channel site="tvpassport.com" site_id="tbn--trinity-broadcasting-network--east/1119" lang="en" xmltv_id="TBN.us">TBN - Trinity Broadcasting Network - East</channel>
 <channel site="tvpassport.com" site_id="the-nest/14118" lang="en" xmltv_id="TheNest.us">The Nest</channel>
-<channel site="tvpassport.com" site_id="cbs-whp-harrisburg-pa-hd/6720" lang="en" xmltv_id="WHPDT1.us">CBS (WHP) Harrisburg, PA HD</channel>
 <channel site="tvpassport.com" site_id="pbs-world/10214" lang="en" xmltv_id="WorldChannel.us">PBS World</channel>
 <channel site="tvpassport.com" site_id="abc-wplg-miami-fl-hd/5722" lang="en" xmltv_id="WPLG101.us">ABC (WPLG) Miami, FL HD</channel>
-<channel site="tvpassport.com" site_id="nbc-wrc-district-of-columbia-hd/3739" lang="en" xmltv_id="WRCDT1.us">NBC (WRC) District of Columbia HD</channel>
 <channel site="tvpassport.com" site_id="yes-network/1953" lang="en" xmltv_id="YesNetwork.us">YES Network</channel>
 <channel site="tvtv.us" site_id="10222" lang="en" xmltv_id="Galavision.us">Galavisión Este</channel>
 <channel site="tvtv.us" site_id="10999" lang="en" xmltv_id="News12LongIsland.us">News12 Long Island</channel>
@@ -1384,7 +1355,6 @@
 <channel site="tvtv.us" site_id="48990" lang="en" xmltv_id="Create.us">Create</channel>
 <channel site="tvtv.us" site_id="49097" lang="en" xmltv_id="NRBTV.us">NRBTV</channel>
 <channel site="tvtv.us" site_id="50270" lang="en" xmltv_id="MBCAmerica.us">MBC America</channel>
-<channel site="tvtv.us" site_id="51306" lang="en" xmltv_id="CW.us">CW East</channel>
 <channel site="tvtv.us" site_id="58595" lang="en" xmltv_id="LivingFaithTV.us">Living Faith TV</channel>
 <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="MegaTV.us">Mega TV</channel>
 <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="PursuitChannel.us">Pursuit Channel</channel>
