@@ -204,6 +204,7 @@
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
 <channel site="epg.iptvx.one" site_id="espn2-us" lang="ru" xmltv_id="ESPN2.us">ESPN2 [US]</channel>
 <channel site="epg.iptvx.one" site_id="espn-us" lang="ru" xmltv_id="ESPN.us">ESPN [US]</channel>
+<channel site="epg.iptvx.one" site_id="eurosport-4k" lang="ru" xmltv_id="Eurosport4K.fr">Eurosport 4K</channel>
 <channel site="epg.iptvx.one" site_id="fox-business-us" lang="ru" xmltv_id="FoxBusinessNetwork.us">Fox Business [US]</channel>
 <channel site="epg.iptvx.one" site_id="fox-news-us" lang="ru" xmltv_id="FoxNewsChannel.us">Fox News</channel>
 <channel site="epg.iptvx.one" site_id="golf-cnl-us" lang="ru" xmltv_id="GolfChannel.us">Golf Channel [US]</channel>
@@ -1147,6 +1148,7 @@
 <channel site="sky.com" site_id="DE#1030" lang="de" xmltv_id="RFO.de">RFO</channel>
 <channel site="sky.com" site_id="DE#3019" lang="de" xmltv_id="RiC.de">RiC</channel>
 <channel site="sky.com" site_id="DE#160" lang="de" xmltv_id="RockAntenne.de">ROCK ANTENNE</channel>
+<channel site="sky.com" site_id="DE#1206" lang="de" xmltv_id="RTLup.de">RTLup HD</channel>
 <channel site="sky.com" site_id="DE#1308" lang="de" xmltv_id="SachsenEins.de">SACHSEN EINS</channel>
 <channel site="sky.com" site_id="DE#32" lang="de" xmltv_id="SonnenklarTV.de">Sonnenklar TV</channel>
 <channel site="sky.com" site_id="DE#690" lang="de" xmltv_id="SRFernsehen.de">SR Fernsehen HD</channel>
@@ -1156,6 +1158,7 @@
 <channel site="sky.com" site_id="DE#5804" lang="de" xmltv_id="TVIngolstadt.de">tv.ingolstadt HD</channel>
 <channel site="sky.com" site_id="DE#4606" lang="de" xmltv_id="TVMainfranken.de">Mainfranken</channel>
 <channel site="sky.com" site_id="DE#3018" lang="de" xmltv_id="VolksmusikTV.de">Volksmusik.TV</channel>
+<channel site="sky.com" site_id="DE#1207" lang="de" xmltv_id="Voxup.de">VOXup HD</channel>
 <channel site="sky.com" site_id="DE#8333" lang="de" xmltv_id="WDRFernsehen.de">WDR HD Aachen</channel>
 <channel site="sky.com" site_id="DE#774" lang="de" xmltv_id="ZweiMusicTelevision.de">Zwei Music Television</channel>
 <channel site="sky.com" site_id="GB#5087" lang="en" xmltv_id="AkaalChannel.uk">Akaal Channel</channel>
@@ -1287,6 +1290,7 @@
 <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="DisneyChannel.us">Disney</channel>
 <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
 <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="GameShowNetwork.us">Game Show Network</channel>
+<channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="Lifetime.us">Lifetime</channel>
 <channel site="tvguide.com" site_id="9233001847" lang="en" xmltv_id="MNT.us">MyNetworkTV National</channel>
 <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
 <channel site="tvguide.com" site_id="9233002310" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
