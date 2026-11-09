@@ -45,7 +45,6 @@
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
 <channel site="canalplus.com" site_id="#595" lang="fr" xmltv_id="RMCDecouverte.fr">RMC DECOUVERTE</channel>
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
-<channel site="canalplus.com" site_id="#312" lang="fr" xmltv_id="TF1.fr">TF1</channel>
 <channel site="canalplus.com" site_id="#526" lang="fr" xmltv_id="TF1SeriesFilms.fr">TF1 SERIES FILMS</channel>
 <channel site="canalplus.com" site_id="#570" lang="fr" xmltv_id="TFX.fr">TFX</channel>
 <channel site="canalplus.com" site_id="#584" lang="fr" xmltv_id="TMC.fr">TMC</channel>
@@ -1021,7 +1020,6 @@
 <channel site="m.tv.sms.cz" site_id="HR-fernsehen" lang="de" xmltv_id="hrfernsehen.de">HR-fernsehen</channel>
 <channel site="m.tv.sms.cz" site_id="Jim+Jam" lang="cs" xmltv_id="JimJamEurope.uk">Jim Jam</channel>
 <channel site="m.tv.sms.cz" site_id="Kika" lang="de" xmltv_id="KiKA.de">Kika</channel>
-<channel site="m.tv.sms.cz" site_id="MTV+%28hu%29" lang="cs" xmltv_id="MTVGlobal.uk">MTV (hu)</channel>
 <channel site="m.tv.sms.cz" site_id="n-tv" lang="cs" xmltv_id="ntv.de">n-tv</channel>
 <channel site="m.tv.sms.cz" site_id="Outdoor+Channel" lang="en" xmltv_id="OutdoorChannel.us">Outdoor Channel</channel>
 <channel site="m.tv.sms.cz" site_id="Phoenix" lang="de" xmltv_id="phoenix.de">Phoenix</channel>
