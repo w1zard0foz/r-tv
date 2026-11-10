@@ -227,6 +227,7 @@
 <channel site="epg.iptvx.one" site_id="trace-sport-stars" lang="ru" xmltv_id="TraceSportStars.fr">Trace Sport Stars</channel>
 <channel site="epg.iptvx.one" site_id="tri-angela" lang="ru" xmltv_id="3ABNRussia.ru">Три Ангела</channel>
 <channel site="epg.iptvx.one" site_id="tsn4-ca" lang="ru" xmltv_id="TSN4.ca">TSN4</channel>
+<channel site="epg.iptvx.one" site_id="vh1-european" lang="ru" xmltv_id="VH1.us">VH1</channel>
 <channel site="epg.iptvx.one" site_id="zdf" lang="ru" xmltv_id="ZDF.de">ZDF</channel>
 <channel site="foxtel.com.au" site_id="EXPO/EXP" lang="en" xmltv_id="ExpoChannel.au">EXPO</channel>
 <channel site="foxtel.com.au" site_id="Fox-Sports-News/FSN" lang="en" xmltv_id="FoxSportsNews.au">Fox Sports News</channel>
@@ -1050,6 +1051,7 @@
 <channel site="mi.tv" site_id="hn#3abn-latino" lang="es" xmltv_id="3ABNLatino.us">3ABN Latino</channel>
 <channel site="mi.tv" site_id="pe#byutv" lang="es" xmltv_id="BYUTV.us">BYUtv</channel>
 <channel site="mon-programme-tv.be" site_id="871/programme-television-disney-junior" lang="fr" xmltv_id="DisneyJr.fr">DISNEY JUNIOR</channel>
+<channel site="movistarplus.es" site_id="MVF1" lang="es" logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" xmltv_id="DAZNF1.uk">DAZN F1</channel>
 <channel site="mujtvprogram.cz" site_id="47" lang="cs" xmltv_id="arte.de">ARTE</channel>
 <channel site="mujtvprogram.cz" site_id="151" lang="de" xmltv_id="DMAX.de">DMAX</channel>
 <channel site="mytelly.co.uk" site_id="229/mutv" lang="en" xmltv_id="MUTV.uk">MUTV</channel>
