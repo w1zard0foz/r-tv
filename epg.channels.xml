@@ -338,7 +338,6 @@
 <channel site="guida.tv" site_id="80698367/pesca" lang="it" xmltv_id="PescaeCaccia.it">Pesca</channel>
 <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="RaiGulp.it">Rai gulp</channel>
 <channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="RaiMovie.it">RAI Movie</channel>
-<channel site="guida.tv" site_id="82657380/rai-premium" lang="it" xmltv_id="RaiPremium.it">Rai Premium</channel>
 <channel site="guida.tv" site_id="82658486/radionorba-tv" lang="it" xmltv_id="RadioNorbaTV.it">Radionorba TV</channel>
 <channel site="guida.tv" site_id="82847384/real-time" lang="it" xmltv_id="RealTime.it">Real Time</channel>
 <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5</channel>
@@ -1079,10 +1078,8 @@
 <channel site="ontvtonight.com" site_id="ca#69031617/chch-hdtv" lang="en" xmltv_id="CHCHDT.ca">CHCH HDTV</channel>
 <channel site="ontvtonight.com" site_id="ca#69033920/tv5-quebec-canada-hdtv" lang="en" xmltv_id="TV5QuebecCanada.ca">TV5 Québec Canada HDTV</channel>
 <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us">ABC</channel>
-<channel site="ontvtonight.com" site_id="us#7224220194/acc-network" lang="en" xmltv_id="ACCNetwork.us">ACC Network</channel>
 <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us">AMC (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69047235/animal-planet-east" lang="en" xmltv_id="AnimalPlanet.us">Animal Planet (East)</channel>
-<channel site="ontvtonight.com" site_id="us#69044423/bbc-america-east" lang="en" xmltv_id="BBCAmerica.us">BBC America (East)</channel>
 <channel site="ontvtonight.com" site_id="us#69030398/big-ten-network-national" lang="en" xmltv_id="BigTenNetwork.us">Big Ten Network (National)</channel>
 <channel site="ontvtonight.com" site_id="us#69043286/bounce-tv" lang="en" xmltv_id="Bounce.us">Bounce TV</channel>
 <channel site="ontvtonight.com" site_id="us#1922365932/comet-tv" lang="en" xmltv_id="Comet.us">Comet TV</channel>
@@ -1261,7 +1258,6 @@
 <channel site="tv.sfr.fr" site_id="3770" lang="fr" xmltv_id="CannesLerinsTV.fr">Cannes Lérins TV</channel>
 <channel site="tv.sfr.fr" site_id="3771" lang="fr" xmltv_id="PuissanceTV.fr">Puissance TV</channel>
 <channel site="tv.sfr.fr" site_id="4092" lang="fr" xmltv_id="BFM2.fr">BFM2</channel>
-<channel site="tv24.se" site_id="magnolia-network-hd" lang="en" xmltv_id="MagnoliaNetwork.us">Magnolia Network HD</channel>
 <channel site="tvcesoir.fr" site_id="70787971/gong" lang="fr" xmltv_id="Gong.fr">Gong</channel>
 <channel site="tvgids.nl" site_id="ndr" lang="nl" xmltv_id="NDRFernsehenInternational.de">NDR Fernsehen</channel>
 <channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="CookingChannel.us">Cooking</channel>
@@ -1275,7 +1271,6 @@
 <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="IFC.us">IFC</channel>
 <channel site="tvguide.com" site_id="9200004683" lang="en" xmltv_id="NationalGeographicWild.us">National Geographic Wild</channel>
 <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
-<channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="AE.us">A&amp;E</channel>
 <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="TeenNick.us">TeenNick</channel>
 <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us">STARZ Kids &amp; Family</channel>
 <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="DestinationAmerica.us">Destination America</channel>
@@ -1372,7 +1367,6 @@
 <channel site="tvtv.us" site_id="71303" lang="en" xmltv_id="MyDestinationTV.us">MyDestination.TV</channel>
 <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="ImpactNetwork.us">Impact Network</channel>
 <channel site="tvtv.us" site_id="73580" lang="en" xmltv_id="KIIOLD101.us">US Armenia (KIIO-LD) Los Angeles, CA</channel>
-<channel site="tvtv.us" site_id="74299" lang="en" xmltv_id="TeleXitos.us">TeleXitos</channel>
 <channel site="tvtv.us" site_id="74978" lang="en" xmltv_id="JBS.us">JBS</channel>
 <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="MLBStrikeZone.us">MLB Strike Zone</channel>
 <channel site="tvtv.us" site_id="80740" lang="en" xmltv_id="ComedyTV.us">Comedy.TV</channel>
