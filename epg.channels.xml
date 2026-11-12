@@ -162,9 +162,6 @@
 <channel site="distro.tv" site_id="95229" lang="en" xmltv_id="CGTNSpanish.cn">CGTN Español</channel>
 <channel site="distro.tv" site_id="95621" lang="en" xmltv_id="DeFianceMedia.pr">DeFiance Media</channel>
 <channel site="distro.tv" site_id="103370" lang="en" xmltv_id="JewishLifeTelevision.us">Jewish Life Television JLTV</channel>
-<channel site="distro.tv" site_id="143731" lang="en" xmltv_id="CGTNGlobalBiz.cn">CGTN Global Biz</channel>
-<channel site="distro.tv" site_id="143732" lang="en" xmltv_id="ChinaTravel.cn">China Travel</channel>
-<channel site="distro.tv" site_id="143733" lang="en" xmltv_id="DiscoveringChina.cn">Discovering China</channel>
 <channel site="distro.tv" site_id="144301" lang="en" xmltv_id="DaystarTVEspanol.us">Daystar Español</channel>
 <channel site="distro.tv" site_id="144407" lang="en" xmltv_id="RVTV.us">RVTV</channel>
 <channel site="distro.tv" site_id="144408" lang="en" xmltv_id="WineWatchesWhiskey.us">Wine, Watches &amp; Whiskey</channel>
@@ -343,7 +340,6 @@
 <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5</channel>
 <channel site="guida.tv" site_id="83495451/euronews" lang="it" xmltv_id="EuronewsItalian.fr">Euronews</channel>
 <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it">Sport Italia</channel>
-<channel site="guida.tv" site_id="83847273/super-tennis-hd" lang="it" xmltv_id="SuperTennis.it">Super Tennis HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#462" lang="it" xmltv_id="DeejayTV.it">Deejay TV</channel>
 <channel site="guidatv.sky.it" site_id="DTH#6611" lang="it" xmltv_id="HorseTV.it">Horse TV HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#6626" lang="it" xmltv_id="QVC.it">QVC</channel>

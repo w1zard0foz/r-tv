@@ -533,6 +533,10 @@ https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca" group-title="🇨🇦 Canada",TVOKids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimeAsiaTV.ca" group-title="🇨🇦 Canada",Prime Asia TV (1080p)
+https://stream.ottlive.co.in/primeasia/index.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" group-title="🇨🇦 Canada",CBC News Network (1080p)
+https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="48Hours.us" group-title="🇨🇦 Canada",48 Hours
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada",Aftershock
@@ -3221,8 +3225,6 @@ https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" group-title="🇮🇹 Italy",Deejay TV (1080p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="DellaTV.it" group-title="🇮🇹 Italy",DellaTV (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="Deluxe139.it" group-title="🇮🇹 Italy",Deluxe 139 (480p)
 https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8
 #EXTINF:-1 tvg-id="DITV80.it" group-title="🇮🇹 Italy",DI.TV 80 (720p)
@@ -3583,8 +3585,6 @@ http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" group-title="🇮🇹 Italy",SuperSix Lombardia (720p)
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperTennis.it" group-title="🇮🇹 Italy",SuperTennis (1080p)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="T9.it" group-title="🇮🇹 Italy",T9 (288p)
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
 #EXTINF:-1 tvg-id="TaurianovaTV.it" group-title="🇮🇹 Italy",Taurianova TV (720p)
@@ -3763,6 +3763,8 @@ http://102.129.186.182:81/dmax/index.m3u8
 http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="RealTime.it" group-title="🇮🇹 Italy",Real Time HD (720p)
 http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:-1 tvg-id="DellaTV.it" group-title="🇮🇹 Italy",DellaTV (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -6199,7 +6201,7 @@ http://179.1.196.222:9000/play/a02y/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalInfantil.us" group-title="🇺🇸 United States",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="🇺🇸 United States",Cartoon Network (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="🇺🇸 United States",Cartoon Network West (1080p) [Geo-blocked]
 http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="🇺🇸 United States",Cartoon Network [Not 24/7;Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
@@ -7459,8 +7461,6 @@ https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u
 http://tvsen7.aynascope.net/teennick/index.m3u8
 #EXTINF:-1 tvg-id="TeleBoston.us" group-title="🇺🇸 United States",Tele Boston (480p)
 https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
-#EXTINF:-1 tvg-id="Telecyan.us" group-title="🇺🇸 United States",Telecyan (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="🇺🇸 United States",Telemundo Al Dia (720p)
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814573/hls/master.m3u8?ads.xumo_channelId=88814573
 #EXTINF:-1 tvg-id="TelemundoAlDia.us" group-title="🇺🇸 United States",Telemundo Al Dia
@@ -7919,6 +7919,24 @@ https://w3-orka.b-cdn.net/W3-ORKA/index.m3u8
 https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" group-title="🇺🇸 United States",Timeless TV
 https://timelesstv1.b-cdn.net/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-id="ScaresbyShudder.us" group-title="🇺🇸 United States",Scares by Shudder (1080p)
+https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ScaresbyShudder.us" group-title="🇺🇸 United States",Scares by Shudder (1080p)
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951349/hls/playlist.m3u8?ads.xumo_channelId=99951349
+#EXTINF:-1 tvg-id="ScaresbyShudder.us" group-title="🇺🇸 United States",Scares by Shudder (1080p)
+https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
+#EXTINF:-1 tvg-id="ScaresbyShudder.us" group-title="🇺🇸 United States",Scares by Shudder (1080p)
+https://aka-live1050.delivery.roku.com/bf4fff9b-e81f-4dcb-baaf-71b75e091599/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" group-title="🇺🇸 United States",LiveNOW from FOX (1080p)
+https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="ScrippsNews.us" group-title="🇺🇸 United States",Scripps News (1080p)
+https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" group-title="🇺🇸 United States",Fox Weather (1080p)
+https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="WeatherNation.us" group-title="🇺🇸 United States",WeatherNation (1080p)
+https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-id="Telecyan.us" group-title="🇺🇸 United States",Telecyan (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -8187,20 +8205,8 @@ https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/pl
 https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" group-title="🇺🇸 United States",Young Hollywood (1080p) [Geo-blocked]
 https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" group-title="🇺🇸 United States",CGTN (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🇺🇸 United States",CGTN Documentary (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-documentary.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="🇺🇸 United States",CGTN Español (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
-#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" group-title="🇺🇸 United States",CGTN Global Biz (1080p)
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="ChinaTravel.cn" group-title="🇺🇸 United States",China Travel (1080p)
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Cirque du Soleil (1080p) [Geo-blocked]
 https://amg01439-amg01439c1-amgplt0081.playout.now3.amagi.tv/playlist/amg01439-amg01439c1-amgplt0081/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn" group-title="🇺🇸 United States",Discovering China (1080p)
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" group-title="🇺🇸 United States",Estrella Games (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaNews.us" group-title="🇺🇸 United States",Estrella News (1080p)
@@ -8429,7 +8435,7 @@ https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us" group-title="🇺🇸 United States",OAN Plus (720p)
 https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",On Patrol: Live (720p)
+#EXTINF:-1 tvg-id="OnPatrolLive.us" group-title="🇺🇸 United States",On Patrol: Live (720p)
 https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PetsTV.us" group-title="🇺🇸 United States",Pets.TV (720p)
 https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
@@ -8449,7 +8455,7 @@ https://a-cdn.klowdtv.com/live3/realcrimeuncovered_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFirstTV.us" group-title="🇺🇸 United States",Redseat The First (720p)
 https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Reelz Famous & Infamous (720p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="🇺🇸 United States",Reelz Famous & Infamous (720p)
 https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us" group-title="🇺🇸 United States",RightNow TV (720p)
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
@@ -11199,7 +11205,7 @@ https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playl
 https://aegis-cloudfront-1.tubi.video/185b9f38-635d-4cd8-b744-0ffca8ed48ba/pllne.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Q2 News Billings (1080p)
 https://aegis-cloudfront-1.tubi.video/e6096a30-3bca-4157-b9c7-d7aa84d16e9e/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="🇺🇸 United States",Reelz Famous & Infamous (1080p)
 https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8
 #EXTINF:-1 tvg-id="ScrippsNews.us" group-title="🇺🇸 United States",Scripps News (1080p)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
@@ -11683,7 +11689,7 @@ https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
 https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",Real Housewives Vault (1080p)
 https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Reelz Famous & Infamous (1080p)
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us" group-title="🇺🇸 United States",Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us" group-title="🇺🇸 United States",Reuters Now (1080p)
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
@@ -12003,10 +12009,6 @@ http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
 http://168.228.44.241:9997/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" group-title="📰 International News",CNN International North America (1080p)
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" group-title="📰 International News",CGTN (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn" group-title="📰 International News",CGTN Español (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" group-title="📰 International News",Euronews English (720p)
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="📰 International News",France 24 (720p)
