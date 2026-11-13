@@ -2647,6 +2647,10 @@ http://213.91.179.28:8000/play/a04b
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1 tvg-id="Eurosport2.fr" group-title="🇫🇷 France",Eurosport 2 Romania
 http://89.44.231.73:7000/eurosport2
+#EXTINF:-1 tvg-id="Eurosport1.fr" group-title="🇫🇷 France",Eurosport 1 UK (1080p)
+http://85.117.37.43/eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="🇫🇷 France",TV5Monde Europe (576i)
+https://hls01ns.antenaplay.ro/hls/tv5-monde-europe-sd/index.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -4113,6 +4117,8 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" group-title="🇯🇵 Japan",Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-id="TVUYamagata.jp" group-title="🇯🇵 Japan",TV-U Yamagata (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
 #EXTINF:-1 tvg-id="Channel200.nz" group-title="🇳🇿 New Zealand",Channel 200 (540p)
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" group-title="🇳🇿 New Zealand",Firstlight (576p)
@@ -7937,6 +7943,8 @@ https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-o
 https://aka-live1050.delivery.roku.com/90ba101a-eef0-4c48-b464-b5ef935b5dcb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="Telecyan.us" group-title="🇺🇸 United States",Telecyan (720p)
 https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
+#EXTINF:-1 tvg-id="DSports2.us" group-title="🇺🇸 United States",DSports 2
+http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
