@@ -11,6 +11,7 @@
 <channel site="anteltv.com.uy" site_id="2s689" lang="es" xmltv_id="DW.de">DW (Español)</channel>
 <channel site="bein.com" site_id="entertainment#22" lang="ar" xmltv_id="BloombergTV.us">22</channel>
 <channel site="bein.com" site_id="entertainment#28" lang="ar" xmltv_id="EuronewsEnglish.fr">28</channel>
+<channel site="bein.com" site_id="entertainment#28" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us">28</channel>
 <channel site="beinsports.com" site_id="1ACADCF1-DFAC-480B-872C-53D51FE1B45D" lang="en" xmltv_id="beINSPORTSXTRA.us">beIN SPORTS XTRA</channel>
 <channel site="beinsports.com" site_id="5223E3D7-FB4E-4155-885A-9165996B22FA" lang="en" xmltv_id="beINSPORTSXTRAenEspanol.us">beIN SPORTS XTRA ñ</channel>
 <channel site="beinsports.com" site_id="C244C48D-3B54-406A-94C9-D63B16318267" lang="en" xmltv_id="beINSportsUSA.us">beIN SPORTS</channel>
@@ -25,6 +26,7 @@
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
 <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr">CANAL+SPORT</channel>
 <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr">CNEWS</channel>
+<channel site="canalplus.com" site_id="#806" lang="fr" xmltv_id="ComedyCentral.fr">COMEDY CENTRAL</channel>
 <channel site="canalplus.com" site_id="#513" lang="fr" xmltv_id="CStar.fr">CSTAR</channel>
 <channel site="canalplus.com" site_id="#781" lang="fr" xmltv_id="DasErste.de">ARD DAS ERSTE</channel>
 <channel site="canalplus.com" site_id="#540" lang="fr" xmltv_id="Equidia.fr">EQUIDIA</channel>
@@ -42,6 +44,9 @@
 <channel site="canalplus.com" site_id="#774" lang="fr" xmltv_id="LemanBleu.ch">LEMAN BLEU</channel>
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
+<channel site="canalplus.com" site_id="#470" lang="fr" xmltv_id="MTV.fr">MTV</channel>
+<channel site="canalplus.com" site_id="#591" lang="fr" xmltv_id="Nickelodeon.fr">NICKELODEON</channel>
+<channel site="canalplus.com" site_id="#593" lang="fr" xmltv_id="NickelodeonJunior.fr">NICKELODEON JUNIOR</channel>
 <channel site="canalplus.com" site_id="#569" lang="fr" xmltv_id="NRJHits.fr">NRJ HITS</channel>
 <channel site="canalplus.com" site_id="#595" lang="fr" xmltv_id="RMCDecouverte.fr">RMC DECOUVERTE</channel>
 <channel site="canalplus.com" site_id="#571" lang="fr" xmltv_id="RMCStory.fr">RMC STORY</channel>
@@ -57,6 +62,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90239" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_africa24%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Africa24.fr">AFRICA 24</channel>
 <channel site="chaines-tv.orange.fr" site_id="90360" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_alpe_d_huez_television%2F20250515_172038%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="AlpedHuezTV.fr">ALPE D&apos;HUEZ TELEVISION</channel>
 <channel site="chaines-tv.orange.fr" site_id="90341" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_bfm_lyon%2F20250516_141503%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="BFMLyon.fr">BFM LYON</channel>
+<channel site="chaines-tv.orange.fr" site_id="928" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_boomerang_1%2F20171004_102149%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="Boomerang.fr">BOOMERANG +1</channel>
 <channel site="chaines-tv.orange.fr" site_id="90550" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cctvf%2F20241114_183854%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CGTNFrench.cn">CGTN Français</channel>
 <channel site="chaines-tv.orange.fr" site_id="1989" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_clubbingtv%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="ClubbingTV.us">CLUBBING TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="1996" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_fashiontv%2F20220128_093134%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FashionTVEurope.fr">FASHIONTV PARIS</channel>
@@ -100,7 +106,6 @@
 <channel site="dens.tv" site_id="143" lang="id" xmltv_id="QwestTV.fr">Qwest TV</channel>
 <channel site="digiturk.com.tr" site_id="436" lang="tr" xmltv_id="BabyTV.uk">BABY TV</channel>
 <channel site="directv.com.uy" site_id="204#STAR" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/204.png" xmltv_id="StarChannelLatinAmerica.us">STAR Channel</channel>
-<channel site="directv.com.uy" site_id="215#CMDY" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/215.png" xmltv_id="ComedyCentralLatinAmerica.us">Comedy Central</channel>
 <channel site="directv.com.uy" site_id="217#FX" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/217.png" xmltv_id="FXLatinAmerica.us">FX</channel>
 <channel site="directv.com.uy" site_id="222#E!" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/222.png" xmltv_id="AELatinAmerica.us">E! Entertainment</channel>
 <channel site="directv.com.uy" site_id="223#ID" lang="es" logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/UY/223.png" xmltv_id="InvestigationDiscoveryLatinAmerica.us">Investigation Discovery</channel>
@@ -215,8 +220,10 @@
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
 <channel site="epg.iptvx.one" site_id="nfl-network-us" lang="ru" xmltv_id="NFLNetwork.us">NFL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nhl-network-us" lang="ru" xmltv_id="NHLNetwork.us">NHL Network [US]</channel>
+<channel site="epg.iptvx.one" site_id="nickelodeon-ru" lang="ru" xmltv_id="Nickelodeon.us">Nickelodeon</channel>
 <channel site="epg.iptvx.one" site_id="nicktoons" lang="ru" xmltv_id="Nicktoons.us">Nicktoons</channel>
 <channel site="epg.iptvx.one" site_id="now-rock" lang="ru" xmltv_id="NOWRock.uk">Now Rock</channel>
+<channel site="epg.iptvx.one" site_id="rai-sport" lang="ru" xmltv_id="RaiSport.it">RAI Sport</channel>
 <channel site="epg.iptvx.one" site_id="revolt-tv-us" lang="ru" xmltv_id="Revolt.us">Revolt TV [US]</channel>
 <channel site="epg.iptvx.one" site_id="setanta-sports" lang="ru" xmltv_id="RugbyPassTV.uk">Setanta Sports</channel>
 <channel site="epg.iptvx.one" site_id="tbn-armenia" lang="ru" xmltv_id="TBNArmenia.us">TBN Armenia</channel>
@@ -332,6 +339,7 @@
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
 <channel site="guida.tv" site_id="77686988/mediaset-extra" lang="it" xmltv_id="MediasetExtra.it">Mediaset Extra</channel>
 <channel site="guida.tv" site_id="77688384/mediaset-20" lang="it" xmltv_id="20.it">Mediaset 20</channel>
+<channel site="guida.tv" site_id="79797766/sky-italian-boomerang" lang="it" xmltv_id="Boomerang.it">Sky Italian Boomerang</channel>
 <channel site="guida.tv" site_id="80698367/pesca" lang="it" xmltv_id="PescaeCaccia.it">Pesca</channel>
 <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="RaiGulp.it">Rai gulp</channel>
 <channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="RaiMovie.it">RAI Movie</channel>
@@ -1043,6 +1051,7 @@
 <channel site="mi.tv" site_id="ar#sony" lang="es" xmltv_id="SonyChannelAndes.us">Sony</channel>
 <channel site="mi.tv" site_id="br#sonlife-broadcasting-network" lang="pt" xmltv_id="SBNTVInternational.us">SonLife Broadcasting Network</channel>
 <channel site="mi.tv" site_id="co#aliento-vision" lang="es" xmltv_id="AlientoVision.us">Aliento Vision</channel>
+<channel site="mi.tv" site_id="co#fox-action" lang="es" xmltv_id="StarAction.us">Star Action</channel>
 <channel site="mi.tv" site_id="hn#3abn-latino" lang="es" xmltv_id="3ABNLatino.us">3ABN Latino</channel>
 <channel site="mi.tv" site_id="pe#byutv" lang="es" xmltv_id="BYUTV.us">BYUtv</channel>
 <channel site="mon-programme-tv.be" site_id="871/programme-television-disney-junior" lang="fr" xmltv_id="DisneyJr.fr">DISNEY JUNIOR</channel>
@@ -1234,6 +1243,7 @@
 <channel site="tv.blue.ch" site_id="1082" lang="fr" xmltv_id="Carac4.ch">CARAC 4</channel>
 <channel site="tv.blue.ch" site_id="1380" lang="it" xmltv_id="AntennaTre.it">Antenna 3</channel>
 <channel site="tv.blue.ch" site_id="1645" lang="it" xmltv_id="EspansioneTV.it">Espansione TV</channel>
+<channel site="tv.blue.ch" site_id="1767" lang="fr" xmltv_id="Nicktoons.fr">Nicktoons F</channel>
 <channel site="tv.blue.ch" site_id="1790" lang="de" xmltv_id="OneMusicTelevision.de">One Music Television</channel>
 <channel site="tv.blue.ch" site_id="1811" lang="it" xmltv_id="GOTVCanale163.it">GO-TV Canale 63</channel>
 <channel site="tv.blue.ch" site_id="2049" lang="it" xmltv_id="SportitaliaSolocalcio.it">SI Solocalcio</channel>
