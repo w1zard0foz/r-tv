@@ -1131,6 +1131,10 @@ https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoTVAmor.ch" group-title="🇨🇭 Switzerland",Wedo TV Amor (1080p)
 https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.ch" group-title="🇨🇭 Switzerland",RTS 1 (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="🇨🇭 Switzerland",SRF info (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/srf_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" group-title="🇨🇭 Switzerland",Rakuten TV Family Switzerland (720p)
 https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_RakutenFamily-1/playlist.m3u8
 #EXTINF:-1 tvg-id="123tv.de" group-title="🇩🇪 Germany",1-2-3 TV (270p)
@@ -1645,6 +1649,16 @@ https://s6.hopslan.com/voxupz/index.m3u8
 https://s6.hopslan.com/rtltupz/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.de" group-title="🇩🇪 Germany",DMAX HD (576p)
 https://s6.hopslan.com/dmaxX/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.de" group-title="🇩🇪 Germany",Sport1 (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/sport1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="🇩🇪 Germany",ZDFneo (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfneo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="🇩🇪 Germany",ZDFinfo (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdfinfo/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" group-title="🇩🇪 Germany",ZDF HD (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/zdf/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de" group-title="🇩🇪 Germany",Motorvision+ (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="🇩🇪 Germany",21 Jump Street
 https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
 #EXTINF:-1 tvg-id="90210.de" group-title="🇩🇪 Germany",90210
@@ -2359,8 +2373,6 @@ https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" group-title="🇫🇷 France",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-id="France3.fr" group-title="🇫🇷 France",France 3 Cote d'Azur (1080p)
-http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" group-title="🇫🇷 France",France 3 Lorraine (1080p)
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" group-title="🇫🇷 France",France 24 (1080p)
@@ -2477,8 +2489,6 @@ http://stream.mcquack.net/276/index.m3u8
 https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
 #EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" group-title="🇫🇷 France",Monte Carlo Digital Television (1080p)
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
-#EXTINF:-1 tvg-id="MyZenTV.fr" group-title="🇫🇷 France",MyZen TV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NRJHits.fr" group-title="🇫🇷 France",NRJ Hits
 https://test.946985.filegear-sg.me/proxy/a23981548880f405
 #EXTINF:-1 tvg-id="P2MTV.fr" group-title="🇫🇷 France",P2M TV (720p)
@@ -2599,10 +2609,6 @@ https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" group-title="🇫🇷 France",Vosges Télévision (576p) [Not 24/7]
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
-#EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France",W9 (1086p)
-http://5.180.164.197:8080/W9/index.m3u8
-#EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France",W9 (1080p)
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8
 #EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France",W9 (720p)
 https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd720.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" group-title="🇫🇷 France",zenith (1080p)
@@ -2679,6 +2685,60 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" group-title="🇫🇷 France",Nickelodeon Junior (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.fr" group-title="🇫🇷 France",Comedy Central HD (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central_en/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" group-title="🇫🇷 France",TV5Monde Info (1080p)
+http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L4/b21193ce/2ee2c40a.isml/.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" group-title="🇫🇷 France",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="France3.fr" group-title="🇫🇷 France",France 3 Cote d'Azur (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3_nice/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ParisPremiere.fr" group-title="🇫🇷 France",Paris Premiere (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/paris_premiere/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="AB1.fr" group-title="🇫🇷 France",AB1 (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" group-title="🇫🇷 France",TMC (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tmc_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="W9.fr" group-title="🇫🇷 France",W9 (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Action.fr" group-title="🇫🇷 France",Action (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Teva.fr" group-title="🇫🇷 France",Teva (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="SerieClub.fr" group-title="🇫🇷 France",Serie Club (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/serie_club/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" group-title="🇫🇷 France",MyZen TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/myzen_tv/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="M6Music.fr" group-title="🇫🇷 France",M6 Music (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" group-title="🇫🇷 France",TV5Monde France Belgium Switzerland Monaco (720p)
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/tv5_monde_fbs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr" group-title="🇫🇷 France",Animaux (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Mangas.fr" group-title="🇫🇷 France",Mangas (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Melody.fr" group-title="🇫🇷 France",Melody (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ChassePeche.fr" group-title="🇫🇷 France",Chasse & Peche (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" group-title="🇫🇷 France",Ushuaia TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ushuaia/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBreizh.fr" group-title="🇫🇷 France",TV Breizh (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tv_breizh/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" group-title="🇫🇷 France",Crime District (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/crime_district/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ScienceVieTV.fr" group-title="🇫🇷 France",Science & Vie TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoireTV.fr" group-title="🇫🇷 France",Histoire TV (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ToutelHistoire.fr" group-title="🇫🇷 France",Toute l'Histoire (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/toute_lhistoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Automotolachaine.fr" group-title="🇫🇷 France",Automoto la chaine (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/automoto/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr" group-title="🇫🇷 France",L'Equipe (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/l_equipe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CStar.fr" group-title="🇫🇷 France",C Star (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="4Afghanistan.fr" group-title="🇫🇷 France",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Kurd.fr" group-title="🇫🇷 France",4 Kurd
@@ -3807,6 +3867,34 @@ http://team-tv.co:81/rai1/index.m3u8
 http://team-tv.co:81/rai3/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" group-title="🇮🇹 Italy",Rai Storia (1080p)
 http://team-tv.co:81/raistoria/index.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it" group-title="🇮🇹 Italy",Nautical Channel (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale2/master.m3u8
+#EXTINF:-1 tvg-id="HorseTV.it" group-title="🇮🇹 Italy",Horse TV (576p)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale4/master.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it" group-title="🇮🇹 Italy",Mediaset Extra (540p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai1.it" group-title="🇮🇹 Italy",Rai 1 HD (1080p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹 Italy",Rai 3 (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_tre/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹 Italy",Rai 2 HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" group-title="🇮🇹 Italy",Rete 4 HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" group-title="🇮🇹 Italy",Canale 5 HD (1080p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" group-title="🇮🇹 Italy",Italia 1 HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="LA7.it" group-title="🇮🇹 Italy",LA7 HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/la_7/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TGCom24.it" group-title="🇮🇹 Italy",TGCom24 (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" group-title="🇮🇹 Italy",Rai News 24 HD (540p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_news_24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="AntennaSicilia.it" group-title="🇮🇹 Italy",Antenna Sicilia (720p)
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+#EXTINF:-1 tvg-id="BikeChannel.it" group-title="🇮🇹 Italy",Bike Channel HD (1080p)
+https://018e1901ad234f04ae16388eda6778e5.msvdn.net/live/S94763187/reFXDHQfBndw/playlist.m3u8
 #EXTINF:-1 tvg-id="16AnnieIncinta.de" group-title="🇮🇹 Italy",16 Anni e Incinta
 https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8
 #EXTINF:-1 group-title="🇮🇹 Italy",Affare Fatto
@@ -4157,6 +4245,16 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-id="TVUYamagata.jp" group-title="🇯🇵 Japan",TV-U Yamagata (1080i)
 https://tv-stream-test.daydreamer-json.cc/stream/1668b5a43560598b385ccf33fd2d5f43/master.m3u8
+#EXTINF:-1 tvg-id="YTSYamagataTV.jp" group-title="🇯🇵 Japan",YTS Yamagata TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/407fd00ebd2a059c9cd1ea3fa7156097/master.m3u8
+#EXTINF:-1 tvg-id="SakuranboTV.jp" group-title="🇯🇵 Japan",Sakuranbo TV (1080i)
+https://tv-stream-test.daydreamer-json.cc/stream/bd2dd29080c36c9b01338d329156febe/master.m3u8
+#EXTINF:-1 tvg-id="MTV.jp" group-title="🇯🇵 Japan",MTV
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+#EXTINF:-1 tvg-id="CartoonNetwork.jp" group-title="🇯🇵 Japan",Cartoon Network HD
+http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+#EXTINF:-1 tvg-id="DisneyChannel.jp" group-title="🇯🇵 Japan",Disney Channel
+http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 #EXTINF:-1 tvg-id="Channel200.nz" group-title="🇳🇿 New Zealand",Channel 200 (540p)
 https://d1jlnqid3sfc6m.cloudfront.net/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
 #EXTINF:-1 tvg-id="Firstlight.nz" group-title="🇳🇿 New Zealand",Firstlight (576p)
@@ -4553,12 +4651,6 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 https://iranefardalive.com/stream/live.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk" group-title="🇬🇧 United Kingdom",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧 United Kingdom",ITV2 (360p)
-https://lb.iptvnetwork.net/ls28/10106/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧 United Kingdom",ITV3 (360p)
-https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧 United Kingdom",ITV4 (360p)
-https://lb.iptvnetwork.net/ls28/10108/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" group-title="🇬🇧 United Kingdom",JimJam Europe (720p)
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" group-title="🇬🇧 United Kingdom",JimJam Europe (576p)
@@ -4739,6 +4831,18 @@ http://213.91.179.28:8000/play/a0c7
 https://tvorb.net/ZTV/6918-live.m3u8
 #EXTINF:-1 tvg-id="EurovisionSport.uk" group-title="🇬🇧 United Kingdom",Eurovision Sport (1080p)
 https://amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCOne.uk" group-title="🇬🇧 United Kingdom",BBC One (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_one/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧 United Kingdom",BBC News UK HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" group-title="🇬🇧 United Kingdom",BBC Two HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_two/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="🇬🇧 United Kingdom",Channel 4 (576p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk" group-title="🇬🇧 United Kingdom",CNBC Europe (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cnbc_europe/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" group-title="🇬🇧 United Kingdom",BBC Four (720p) [Not 24/7]
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAlba.uk" group-title="🇬🇧 United Kingdom",BBC Alba (1080p) (HEVC) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCArabic.uk" group-title="🇬🇧 United Kingdom",BBC Arabic (720p)
@@ -7993,24 +8097,12 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8
 http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us" group-title="🇺🇸 United States",ESPN Latin America Colombia (1080p)
 http://181.78.211.244:8005/play/a08q/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" group-title="🇺🇸 United States",Nickelodeon (1080p)
-https://tvnow.hostless.app/nickelodeon.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us" group-title="🇺🇸 United States",Disney Channel (720p)
-https://tvnow.hostless.app/disney-channel.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" group-title="🇺🇸 United States",Disney Junior (720p)
-https://tvnow.hostless.app/disney-junior.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" group-title="🇺🇸 United States",Disney XD (720p)
-https://tvnow.hostless.app/disney-xd.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" group-title="🇺🇸 United States",Cartoon Network (1080p)
-https://tvnow.hostless.app/cartoon-network.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us" group-title="🇺🇸 United States",Nicktoons (1080p)
-https://tvnow.hostless.app/nicktoons.m3u8
-#EXTINF:-1 tvg-id="NickJr.us" group-title="🇺🇸 United States",Nick Jr. (1080p)
-https://tvnow.hostless.app/nick-jr.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us" group-title="🇺🇸 United States",Telemundo WKAQ-TV (1080p)
 http://38.107.110.140:61400/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" group-title="🇺🇸 United States",Comedy Central (1080p)
-https://tvnow.hostless.app/comedy-central.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmerica.us" group-title="🇺🇸 United States",Comedy Central Latin America (1080p)
+http://190.93.224.42/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="TomSingsTV.us" group-title="🇺🇸 United States",Tom Sings TV (576p)
+https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" group-title="🇺🇸 United States",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="30AGeorgiaHollywoodReview.us" group-title="🇺🇸 United States",30A Georgia Hollywood Review TV (720p)
@@ -11171,8 +11263,6 @@ https://aegis-cloudfront-1.tubi.video/e1638fe1-8df0-470a-9fa9-b515ca7ca18e/maste
 https://aegis-cloudfront-1.tubi.video/bf25c5e4-9d1e-4b3e-a6c3-5f5578a81382/playlist.m3u8
 #EXTINF:-1 tvg-id="FearFactor.us" group-title="🇺🇸 United States",Fear Factor (720p)
 https://aegis-cloudfront-1.tubi.video/2a9fb8e7-51c2-40d0-9cc0-6eb963199568/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 2 Detroit MI (WJBK) (720p)
-https://aegis-cloudfront-1.tubi.video/5689247c-331e-4444-92e1-f7cc21377360/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",FOX 2 San Francisco CA (KTVU) (720p)
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" group-title="🇺🇸 United States",FOX 5 New York NY (WNYW) (720p)
@@ -12053,6 +12143,8 @@ https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News UK HD (1080p)
 http://45.153.96.44:8001
+#EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News UK HD (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_news/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="📰 International News",BBC News (720p)
