@@ -105,10 +105,6 @@
 <channel site="chaines-tv.orange.fr" site_id="4139" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_t18%2F20250515_092552%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="T18.fr">T18</channel>
 <channel site="chaines-tv.orange.fr" site_id="90353" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tebeo%2F20250806_161846%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TebeoTV.fr">TEBEO</channel>
 <channel site="chaines-tv.orange.fr" site_id="90397" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tn_tv%2F20180108_141727%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TNTV.pf">TAHITI NUI TELEVISION</channel>
-<channel site="chaines-tv.orange.fr" site_id="1179" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_africa%2F20230831_150807%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceAfrica.fr">TRACE AFRICA</channel>
-<channel site="chaines-tv.orange.fr" site_id="753" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_tropical%2F20230831_150807%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceCaribbean.fr">TRACE CARIBBEAN</channel>
-<channel site="chaines-tv.orange.fr" site_id="2022" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_gospel%2F20230831_150807%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceGospel.fr">TRACE GOSPEL</channel>
-<channel site="chaines-tv.orange.fr" site_id="2977" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_trace_vanilla%2F20230324_101810%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TraceVanillaIslands.fr">TRACE VANILLA</channel>
 <channel site="chaines-tv.orange.fr" site_id="90352" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_tvr%2F20250515_162803%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="TVR.fr">TVR RENNES 35</channel>
 <channel site="chaines-tv.orange.fr" site_id="90350" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_vosgestv%2F20250515_155309%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="VosgesTV.fr">VOSGES TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="1129" lang="it" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_rai_news_24%2F20241112_171532%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="RaiNews24.it">RAI NEWS 24</channel>
@@ -196,8 +192,6 @@
 <channel site="dsmart.com.tr" site_id="5dfc9faacfef0b201d2246b5" lang="tr" xmltv_id="LoveNature.ca">Love Nature</channel>
 <channel site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60626e" lang="tr" xmltv_id="NBATV.us">NBA TV</channel>
 <channel site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606269" lang="tr" xmltv_id="FX.us">FX</channel>
-<channel site="dstv.com" site_id="nga#325" lang="en" xmltv_id="TraceNaija.fr">TRACE Naija</channel>
-<channel site="dstv.com" site_id="nga#333" lang="en" xmltv_id="TraceJama.fr">Trace Jama</channel>
 <channel site="dstv.com" site_id="nga#348" lang="en" xmltv_id="EWTN.us">Eternal Word Television Network</channel>
 <channel site="entertainment.ie" site_id="animal-planet" lang="en" xmltv_id="AnimalPlanet.uk">Animal Planet</channel>
 <channel site="entertainment.ie" site_id="bbc-four" lang="en" xmltv_id="BBCFour.uk">BBC Four</channel>
@@ -1097,7 +1091,6 @@
 <channel site="neo.io" site_id="folx" lang="sl" xmltv_id="FolxMusicTelevision.de">Folx</channel>
 <channel site="neo.io" site_id="motorvision+" lang="de" xmltv_id="MotorvisionPlus.de">Motorvision+</channel>
 <channel site="neo.io" site_id="one-adria" lang="sl" xmltv_id="OneAdria.de">One Adria</channel>
-<channel site="nostv.pt" site_id="543" lang="pt" xmltv_id="TraceToca.fr">Trace Toca</channel>
 <channel site="nowplayer.now.com" site_id="713" lang="en" xmltv_id="TV5MondeStyle.fr">TV5MONDE Style</channel>
 <channel site="nzxmltv.com" site_id="xmltv/guide#10" lang="en" xmltv_id="TeReo.nz">Te Reo</channel>
 <channel site="nzxmltv.com" site_id="xmltv/guide#41" lang="en" xmltv_id="WairarapaTV.nz">Wairarapa TV</channel>
