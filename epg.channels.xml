@@ -28,8 +28,10 @@
 <channel site="canalplus.com" site_id="#612" lang="fr" xmltv_id="Automotolachaine.fr">AUTOMOTO LA CHAINE</channel>
 <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr">BFM BUSINESS</channel>
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
+<channel site="canalplus.com" site_id="#525" lang="fr" xmltv_id="CanalJ.fr">CANAL J</channel>
 <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr">CANAL+SPORT</channel>
 <channel site="canalplus.com" site_id="#681" lang="fr" xmltv_id="ChassePeche.fr">CHASSE ET PECHE</channel>
+<channel site="canalplus.com" site_id="#531" lang="fr" xmltv_id="CinePlusClassic.fr">CINE+ CLASSIC</channel>
 <channel site="canalplus.com" site_id="#64" lang="fr" xmltv_id="CNBCEurope.uk">CNBC</channel>
 <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr">CNEWS</channel>
 <channel site="canalplus.com" site_id="#806" lang="fr" xmltv_id="ComedyCentral.fr">COMEDY CENTRAL</channel>
@@ -85,6 +87,7 @@
 <channel site="chaines-tv.orange.fr" site_id="90550" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_cctvf%2F20241114_183854%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CGTNFrench.cn">CGTN Français</channel>
 <channel site="chaines-tv.orange.fr" site_id="1989" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_clubbingtv%2F20151026_092415%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="ClubbingTV.us">CLUBBING TV</channel>
 <channel site="chaines-tv.orange.fr" site_id="2037" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_CrimeDistrict%2F20160211_110558%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="CrimeDistrict.fr">CRIME DISTRICT</channel>
+<channel site="chaines-tv.orange.fr" site_id="58" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_disney_channel%2F20241217_180528%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="DisneyChannel.fr">DISNEY CHANNEL</channel>
 <channel site="chaines-tv.orange.fr" site_id="1996" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_fashiontv%2F20220128_093134%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FashionTVEurope.fr">FASHIONTV PARIS</channel>
 <channel site="chaines-tv.orange.fr" site_id="90406" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_food_network%2F20210608_154814%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="FoodNetwork.us">FOOD NETWORK</channel>
 <channel site="chaines-tv.orange.fr" site_id="90515" lang="fr" logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos%2Fv2%2Flogos%2Flivetv_iqraa%2F20191107_103814%2FmobileAppliDark%2Flogo_183x183.png?service=LIVE&amp;amp;device=W_PC" xmltv_id="IqraTV.uk">IQRAA</channel>
@@ -351,7 +354,6 @@
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
 <channel site="guida.tv" site_id="77686988/mediaset-extra" lang="it" xmltv_id="MediasetExtra.it">Mediaset Extra</channel>
 <channel site="guida.tv" site_id="77688384/mediaset-20" lang="it" xmltv_id="20.it">Mediaset 20</channel>
-<channel site="guida.tv" site_id="79797766/sky-italian-boomerang" lang="it" xmltv_id="Boomerang.it">Sky Italian Boomerang</channel>
 <channel site="guida.tv" site_id="80698367/pesca" lang="it" xmltv_id="PescaeCaccia.it">Pesca</channel>
 <channel site="guida.tv" site_id="82657185/rai-gulp" lang="it" xmltv_id="RaiGulp.it">Rai gulp</channel>
 <channel site="guida.tv" site_id="82657377/rai-movie" lang="it" xmltv_id="RaiMovie.it">RAI Movie</channel>
@@ -360,6 +362,7 @@
 <channel site="guida.tv" site_id="82847673/rtl-1025" lang="it" xmltv_id="RTL1025TV.it">RTL 102.5</channel>
 <channel site="guida.tv" site_id="83495451/euronews" lang="it" xmltv_id="EuronewsItalian.fr">Euronews</channel>
 <channel site="guida.tv" site_id="83807384/sport-italia" lang="it" xmltv_id="Sportitalia.it">Sport Italia</channel>
+<channel site="guida.tv" site_id="83837049/sky-sport-f1" lang="it" xmltv_id="SkySportF1.it">Sky Sport F1</channel>
 <channel site="guidatv.sky.it" site_id="DTH#462" lang="it" xmltv_id="DeejayTV.it">Deejay TV</channel>
 <channel site="guidatv.sky.it" site_id="DTH#6611" lang="it" xmltv_id="HorseTV.it">Horse TV HD</channel>
 <channel site="guidatv.sky.it" site_id="DTH#6626" lang="it" xmltv_id="QVC.it">QVC</channel>
@@ -1059,6 +1062,7 @@
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
 <channel site="melita.com" site_id="80429c96-4a21-43a5-8380-ce83e3c42153" lang="it" xmltv_id="ClassTVModa.it">TV Moda</channel>
 <channel site="melita.com" site_id="dac0cc07-c3f1-4753-a1b6-fd9465ba2e20" lang="en" xmltv_id="CartoonitoCEE.uk">Boomerang</channel>
+<channel site="meo.pt" site_id="CART" lang="pt" xmltv_id="CartoonNetworkWesternEurope.uk">Cartoon Network</channel>
 <channel site="meo.pt" site_id="DAZN3" lang="pt" xmltv_id="DAZN3.uk">DAZN 3</channel>
 <channel site="meo.pt" site_id="DAZN4" lang="pt" xmltv_id="DAZN4.uk">DAZN 4</channel>
 <channel site="meo.pt" site_id="DAZN5" lang="pt" xmltv_id="DAZN5.uk">DAZN 5</channel>
