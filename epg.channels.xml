@@ -29,11 +29,13 @@
 <channel site="canalplus.com" site_id="#645" lang="fr" xmltv_id="BFMBusiness.fr">BFM BUSINESS</channel>
 <channel site="canalplus.com" site_id="#633" lang="fr" xmltv_id="BFMTV.fr">BFM TV</channel>
 <channel site="canalplus.com" site_id="#525" lang="fr" xmltv_id="CanalJ.fr">CANAL J</channel>
+<channel site="canalplus.com" site_id="#301" lang="fr" xmltv_id="CanalPlus.fr">CANAL+</channel>
 <channel site="canalplus.com" site_id="#177" lang="fr" xmltv_id="CanalPlusSport.fr">CANAL+SPORT</channel>
 <channel site="canalplus.com" site_id="#681" lang="fr" xmltv_id="ChassePeche.fr">CHASSE ET PECHE</channel>
 <channel site="canalplus.com" site_id="#531" lang="fr" xmltv_id="CinePlusClassic.fr">CINE+ CLASSIC</channel>
 <channel site="canalplus.com" site_id="#64" lang="fr" xmltv_id="CNBCEurope.uk">CNBC</channel>
 <channel site="canalplus.com" site_id="#480" lang="fr" xmltv_id="CNews.fr">CNEWS</channel>
+<channel site="canalplus.com" site_id="#534" lang="fr" xmltv_id="ComediePlus.fr">COMEDIE+</channel>
 <channel site="canalplus.com" site_id="#806" lang="fr" xmltv_id="ComedyCentral.fr">COMEDY CENTRAL</channel>
 <channel site="canalplus.com" site_id="#513" lang="fr" xmltv_id="CStar.fr">CSTAR</channel>
 <channel site="canalplus.com" site_id="#781" lang="fr" xmltv_id="DasErste.de">ARD DAS ERSTE</channel>
@@ -232,7 +234,6 @@
 <channel site="epg.iptvx.one" site_id="mcm-pop" lang="ru" xmltv_id="MCMPop.fr">MCM Pop</channel>
 <channel site="epg.iptvx.one" site_id="milan-it" lang="ru" xmltv_id="MilanTV.it">Milan TV</channel>
 <channel site="epg.iptvx.one" site_id="mtv-de" lang="ru" xmltv_id="MTV.de">MTV DE</channel>
-<channel site="epg.iptvx.one" site_id="mtv-live-us" lang="ru" xmltv_id="MTVLive.us">MTV Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="nautical-channel" lang="ru" xmltv_id="NauticalChannel.it">Nautical Channel</channel>
 <channel site="epg.iptvx.one" site_id="nfl-network-us" lang="ru" xmltv_id="NFLNetwork.us">NFL Network [US]</channel>
 <channel site="epg.iptvx.one" site_id="nhl-network-us" lang="ru" xmltv_id="NHLNetwork.us">NHL Network [US]</channel>
@@ -349,6 +350,7 @@
 <channel site="guida.tv" site_id="73838580/super" lang="it" xmltv_id="Super.it">Super!</channel>
 <channel site="guida.tv" site_id="73845048/tv-2000" lang="it" xmltv_id="TV2000.it">TV 2000</channel>
 <channel site="guida.tv" site_id="73846767/comedy-central" lang="it" xmltv_id="ComedyCentral.it">Comedy Central</channel>
+<channel site="guida.tv" site_id="73847873/nickelodeon" lang="it" xmltv_id="Nickelodeon.it">Nickelodeon</channel>
 <channel site="guida.tv" site_id="73847874/nick-jr" lang="it" xmltv_id="NickJr.it">Nick Jr.</channel>
 <channel site="guida.tv" site_id="76655373/la-5" lang="it" xmltv_id="La5.it">La 5</channel>
 <channel site="guida.tv" site_id="76655568/la7d" lang="it" xmltv_id="LA7d.it">La7d</channel>
