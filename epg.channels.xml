@@ -59,6 +59,7 @@
 <channel site="canalplus.com" site_id="#352" lang="fr" xmltv_id="M6Music.fr">M6 MUSIC</channel>
 <channel site="canalplus.com" site_id="#613" lang="fr" xmltv_id="Mangas.fr">MANGAS</channel>
 <channel site="canalplus.com" site_id="#580" lang="fr" xmltv_id="Melody.fr">MELODY</channel>
+<channel site="canalplus.com" site_id="#560" lang="fr" xmltv_id="Mezzo.fr">MEZZO</channel>
 <channel site="canalplus.com" site_id="#268" lang="fr" xmltv_id="MezzoLive.fr">MEZZO LIVE</channel>
 <channel site="canalplus.com" site_id="#470" lang="fr" xmltv_id="MTV.fr">MTV</channel>
 <channel site="canalplus.com" site_id="#591" lang="fr" xmltv_id="Nickelodeon.fr">NICKELODEON</channel>
@@ -120,6 +121,7 @@
 <channel site="content.astro.com.my" site_id="428" lang="en" xmltv_id="NHKWorldPremium.jp">NHK World Premium</channel>
 <channel site="content.astro.com.my" site_id="447" lang="en" xmltv_id="LifetimeAsia.us">Lifetime HD</channel>
 <channel site="content.astro.com.my" site_id="452" lang="en" xmltv_id="BBCEarth.uk">BBC Earth</channel>
+<channel site="content.astro.com.my" site_id="458" lang="ms" xmltv_id="BBCFirst.uk">BBC First HD</channel>
 <channel site="content.astro.com.my" site_id="465" lang="en" xmltv_id="MoonbugKids.uk">Moonbug</channel>
 <channel site="cubmu.com" site_id="234" lang="id" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
 <channel site="cubmu.com" site_id="244" lang="id" xmltv_id="DaystarTV.us">DayStar</channel>
@@ -217,7 +219,6 @@
 <channel site="epg.iptvx.one" site_id="abc-news-live-us" lang="ru" xmltv_id="ABCNewsLive.us">ABC News Live [US]</channel>
 <channel site="epg.iptvx.one" site_id="cartoon-network" lang="ru" xmltv_id="CartoonNetwork.us">Cartoon Network</channel>
 <channel site="epg.iptvx.one" site_id="cinemax" lang="ru" xmltv_id="Cinemax.us">Cinemax</channel>
-<channel site="epg.iptvx.one" site_id="cnbc-us" lang="ru" xmltv_id="CNBC.us">CNBC [US]</channel>
 <channel site="epg.iptvx.one" site_id="discovery-channel" lang="ru" xmltv_id="DiscoveryChannel.us">Discovery Channel</channel>
 <channel site="epg.iptvx.one" site_id="ducktv" lang="ru" xmltv_id="ducktv.sk">ducktv</channel>
 <channel site="epg.iptvx.one" site_id="english-club-tv" lang="ru" xmltv_id="EnglishClubTV.uk">English Club TV</channel>
@@ -282,6 +283,7 @@
 <channel site="freeview.co.uk" site_id="64377#30465" lang="en" xmltv_id="TVWarehouse.uk">TV Warehouse+1</channel>
 <channel site="freeview.co.uk" site_id="64257#12298" lang="en" xmltv_id="UW.uk">U&amp;W</channel>
 <channel site="freeview.co.uk" site_id="64257#14464" lang="en" xmltv_id="WildEarth.za">WildEarth</channel>
+<channel site="gatotv.com" site_id="amc_espana" lang="es" xmltv_id="AMCEurope.uk">Canal AMC (España)</channel>
 <channel site="gatotv.com" site_id="axn_andes" lang="es" xmltv_id="AXNLatinAmerica.us">Canal AXN (Andes)</channel>
 <channel site="gatotv.com" site_id="babyfirst_tv" lang="es" xmltv_id="BabyFirst.us">Canal BabyFirst TV</channel>
 <channel site="gatotv.com" site_id="cartoon_network_mexico" lang="es" xmltv_id="CartoonNetworkLatinAmerica.us">Canal Cartoon Network (México)</channel>
@@ -629,7 +631,6 @@
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-69154308e449c6fdde65a661" lang="en" xmltv_id="UndercoverBossGlobal.us">Undercover Boss</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f" lang="en" xmltv_id="Unidentified.us">Unidentified</channel>
 <channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-6449369eb3ff17382cae5816" lang="en" xmltv_id="UnsolvedMysteries.us">Unsolved Mysteries</channel>
-<channel site="i.mjh.nz" site_id="Plex/ca#647f8d22a2fc3fadb4721685-61ddcc6023daf618ed44c29f" lang="en" xmltv_id="WantedDeadorAlive.us">Wanted: Dead or Alive</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-621672612c2627c068e73ad6" lang="en" xmltv_id="WatchitKID.us">Watch it Kid</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5fd115b8b7ef8d002dcf1817" lang="en" xmltv_id="WaypointTV.us">Waypoint TV</channel>
 <channel site="i.mjh.nz" site_id="Plex/au#697140a85d851f5e69414688-5f0ff266d71dcb00449ec030" lang="en" xmltv_id="WeatherSpy.us">WeatherSpy</channel>
@@ -1049,6 +1050,7 @@
 <channel site="m.tv.sms.cz" site_id="Wild+TV" lang="en" xmltv_id="WildTV.ca">Wild TV</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFinfo" lang="de" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
 <channel site="m.tv.sms.cz" site_id="ZDFneo" lang="de" xmltv_id="ZDFneo.de">ZDFneo</channel>
+<channel site="maxstream.tv" site_id="0_84kdjuht" lang="id" xmltv_id="CBeebiesAsia.uk">CBeebies</channel>
 <channel site="maxstream.tv" site_id="0_enfa8a2h" lang="id" xmltv_id="DaVinciAsia.de">Da Vinci Learning</channel>
 <channel site="maxstream.tv" site_id="0_h4cdmhi1" lang="id" xmltv_id="DreamWorksChannelAsia.us">DreamWorks</channel>
 <channel site="melita.com" site_id="024900dd-988d-4875-b86d-b1615556dfe4" lang="en" xmltv_id="GODTV.uk">GOD TV</channel>
